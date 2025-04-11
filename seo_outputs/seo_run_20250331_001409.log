@@ -1,0 +1,24 @@
+[2025-03-31 00:14:09] Loaded 1 products from fragrance_products.xlsx
+[2025-03-31 00:14:09] 🚀 Starting Fragrance SEO Content Generator
+[2025-03-31 00:14:09] 📊 Found 1 products in Excel file
+[2025-03-31 00:14:09] 🚀 Starting SEO content generation for products 1-1 of 1
+[2025-03-31 00:14:09] 🔄 [1/1] Processing: ARMAF CLUB DE NUIT INTENSE (M) EDT 105ML (ID: 16193)
+[2025-03-31 00:14:09] 📤 Sending request to Claude for ARMAF CLUB DE NUIT INTENSE (M) EDT 105ML
+[2025-03-31 00:14:36] 📥 Received response from Claude (5330 chars)
+[2025-03-31 00:14:36] 📄 Saved raw Claude response to seo_outputs\response_16193.txt
+[2025-03-31 00:14:36] Extracted 10 non-empty fields
+[2025-03-31 00:14:36] 📁 Saved content to seo_outputs\product_16193_ARMAF_CLUB_DE_NUIT_INTENSE_(M)_EDT_105ML.json
+[2025-03-31 00:14:36] Image metadata being sent:
+[2025-03-31 00:14:36]   - alt_text: Armaf Club De Nuit Intense Man EDT 105ml black bot...
+[2025-03-31 00:14:36]   - image_title: ARMAF CLUB DE NUIT INTENSE MAN EDT 105ML Premium M...
+[2025-03-31 00:14:36]   - image_caption: Iconic black bottle with gold emblem – the signatu...
+[2025-03-31 00:14:36]   - image_description: Armaf Club De Nuit Intense Man EDT 105ml in its di...
+[2025-03-31 00:14:37] Found existing image ID: 15833
+[2025-03-31 00:14:38] ⚠️ Could not update image via media API: 401
+[2025-03-31 00:14:43] ✅ Updated product 16193 successfully
+[2025-03-31 00:14:43]   - Updated with 6 tags
+[2025-03-31 00:14:43]   - Updated with 12 meta fields
+[2025-03-31 00:14:43]   - Updated with 1 images
+[2025-03-31 00:14:43]   - Saved API response to seo_outputs\success_16193.json
+[2025-03-31 00:14:46] ✅ Completed batch processing: 1 successful, 0 failed
+[2025-03-31 00:14:46] 🏁 Process completed: 1 products updated successfully, 0 failed

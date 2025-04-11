@@ -1,0 +1,97 @@
+## 🔹 Product Description (HTML Format):
+```html
+<h2><strong>Mega Glo Lip & Cheek Color - Coral Dream</strong>: The Ultimate Dual-Purpose Makeup Essential</h2>
+
+<p>Experience the vibrant allure of <strong>Coral Dream</strong>, a stunning multi-use <a href="https://xsellpoint.com/product-category/new-arrival/">makeup product</a> that brings effortless beauty to your daily routine. This <strong>versatile lip and cheek tint</strong> delivers a radiant coral flush that complements all skin tones while providing long-lasting color that transitions seamlessly from day to night. ✨</p>
+
+<h3>Product Information</h3>
+<table border="1" cellpadding="5">
+  <tr>
+    <th>Brand</th>
+    <td>Wet n Wild</td>
+  </tr>
+  <tr>
+    <th>Product Type</th>
+    <td><strong>Cream Blush & Lip Tint</strong></td>
+  </tr>
+  <tr>
+    <th>Size</th>
+    <td>9g / 0.32oz</td>
+  </tr>
+  <tr>
+    <th>Finish</th>
+    <td>Dewy, Natural Glow</td>
+  </tr>
+  <tr>
+    <th>Formulation</th>
+    <td>Cream-to-powder</td>
+  </tr>
+</table>
+
+<h3>Color Profile</h3>
+<table border="1" cellpadding="5">
+  <tr>
+    <th>Base Tone</th>
+    <td>Warm Coral</td>
+  </tr>
+  <tr>
+    <th>Undertone</th>
+    <td>Peachy-Pink</td>
+  </tr>
+  <tr>
+    <th>Finish</th>
+    <td>Luminous Sheen</td>
+  </tr>
+</table>
+
+<h4>Key Features of <strong>Mega Glo Lip & Cheek Color</strong></h4>
+<ul>
+  <li>🌸 <strong>Dual-purpose formula</strong> for lips and cheeks reduces makeup bag clutter</li>
+  <li>💫 Buildable color intensity from subtle flush to vibrant pop</li>
+  <li>🌿 Infused with <a href="https://www.wikiparfum.com/ingredients/murumuru-butter">nourishing ingredients</a> including vitamin E and murumuru butter</li>
+  <li>💎 Blendable cream-to-powder formula for seamless application</li>
+  <li>✨ <strong>Long-wearing color</strong> that lasts up to 8 hours</li>
+  <li>🔥 Lightweight, non-greasy texture that feels comfortable all day</li>
+</ul>
+
+<p>The <strong>Coral Dream</strong> shade is a universally flattering warm coral with subtle golden shimmer that instantly brightens the complexion. This <a href="https://xsellpoint.com/product-category/best-sellers/">bestselling makeup essential</a> creates a natural-looking flush that mimics the radiance of sun-kissed skin.</p>
+
+<h3>About Wet n Wild</h3>
+<p>Founded in 1979, Wet n Wild has revolutionized the beauty industry by offering high-quality, cruelty-free cosmetics at affordable prices. The brand is committed to creating innovative <a href="https://www.wikiparfum.com/ingredients/vegan-cosmetics">vegan-friendly products</a> that perform exceptionally well while remaining accessible to all beauty enthusiasts. The <strong>Mega Glo collection</strong> represents their dedication to creating multi-functional products that deliver professional results.</p>
+
+<h4>How to Apply Your <strong>Coral Dream Lip & Cheek Color</strong></h4>
+<p>For cheeks: Use fingertips or a <a href="https://xsellpoint.com/product-category/shop-by-brand/brand-international/estee-lauder/">makeup brush</a> to tap a small amount onto the apples of your cheeks, blending upward toward your temples for a natural flush.</p>
+
+<p>For lips: Apply directly from the pan using your fingertip or a lip brush, building intensity as desired. Can be worn alone for a stained effect or topped with clear gloss for added dimension.</p>
+
+<h3>Frequently Asked Question</h3>
+<p><strong>Q: Will Coral Dream work on all skin tones?</strong><br>
+A: Yes! The <strong>Mega Glo Lip & Cheek Color in Coral Dream</strong> has been specially formulated to complement all skin tones. On fair skin, it creates a vibrant pop of color; on medium skin, it offers a natural flush; and on deeper skin tones, it provides a subtle luminous glow. The buildable formula allows you to customize the intensity for your perfect look.</p>
+```
+
+## 🔹 Short Description (Max 50 words):
+Discover Mega Glo Lip & Cheek Color in Coral Dream, a versatile cream-to-powder formula that delivers radiant, buildable color for both lips and cheeks. Infused with nourishing ingredients, this multi-tasking beauty essential creates a natural, sun-kissed glow that lasts all day.
+
+## 🔹 SEO Title (Max 60 characters):
+Mega Glo Lip & Cheek Color: 8-Hour Wear Coral Dream Tint
+
+## 🔹 Meta Description (Max 155 characters):
+Transform your makeup routine with Mega Glo Lip & Cheek Color in Coral Dream. This versatile 2-in-1 cream tint delivers long-lasting, radiant color. Shop now!
+
+## 🔹 Alt Text for Product Images:
+Wet n Wild Mega Glo Lip and Cheek Color in Coral Dream cream tint compact
+
+## 🔹 Image Title:
+Mega Glo Lip & Cheek Color - Coral Dream Multi-Use Cream Tint
+
+## 🔹 Image Caption:
+Vibrant coral cream tint for lips and cheeks with a luminous, buildable finish.
+
+## 🔹 Image Description:
+Wet n Wild Mega Glo Lip & Cheek Color in Coral Dream features a versatile cream-to-powder formula that delivers radiant color for both lips and cheeks.
+
+## 🔹 SEO Tags (6 High-Search Keywords):
+cream blush, lip and cheek tint, coral makeup, wet n wild mega glo, multi-use makeup, cream to powder blush
+
+## 🔹 Focus Keywords:
+lip and cheek color, coral makeup, cream blush, multi-use tint

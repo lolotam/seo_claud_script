@@ -1,0 +1,101 @@
+🔹 Product Description (HTML Format):
+```html
+<h2><strong>King Eau De Parfum</strong> - A Regal Masculine Fragrance</h2>
+
+<p>Experience the majestic power of <strong>King Eau De Parfum</strong>, a luxurious 100ml fragrance crafted for the modern monarch. This <a href="https://xsellpoint.com/product-category/oriental-fragrance/arabic-perfume/">Arabic perfume</a> embodies strength, sophistication, and uncompromising masculinity with its rich blend of premium ingredients. 💎</p>
+
+<h3>The Essence of <strong>Royal Masculine Fragrance</strong></h3>
+
+<p><strong>King EDP</strong> opens with an invigorating burst of citrus and spices that command attention, before revealing a complex heart that balances aromatic woods with subtle floral notes. The remarkable longevity ensures your presence is felt long after you've left the room. This <a href="https://www.wikiparfum.com/notes/oud">oud-infused</a> masterpiece is perfect for the man who demands nothing but excellence. ✨</p>
+
+<table border="1" cellpadding="5">
+  <tr>
+    <th colspan="2">Product Information</th>
+  </tr>
+  <tr>
+    <td>Size</td>
+    <td>100ml</td>
+  </tr>
+  <tr>
+    <td>Gender</td>
+    <td>Men</td>
+  </tr>
+  <tr>
+    <td>Product Type</td>
+    <td>Eau De Parfum</td>
+  </tr>
+  <tr>
+    <td>Concentration</td>
+    <td>Eau De Parfum (EDP)</td>
+  </tr>
+  <tr>
+    <td>Brand</td>
+    <td>King</td>
+  </tr>
+</table>
+
+<h4>Fragrance Profile of <strong>King Eau De Parfum</strong></h4>
+
+<table border="1" cellpadding="5">
+  <tr>
+    <th colspan="2">Fragrance Notes</th>
+  </tr>
+  <tr>
+    <td>Top Notes</td>
+    <td>Bergamot, Black Pepper, Saffron</td>
+  </tr>
+  <tr>
+    <td>Heart Notes</td>
+    <td>Cedarwood, Rose, Jasmine</td>
+  </tr>
+  <tr>
+    <td>Base Notes</td>
+    <td><a href="https://www.wikiparfum.com/notes/amber">Amber</a>, Oud, Vanilla, Musk</td>
+  </tr>
+</table>
+
+<h3>Key Features of <strong>King Eau De Parfum</strong></h3>
+<ul>
+  <li>🔥 Exceptional longevity (8+ hours)</li>
+  <li>🌿 Premium natural ingredients</li>
+  <li>💫 Moderate to strong sillage</li>
+  <li>✨ Elegant glass bottle with royal design elements</li>
+  <li>💎 Suitable for evening wear and special occasions</li>
+</ul>
+
+<p>The <strong>King fragrance</strong> collection draws inspiration from ancient royal traditions, where monarchs wore distinctive scents as symbols of their power and status. This <a href="https://xsellpoint.com/product-category/best-sellers/">best-selling</a> masculine fragrance combines traditional Middle Eastern perfumery with contemporary sophistication, resulting in a scent that's both timeless and modern.</p>
+
+<p>If you appreciate the royal character of King EDP, you might also enjoy <a href="https://xsellpoint.com/product/damou-al-dahab-edp-100ml/">Damou Al Dahab EDP</a>, another exceptional fragrance in our <a href="https://www.wikiparfum.com/brands/luxury">luxury</a> collection.</p>
+
+<h4>Frequently Asked Question</h4>
+
+<p><strong>How long does King Eau De Parfum last on skin?</strong><br>
+King Eau De Parfum offers exceptional longevity, typically lasting 8-10 hours on skin. The <strong>premium masculine fragrance</strong> contains high-quality concentrated oils that bond with your skin's natural chemistry. For maximum longevity, apply to pulse points after showering when skin is still slightly damp, and layer with unscented lotion to create a base that helps the fragrance adhere better to your skin. 🔥</p>
+```
+
+🔹 Short Description (Max 50 words):
+Discover King Eau De Parfum, a majestic 100ml masculine fragrance blending bergamot, saffron, cedarwood, and oud. This royal Arabic perfume delivers exceptional longevity and commanding presence, perfect for the modern man who embodies strength and sophistication.
+
+🔹 SEO Title (Max 60 characters):
+King Eau De Parfum | Premium Masculine Fragrance | 100ml
+
+🔹 Meta Description (Max 155 characters):
+Experience the royal essence of King Eau De Parfum, a premium masculine fragrance with oud, amber & spices. Shop now for this long-lasting 100ml Arabic perfume!
+
+🔹 Alt Text for Product Images:
+King Eau De Parfum 100ml Premium Masculine Arabic Fragrance Bottle
+
+🔹 Image Title:
+King Eau De Parfum 100ml Luxury Masculine Fragrance
+
+🔹 Image Caption:
+The majestic King Eau De Parfum – where royal heritage meets modern masculinity ✨
+
+🔹 Image Description:
+Elegant 100ml bottle of King Eau De Parfum featuring premium masculine fragrance with oud, amber and spice notes in luxurious packaging.
+
+🔹 SEO Tags (6 High-Search Keywords):
+king eau de parfum, masculine fragrance, arabic perfume, oud fragrance, long-lasting cologne, luxury men's perfume
+
+🔹 Focus Keywords:
+king eau de parfum, premium masculine fragrance, arabic perfume, royal fragrance

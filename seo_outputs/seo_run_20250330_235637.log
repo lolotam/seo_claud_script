@@ -1,0 +1,17 @@
+[2025-03-30 23:56:38] Loaded 1 products from fragrance_products.xlsx
+[2025-03-30 23:56:38] 🚀 Starting Fragrance SEO Content Generator
+[2025-03-30 23:56:38] 📊 Found 1 products in Excel file
+[2025-03-30 23:56:38] 🚀 Starting SEO content generation for products 1-1 of 1
+[2025-03-30 23:56:38] 🔄 [1/1] Processing: AFNAN 9 AM POUR FEMME 100ML WOMEN (ID: 16097)
+[2025-03-30 23:56:38] 📤 Sending request to Claude for AFNAN 9 AM POUR FEMME 100ML WOMEN
+[2025-03-30 23:57:05] 📥 Received response from Claude (5187 chars)
+[2025-03-30 23:57:05] 📄 Saved raw Claude response to seo_outputs\response_16097.txt
+[2025-03-30 23:57:05] Extracted 10 non-empty fields
+[2025-03-30 23:57:05] 📁 Saved content to seo_outputs\product_16097_AFNAN_9_AM_POUR_FEMME_100ML_WOMEN.json
+[2025-03-30 23:57:05] Prepared WooCommerce data with 6 tags and 7 meta fields
+[2025-03-30 23:57:09] ✅ Updated product 16097 successfully
+[2025-03-30 23:57:09]   - Updated with 6 tags
+[2025-03-30 23:57:09]   - Updated with 7 meta fields
+[2025-03-30 23:57:09]   - Saved API response to seo_outputs\success_16097.json
+[2025-03-30 23:57:12] ✅ Completed batch processing: 1 successful, 0 failed
+[2025-03-30 23:57:12] 🏁 Process completed: 1 products updated successfully, 0 failed

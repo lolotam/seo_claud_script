@@ -1,0 +1,36 @@
+[2025-03-31 01:18:18] Loaded 1 products from fragrance_products.xlsx
+[2025-03-31 01:18:18] 🚀 Starting Fragrance SEO Content Generator
+[2025-03-31 01:18:18] 📊 Found 1 products in Excel file
+[2025-03-31 01:18:18] ⚙️ Configuration: Start Index=0, Batch Size=None, Threads=1
+[2025-03-31 01:18:18] 🚀 Starting SEO content generation for products 1-1 of 1
+[2025-03-31 01:18:18] 🔄 [1/1] Processing: AFNAN TRIBUTE BLUE EDP 100ML (ID: 16123) - 100.0% complete
+[2025-03-31 01:18:18] 📤 Sending request to Claude for AFNAN TRIBUTE BLUE EDP 100ML
+[2025-03-31 01:18:42] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 01:18:42] 📥 Received response from Claude (4937 chars)
+[2025-03-31 01:18:42] 📄 Saved raw Claude response to seo_outputs\response_16123.txt
+[2025-03-31 01:18:42] Extracted 10 non-empty fields
+[2025-03-31 01:18:42] 📁 Saved content to seo_outputs\product_16123_AFNAN_TRIBUTE_BLUE_EDP_100ML.json
+[2025-03-31 01:18:43] Found existing image ID: 16093
+[2025-03-31 01:18:43] Attempting to update image ID 16093 with WordPress REST API
+[2025-03-31 01:18:43] Image data being sent: {"alt_text": "Afnan Tribute Blue EDP 100ML premium men's fragrance bottle with blue design", "title": {"rendered": "AFNAN TRIBUTE BLUE EDP 100ML Premium Men's Fragrance"}, "caption": {"rendered": "Afn...
+[2025-03-31 01:18:44] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 01:18:44] Updating product 16123 with WooCommerce API
+[2025-03-31 01:18:49] ✅ Updated product 16123 successfully
+[2025-03-31 01:18:49]   - Updated with 6 tags
+[2025-03-31 01:18:49]   - Updated with 19 meta fields
+[2025-03-31 01:18:49]   - Updated with 1 images
+[2025-03-31 01:18:49] Generated permalink slug from primary keyword: afnan-tribute-blue-edp
+[2025-03-31 01:18:53] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 01:18:53]   - Saved API response to seo_outputs\success_16123.json
+[2025-03-31 01:18:55] ✅ Completed batch processing: 1 successful, 0 failed
+[2025-03-31 01:18:55] 
+==================================================
+[2025-03-31 01:18:55] 📊 SEO GENERATION SUMMARY
+[2025-03-31 01:18:55] ==================================================
+[2025-03-31 01:18:55] Start Time: 2025-03-31 01:18:18
+[2025-03-31 01:18:55] End Time:   2025-03-31 01:18:55
+[2025-03-31 01:18:55] Duration:   0:00:36.994864
+[2025-03-31 01:18:55] Products:   1 total, 1 successful, 0 failed
+[2025-03-31 01:18:55] Success Rate: 100.00%
+[2025-03-31 01:18:55] ==================================================
+[2025-03-31 01:18:55] Full report saved to: seo_outputs\summary_report_20250331_011818.json

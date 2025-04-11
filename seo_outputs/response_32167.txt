@@ -1,0 +1,102 @@
+🔹 Product Description (HTML Format):
+<div class="product-description">
+    <h2>Experience <strong>White Diamonds Body Powder</strong> - Elizabeth Taylor's Timeless Elegance</h2>
+    
+    <p>Indulge in the luxurious sensation of <strong>Elizabeth Taylor White Diamonds Body Powder</strong>, a 75g treasure that transforms your daily routine into a moment of celebrity-inspired glamour. This <a href="https://www.fragrantica.com/perfume/Elizabeth-Taylor/White-Diamonds-102.html" target="_blank">iconic scent</a> captured in silky powder form allows you to layer your favorite fragrance for lasting elegance throughout the day. ✨</p>
+    
+    <h3>The Essence of <strong>White Diamonds Body Powder</strong></h3>
+    
+    <p>Created by the legendary Elizabeth Taylor in 1991, <strong>White Diamonds</strong> remains one of the most successful celebrity fragrances of all time. This <a href="https://xsellpoint.com/product-category/best-sellers/" target="_blank">bestselling</a> body powder encapsulates the same sophisticated floral aldehyde composition that made the original perfume a classic, delivering a subtler way to enjoy this timeless scent. 💎</p>
+    
+    <table class="product-info">
+        <tr>
+            <th colspan="2">Product Information</th>
+        </tr>
+        <tr>
+            <td>Size</td>
+            <td>75g</td>
+        </tr>
+        <tr>
+            <td>Gender</td>
+            <td>Women</td>
+        </tr>
+        <tr>
+            <td>Product Type</td>
+            <td>Body Powder</td>
+        </tr>
+        <tr>
+            <td>Brand</td>
+            <td>Elizabeth Taylor</td>
+        </tr>
+        <tr>
+            <td>Fragrance Family</td>
+            <td>Floral Aldehyde</td>
+        </tr>
+    </table>
+    
+    <h4>Captivating <strong>Fragrance Notes</strong> of White Diamonds</h4>
+    
+    <table class="fragrance-notes">
+        <tr>
+            <th colspan="2">Fragrance Composition</th>
+        </tr>
+        <tr>
+            <td>Top Notes</td>
+            <td>Aldehydes, Bergamot, Neroli, Orange 🌿</td>
+        </tr>
+        <tr>
+            <td>Heart Notes</td>
+            <td>Egyptian Tuberose, Jasmine, Ylang-Ylang, Rose 🌸</td>
+        </tr>
+        <tr>
+            <td>Base Notes</td>
+            <td>Sandalwood, Amber, Oakmoss, Patchouli 🔥</td>
+        </tr>
+    </table>
+    
+    <h3>Key Features of <strong>White Diamonds Body Powder</strong></h3>
+    <ul>
+        <li>Silky-smooth texture that glides effortlessly on skin</li>
+        <li>Provides subtle fragrance that lasts throughout the day</li>
+        <li>Absorbs excess moisture for comfortable wear</li>
+        <li>Perfect for layering with <a href="https://xsellpoint.com/product-category/shop-by-brand/brand-international/estee-lauder/" target="_blank">other fragrances</a></li>
+        <li>Elegant packaging with signature White Diamonds design</li>
+        <li>Ideal for sensitive skin that finds liquid perfume too intense</li>
+    </ul>
+    
+    <h4>The Legacy of Elizabeth Taylor's <strong>White Diamonds</strong></h4>
+    
+    <p>Launched in 1991, White Diamonds was Elizabeth Taylor's passionate project and quickly became one of the most successful <a href="https://xsellpoint.com/product-category/new-arrival/" target="_blank">celebrity fragrances</a> ever created. The iconic actress, known for her love of actual diamonds, created this scent to capture the sparkling elegance and timeless beauty of her favorite jewels. Three decades later, this <strong>luxurious body powder</strong> continues her legacy of glamour and sophistication. 💫</p>
+    
+    <h4>Frequently Asked Question</h4>
+    
+    <p><strong>How should I apply White Diamonds Body Powder for the best effect?</strong></p>
+    <p>For optimal results, apply <strong>White Diamonds Body Powder</strong> after bathing to slightly damp skin using the included powder puff. Focus on pulse points and areas that tend to perspire for both fragrance enhancement and moisture absorption. For a more intense scent experience, layer with <a href="https://xsellpoint.com/product-category/shop-by-brand/brand-international/cartier/" target="_blank">matching fragrance products</a> from the White Diamonds collection, applying the powder as your final step to set and extend your signature scent.</p>
+</div>
+
+🔹 Short Description (Max 50 words):
+Experience timeless elegance with Elizabeth Taylor's White Diamonds Body Powder. This silky 75g powder features the iconic floral aldehyde fragrance with sparkling aldehydes, lush florals, and warm amber base notes. Perfect for layering or standalone use for a subtle, sophisticated scent experience.
+
+🔹 SEO Title (Max 60 characters):
+White Diamonds Body Powder 75g | Elizabeth Taylor's #1 Classic
+
+🔹 Meta Description (Max 155 characters):
+Discover Elizabeth Taylor's White Diamonds Body Powder (75g) - the luxurious, silky powder with iconic floral notes. Shop now for timeless elegance & sophistication!
+
+🔹 Alt Text for Product Images:
+Elizabeth Taylor White Diamonds Body Powder 75g luxury scented powder in elegant packaging
+
+🔹 Image Title:
+White Diamonds Body Powder by Elizabeth Taylor 75g
+
+🔹 Image Caption:
+Elizabeth Taylor's iconic White Diamonds in silky powder form – timeless elegance for everyday luxury.
+
+🔹 Image Description:
+Elizabeth Taylor White Diamonds Body Powder 75g in its signature packaging, featuring the luxurious floral aldehyde scent in silky powder form.
+
+🔹 SEO Tags (6 High-Search Keywords):
+elizabeth taylor white diamonds, luxury body powder, white diamonds perfume, scented body powder, elizabeth taylor fragrance, white diamonds 75g
+
+🔹 Focus Keywords:
+white diamonds body powder, elizabeth taylor white diamonds, luxury scented powder, floral aldehyde powder

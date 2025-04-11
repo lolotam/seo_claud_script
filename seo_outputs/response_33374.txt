@@ -1,0 +1,101 @@
+## 🔹 Product Description (HTML Format):
+```html
+<h2><strong>Black Opium Eau de Parfum</strong> - The Addictive Feminine Fragrance</h2>
+
+<p>Experience the captivating allure of <strong>YSL Black Opium</strong>, a seductively intoxicating women's fragrance that delivers an electrifying rush of energy and addiction. This <strong>90ml eau de parfum</strong> represents the perfect balance between light and dark, sweet and spicy, creating an irresistible signature scent that's impossible to forget. ✨</p>
+
+<h3>The Addictive Power of <strong>Black Opium Perfume</strong></h3>
+
+<p><strong>Black Opium EDP</strong> is the rebellious sister in the YSL fragrance family - dark, mysterious, and utterly captivating. The iconic black glitter bottle houses a <a href="https://www.wikiparfum.com/yves-saint-laurent-black-opium">coffee-infused fragrance</a> that awakens the senses with its bold combination of <strong>rich coffee accord</strong> and sensual vanilla, creating an addictive quality that has made it a <a href="https://xsellpoint.com/product-category/best-sellers/">bestselling perfume</a> worldwide. 🔥</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="2">Product Information</th>
+  </tr>
+  <tr>
+    <td>Size</td>
+    <td>90ml</td>
+  </tr>
+  <tr>
+    <td>Gender</td>
+    <td>Women</td>
+  </tr>
+  <tr>
+    <td>Product Type</td>
+    <td>Eau de Parfum</td>
+  </tr>
+  <tr>
+    <td>Concentration</td>
+    <td>Eau de Parfum</td>
+  </tr>
+  <tr>
+    <td>Brand</td>
+    <td>Yves Saint Laurent</td>
+  </tr>
+</table>
+
+<h4>Fragrance Profile: The Perfect Balance of Sweet and Sensual</h4>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="2">Fragrance Notes</th>
+  </tr>
+  <tr>
+    <td>Top Notes</td>
+    <td>Pink Pepper, Orange Blossom, Pear</td>
+  </tr>
+  <tr>
+    <td>Heart Notes</td>
+    <td>Coffee, Jasmine, Bitter Almond, Licorice</td>
+  </tr>
+  <tr>
+    <td>Base Notes</td>
+    <td>Vanilla, Patchouli, Cedar, Cashmere Wood</td>
+  </tr>
+</table>
+
+<h4>Key Features of <strong>YSL Black Opium</strong>:</h4>
+<ul>
+  <li>Iconic black glitter bottle with a unique rock 'n' roll aesthetic 💎</li>
+  <li>Addictive <a href="https://www.wikiparfum.com/note/coffee">coffee note</a> creates a distinctive signature scent</li>
+  <li>Long-lasting fragrance with impressive projection and sillage</li>
+  <li>Perfect for evening wear and special occasions</li>
+  <li>Sensual vanilla dry-down that evolves beautifully on the skin 🌸</li>
+  <li>Versatile enough for year-round wear</li>
+</ul>
+
+<h4>The Story Behind <strong>Black Opium</strong></h4>
+
+<p>Launched in 2014, <strong>YSL Black Opium</strong> was created to embody the edgy, rock 'n' roll spirit of the modern YSL woman. As a flanker to the classic Opium fragrance from 1977, Black Opium represents a contemporary reinterpretation that speaks to a new generation. The perfumers Nathalie Lorson, Marie Salamagne, Olivier Cresp, and Honorine Blanc collaborated to create this <a href="https://xsellpoint.com/product-category/oriental-fragrance/arabic-perfume/">oriental fragrance</a> masterpiece that has since become one of the most recognizable and beloved <a href="https://www.wikiparfum.com/category/gourmand">gourmand fragrances</a> in modern perfumery. 💫</p>
+
+<h4>Frequently Asked Question: How long does <strong>Black Opium</strong> last on skin?</h4>
+
+<p><strong>Black Opium EDP</strong> offers impressive longevity, typically lasting 7-9 hours on most skin types. The coffee and vanilla base notes act as natural fixatives, helping the fragrance maintain its presence throughout the day or evening. For maximum longevity, apply to pulse points and consider layering with the matching body lotion from the <a href="https://xsellpoint.com/product-category/new-arrival/">Black Opium collection</a>. The rich concentration of this eau de parfum ensures you'll leave a memorable scent trail wherever you go. 🌿</p>
+```
+
+## 🔹 Short Description (Max 50 words):
+Indulge in YSL Black Opium EDP (90ml), an addictive blend of rich coffee, sensual vanilla, and vibrant jasmine. This captivating women's fragrance creates an electrifying aura of mystery and seduction that's impossible to resist. The iconic glitter bottle houses pure addiction.
+
+## 🔹 SEO Title (Max 60 characters):
+Black Opium EDP 90ml: #1 Addictive Coffee Vanilla Fragrance
+
+## 🔹 Meta Description (Max 155 characters):
+Experience the addictive power of YSL Black Opium EDP 90ml with its rich coffee and vanilla notes. Shop now for this bestselling women's fragrance at XSellPoint!
+
+## 🔹 Alt Text for Product Images:
+YSL Black Opium EDP 90ml bottle with glitter finish and coffee vanilla fragrance notes
+
+## 🔹 Image Title:
+Black Opium Eau de Parfum by Yves Saint Laurent 90ml
+
+## 🔹 Image Caption:
+The iconic Black Opium EDP – where coffee addiction meets sensual vanilla in a glitter-embellished bottle.
+
+## 🔹 Image Description:
+YSL Black Opium Eau de Parfum 90ml in its signature black glitter bottle, featuring the addictive coffee and vanilla fragrance that has captivated women worldwide.
+
+## 🔹 SEO Tags (6 High-Search Keywords):
+black opium perfume, ysl black opium, black opium 90ml, coffee vanilla perfume, best women's perfume, long-lasting edp
+
+## 🔹 Focus Keywords:
+black opium eau de parfum, ysl black opium, coffee vanilla fragrance, addictive women's perfume

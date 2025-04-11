@@ -1,0 +1,11 @@
+[2025-03-30 23:33:14] Loaded 1 products from fragrance_products.xlsx
+[2025-03-30 23:33:14] 🚀 Starting Fragrance SEO Content Generator
+[2025-03-30 23:33:14] 📊 Found 1 products in Excel file
+[2025-03-30 23:33:14] 🚀 Starting SEO content generation for products 1-1 of 1
+[2025-03-30 23:33:14] 🔄 [1/1] Processing: Lalique Le Parfum Eau De Parfum - 100ml (ID: 33109)
+[2025-03-30 23:33:14] 📤 Sending request to Claude for Lalique Le Parfum Eau De Parfum - 100ml
+[2025-03-30 23:33:35] 📥 Received response from Claude (4248 chars)
+[2025-03-30 23:33:35] 📁 Saved content to seo_outputs\product_33109_Lalique_Le_Parfum_Eau_De_Parfum_-_100ml.json
+[2025-03-30 23:33:42] ✅ Updated product 33109 successfully
+[2025-03-30 23:33:45] ✅ Completed batch processing: 1 successful, 0 failed
+[2025-03-30 23:33:45] 🏁 Process completed: 1 products updated successfully, 0 failed

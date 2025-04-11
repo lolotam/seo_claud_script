@@ -1,0 +1,87 @@
+🔹 Product Description (HTML Format):
+```html
+<h2><strong>Desire Blue Ocean EDT for Men</strong> - A Refreshing Aquatic Adventure</h2>
+
+<p>Dive into the invigorating depths of <strong>Desire Blue Ocean EDT</strong>, a captivating <a href="https://www.wikiparfum.com/fragrance/dunhill-desire-blue-ocean">aquatic fragrance</a> designed for the modern man who embraces adventure and freedom. This <strong>150ml</strong> eau de toilette captures the essence of the boundless ocean, delivering a refreshing blend that awakens the senses and ignites the spirit. ✨</p>
+
+<h3>Product Information</h3>
+<table border="1" cellpadding="5">
+  <tr>
+    <th>Size</th>
+    <th>Gender</th>
+    <th>Product Type</th>
+    <th>Concentration</th>
+    <th>Brand</th>
+  </tr>
+  <tr>
+    <td>150ml</td>
+    <td>Men</td>
+    <td>Eau de Toilette</td>
+    <td>Medium</td>
+    <td>Desire</td>
+  </tr>
+</table>
+
+<h3>The <strong>Ocean-Inspired</strong> Fragrance Profile</h3>
+<table border="1" cellpadding="5">
+  <tr>
+    <th>Top Notes</th>
+    <th>Heart Notes</th>
+    <th>Base Notes</th>
+  </tr>
+  <tr>
+    <td>Bergamot, Marine Accord, Lemon</td>
+    <td>Lavender, Geranium, Aquatic Notes</td>
+    <td>Amber, Cedar, Musk</td>
+  </tr>
+</table>
+
+<h4>Key Features of <strong>Desire Blue Ocean</strong></h4>
+<ul>
+  <li>🌊 <strong>Fresh aquatic scent</strong> perfect for daily wear</li>
+  <li>🍋 Vibrant citrus opening that energizes the senses</li>
+  <li>🌿 Balanced with aromatic lavender and geranium</li>
+  <li>🔥 Long-lasting formula that evolves throughout the day</li>
+  <li>💎 Elegant blue bottle design representing the ocean depths</li>
+  <li>✨ Versatile fragrance suitable for office and casual occasions</li>
+</ul>
+
+<p>The <strong>Desire Blue Ocean</strong> collection emerged as a celebration of the untamed power and serene beauty of the ocean. Inspired by the vast blue waters that cover our planet, this <a href="https://xsellpoint.com/product-category/best-sellers/">bestselling fragrance</a> embodies the freedom and adventure that comes with exploring uncharted territories. The sleek blue bottle design mirrors the deep ocean waters, making it a stylish addition to any <a href="https://xsellpoint.com/product-category/new-arrival/">men's fragrance collection</a>.</p>
+
+<h4>Experience the <strong>Blue Ocean</strong> Difference</h4>
+
+<p>What sets <strong>Desire Blue Ocean EDT</strong> apart is its perfect balance of freshness and masculinity. The opening notes of bergamot and marine accord create an immediate sense of freshness, while the heart notes of lavender and geranium add a sophisticated aromatic dimension. As the fragrance settles, the base notes of amber, cedar, and musk provide a warm, enduring foundation that's both comforting and distinctly masculine. This <a href="https://www.wikiparfum.com/note/marine-accord">marine-inspired fragrance</a> is perfect for the man who appreciates refined simplicity with a touch of adventure.</p>
+
+<h4>Frequently Asked Question</h4>
+
+<p><strong>How long does Desire Blue Ocean EDT last on skin?</strong></p>
+
+<p><strong>Desire Blue Ocean EDT</strong> offers impressive longevity for an aquatic fragrance, typically lasting 6-8 hours on skin. For maximum longevity, apply to pulse points after showering when skin is still slightly damp. The <a href="https://xsellpoint.com/product-category/oriental-fragrance/arabic-perfume/">fragrance projection</a> is moderate, making it suitable for professional environments while still maintaining a noticeable presence. The <a href="https://www.wikiparfum.com/note/cedar">cedar and musk base notes</a> help anchor the scent, allowing the refreshing aquatic character to remain consistent throughout its wear time.</p>
+```
+
+🔹 Short Description (Max 50 words):
+Desire Blue Ocean EDT captures the essence of the boundless ocean in a refreshing 150ml fragrance for men. With invigorating marine accords, citrus brightness, and a masculine woody base, this aquatic scent offers freedom and confidence for everyday adventures.
+
+🔹 SEO Title (Max 60 characters):
+Desire Blue Ocean EDT for Men 150ml | Fresh Aquatic Fragrance
+
+🔹 Meta Description (Max 155 characters):
+Discover Desire Blue Ocean EDT for Men, a refreshing 150ml aquatic fragrance with vibrant citrus and marine accords. Experience the ocean's power and freedom. Shop now!
+
+🔹 Alt Text for Product Images:
+Desire Blue Ocean EDT for Men 150ml bottle with aquatic blue design
+
+🔹 Image Title:
+Desire Blue Ocean Eau de Toilette for Men 150ml
+
+🔹 Image Caption:
+Experience the refreshing depths of the ocean in this captivating men's fragrance.
+
+🔹 Image Description:
+Desire Blue Ocean EDT for Men 150ml in elegant blue bottle, capturing the essence of marine freshness with citrus and woody notes.
+
+🔹 SEO Tags (6 High-Search Keywords):
+aquatic cologne for men, fresh marine fragrance, desire blue ocean edt, men's ocean perfume, long-lasting aquatic scent, blue cologne for summer
+
+🔹 Focus Keywords:
+desire blue ocean edt, aquatic fragrance for men, marine cologne, fresh men's perfume

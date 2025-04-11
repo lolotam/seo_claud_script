@@ -1,0 +1,265 @@
+[2025-03-31 04:41:55] Loaded 148 products from fragrance_products.xlsx
+[2025-03-31 04:41:55] 🚀 Starting Fragrance SEO Content Generator
+[2025-03-31 04:41:55] 📊 Found 148 products in Excel file
+[2025-03-31 04:41:55] ⚙️ Configuration: Start Index=0, Batch Size=None, Threads=1
+[2025-03-31 04:41:55] 🚀 Starting SEO content generation for products 1-148 of 148
+[2025-03-31 04:41:55] 🔄 [1/148] Processing: Platinum Eau De Toilette  - 100ml (ID: 23837) - 0.7% complete
+[2025-03-31 04:41:55] 📤 Sending request to Claude for Platinum Eau De Toilette  - 100ml
+[2025-03-31 04:42:21] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:42:21] 📥 Received response from Claude (5138 chars)
+[2025-03-31 04:42:21] 📄 Saved raw Claude response to seo_outputs\response_23837.txt
+[2025-03-31 04:42:21] Extracted 10 non-empty fields
+[2025-03-31 04:42:21] 📁 Saved content to seo_outputs\product_23837_Platinum_Eau_De_Toilette__-_100ml.json
+[2025-03-31 04:42:23] Found existing image ID: 23839
+[2025-03-31 04:42:24] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:42:24] Updating product 23837 with WooCommerce API
+[2025-03-31 04:42:32] ✅ Updated product 23837 successfully
+[2025-03-31 04:42:32]   - Updated with 6 tags
+[2025-03-31 04:42:32]   - Updated with 19 meta fields
+[2025-03-31 04:42:32]   - Updated with 1 images
+[2025-03-31 04:42:32] Generated permalink slug from primary keyword: platinum-eau-de-toilette
+[2025-03-31 04:42:35] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:42:35]   - Saved API response to seo_outputs\success_23837.json
+[2025-03-31 04:42:37] 🔄 [2/148] Processing: Twentieth Century 24 Elixer Gold Eau De Parfum -100ml (ID: 32465) - 1.4% complete
+[2025-03-31 04:42:37] 📤 Sending request to Claude for Twentieth Century 24 Elixer Gold Eau De Parfum -100ml
+[2025-03-31 04:43:01] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:43:01] 📥 Received response from Claude (5079 chars)
+[2025-03-31 04:43:01] 📄 Saved raw Claude response to seo_outputs\response_32465.txt
+[2025-03-31 04:43:01] Extracted 10 non-empty fields
+[2025-03-31 04:43:01] 📁 Saved content to seo_outputs\product_32465_Twentieth_Century_24_Elixer_Gold_Eau_De_Parfum_-100ml.json
+[2025-03-31 04:43:03] Found existing image ID: 32467
+[2025-03-31 04:43:04] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:43:04] Updating product 32465 with WooCommerce API
+[2025-03-31 04:43:07] ✅ Updated product 32465 successfully
+[2025-03-31 04:43:07]   - Updated with 6 tags
+[2025-03-31 04:43:07]   - Updated with 19 meta fields
+[2025-03-31 04:43:07]   - Updated with 1 images
+[2025-03-31 04:43:07] Generated permalink slug from primary keyword: twentieth-century-24-elixer-gold
+[2025-03-31 04:43:12] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:43:12]   - Saved API response to seo_outputs\success_32465.json
+[2025-03-31 04:43:14] 🔄 [3/148] Processing: Fresh EDP - 100ML (ID: 66382) - 2.0% complete
+[2025-03-31 04:43:14] 📤 Sending request to Claude for Fresh EDP - 100ML
+[2025-03-31 04:43:23] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 "
+[2025-03-31 04:43:23] Retrying request to /v1/messages in 0.376992 seconds
+[2025-03-31 04:43:48] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:43:48] 📥 Received response from Claude (4962 chars)
+[2025-03-31 04:43:48] 📄 Saved raw Claude response to seo_outputs\response_66382.txt
+[2025-03-31 04:43:48] Extracted 10 non-empty fields
+[2025-03-31 04:43:48] 📁 Saved content to seo_outputs\product_66382_Fresh_EDP_-_100ML.json
+[2025-03-31 04:43:51] Found existing image ID: 66384
+[2025-03-31 04:43:52] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:43:52] Updating product 66382 with WooCommerce API
+[2025-03-31 04:43:57] ✅ Updated product 66382 successfully
+[2025-03-31 04:43:57]   - Updated with 6 tags
+[2025-03-31 04:43:57]   - Updated with 19 meta fields
+[2025-03-31 04:43:57]   - Updated with 1 images
+[2025-03-31 04:43:57] Generated permalink slug from primary keyword: fresh-edp
+[2025-03-31 04:44:00] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:44:00]   - Saved API response to seo_outputs\success_66382.json
+[2025-03-31 04:44:02] 🔄 [4/148] Processing: Yafa EDP - 50ML (ID: 68208) - 2.7% complete
+[2025-03-31 04:44:02] 📤 Sending request to Claude for Yafa EDP - 50ML
+[2025-03-31 04:44:28] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:44:28] 📥 Received response from Claude (5227 chars)
+[2025-03-31 04:44:28] 📄 Saved raw Claude response to seo_outputs\response_68208.txt
+[2025-03-31 04:44:28] Extracted 10 non-empty fields
+[2025-03-31 04:44:28] 📁 Saved content to seo_outputs\product_68208_Yafa_EDP_-_50ML.json
+[2025-03-31 04:44:29] Found existing image ID: 68210
+[2025-03-31 04:44:30] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:44:30] Updating product 68208 with WooCommerce API
+[2025-03-31 04:44:33] ✅ Updated product 68208 successfully
+[2025-03-31 04:44:33]   - Updated with 6 tags
+[2025-03-31 04:44:33]   - Updated with 19 meta fields
+[2025-03-31 04:44:33]   - Updated with 1 images
+[2025-03-31 04:44:33] Generated permalink slug from primary keyword: arabic-perfume
+[2025-03-31 04:44:36] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:44:36]   - Saved API response to seo_outputs\success_68208.json
+[2025-03-31 04:44:38] 🔄 [5/148] Processing: 4711 Original Eau De Cologne - 300ml (ID: 30597) - 3.4% complete
+[2025-03-31 04:44:38] 📤 Sending request to Claude for 4711 Original Eau De Cologne - 300ml
+[2025-03-31 04:45:04] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:45:04] 📥 Received response from Claude (5349 chars)
+[2025-03-31 04:45:04] 📄 Saved raw Claude response to seo_outputs\response_30597.txt
+[2025-03-31 04:45:04] Extracted 10 non-empty fields
+[2025-03-31 04:45:04] 📁 Saved content to seo_outputs\product_30597_4711_Original_Eau_De_Cologne_-_300ml.json
+[2025-03-31 04:45:05] Found existing image ID: 19438
+[2025-03-31 04:45:06] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:45:06] Updating product 30597 with WooCommerce API
+[2025-03-31 04:45:13] ✅ Updated product 30597 successfully
+[2025-03-31 04:45:13]   - Updated with 6 tags
+[2025-03-31 04:45:13]   - Updated with 19 meta fields
+[2025-03-31 04:45:13]   - Updated with 1 images
+[2025-03-31 04:45:13] Generated permalink slug from primary keyword: 4711-original-eau-de-cologne
+[2025-03-31 04:45:17] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:45:17]   - Saved API response to seo_outputs\success_30597.json
+[2025-03-31 04:45:19] 🔄 [6/148] Processing: Asfahan Oud EDP - 100ML (ID: 65865) - 4.1% complete
+[2025-03-31 04:45:19] 📤 Sending request to Claude for Asfahan Oud EDP - 100ML
+[2025-03-31 04:45:44] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:45:44] 📥 Received response from Claude (5141 chars)
+[2025-03-31 04:45:44] 📄 Saved raw Claude response to seo_outputs\response_65865.txt
+[2025-03-31 04:45:44] Extracted 10 non-empty fields
+[2025-03-31 04:45:44] 📁 Saved content to seo_outputs\product_65865_Asfahan_Oud_EDP_-_100ML.json
+[2025-03-31 04:45:45] Found existing image ID: 65867
+[2025-03-31 04:45:46] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:45:46] Updating product 65865 with WooCommerce API
+[2025-03-31 04:45:50] ✅ Updated product 65865 successfully
+[2025-03-31 04:45:50]   - Updated with 6 tags
+[2025-03-31 04:45:50]   - Updated with 19 meta fields
+[2025-03-31 04:45:50]   - Updated with 1 images
+[2025-03-31 04:45:50] Generated permalink slug from primary keyword: asfahan-oud-edp
+[2025-03-31 04:45:53] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:45:53]   - Saved API response to seo_outputs\success_65865.json
+[2025-03-31 04:45:55] 🔄 [7/148] Processing: Baba Jaber EDP - 60ML (ID: 65915) - 4.7% complete
+[2025-03-31 04:45:55] 📤 Sending request to Claude for Baba Jaber EDP - 60ML
+[2025-03-31 04:46:22] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:46:22] 📥 Received response from Claude (5188 chars)
+[2025-03-31 04:46:22] 📄 Saved raw Claude response to seo_outputs\response_65915.txt
+[2025-03-31 04:46:22] Extracted 10 non-empty fields
+[2025-03-31 04:46:22] 📁 Saved content to seo_outputs\product_65915_Baba_Jaber_EDP_-_60ML.json
+[2025-03-31 04:46:23] Found existing image ID: 65917
+[2025-03-31 04:46:24] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:46:24] Updating product 65915 with WooCommerce API
+[2025-03-31 04:46:27] ✅ Updated product 65915 successfully
+[2025-03-31 04:46:27]   - Updated with 6 tags
+[2025-03-31 04:46:27]   - Updated with 19 meta fields
+[2025-03-31 04:46:27]   - Updated with 1 images
+[2025-03-31 04:46:27] Generated permalink slug from primary keyword: baba-jaber-edp
+[2025-03-31 04:46:30] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:46:30]   - Saved API response to seo_outputs\success_65915.json
+[2025-03-31 04:46:32] 🔄 [8/148] Processing: Kashmir Oud EDP - 100ML (ID: 66622) - 5.4% complete
+[2025-03-31 04:46:32] 📤 Sending request to Claude for Kashmir Oud EDP - 100ML
+[2025-03-31 04:46:58] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:46:58] 📥 Received response from Claude (5106 chars)
+[2025-03-31 04:46:58] 📄 Saved raw Claude response to seo_outputs\response_66622.txt
+[2025-03-31 04:46:58] Extracted 10 non-empty fields
+[2025-03-31 04:46:58] 📁 Saved content to seo_outputs\product_66622_Kashmir_Oud_EDP_-_100ML.json
+[2025-03-31 04:46:59] Found existing image ID: 66624
+[2025-03-31 04:47:01] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:47:01] Updating product 66622 with WooCommerce API
+[2025-03-31 04:47:05] ✅ Updated product 66622 successfully
+[2025-03-31 04:47:05]   - Updated with 6 tags
+[2025-03-31 04:47:05]   - Updated with 19 meta fields
+[2025-03-31 04:47:05]   - Updated with 1 images
+[2025-03-31 04:47:05] Generated permalink slug from primary keyword: kashmir-oud-edp
+[2025-03-31 04:47:08] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:47:08]   - Saved API response to seo_outputs\success_66622.json
+[2025-03-31 04:47:10] 🔄 [9/148] Processing: MBN Eau Du Parfum - 60ML - Men (ID: 66799) - 6.1% complete
+[2025-03-31 04:47:10] 📤 Sending request to Claude for MBN Eau Du Parfum - 60ML - Men
+[2025-03-31 04:47:38] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:47:38] 📥 Received response from Claude (5392 chars)
+[2025-03-31 04:47:38] 📄 Saved raw Claude response to seo_outputs\response_66799.txt
+[2025-03-31 04:47:38] Extracted 10 non-empty fields
+[2025-03-31 04:47:38] 📁 Saved content to seo_outputs\product_66799_MBN_Eau_Du_Parfum_-_60ML_-_Men.json
+[2025-03-31 04:47:38] Found existing image ID: 66801
+[2025-03-31 04:47:41] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:47:41] Updating product 66799 with WooCommerce API
+[2025-03-31 04:47:45] ✅ Updated product 66799 successfully
+[2025-03-31 04:47:45]   - Updated with 6 tags
+[2025-03-31 04:47:45]   - Updated with 19 meta fields
+[2025-03-31 04:47:45]   - Updated with 1 images
+[2025-03-31 04:47:45] Generated permalink slug from primary keyword: mbn-eau-du-parfum
+[2025-03-31 04:47:48] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:47:48]   - Saved API response to seo_outputs\success_66799.json
+[2025-03-31 04:47:50] 🔄 [10/148] Processing: Nahar Eau Du Parfum - 100ML (ID: 66938) - 6.8% complete
+[2025-03-31 04:47:50] 📤 Sending request to Claude for Nahar Eau Du Parfum - 100ML
+[2025-03-31 04:48:17] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:48:17] 📥 Received response from Claude (5183 chars)
+[2025-03-31 04:48:17] 📄 Saved raw Claude response to seo_outputs\response_66938.txt
+[2025-03-31 04:48:17] Extracted 10 non-empty fields
+[2025-03-31 04:48:18] 📁 Saved content to seo_outputs\product_66938_Nahar_Eau_Du_Parfum_-_100ML.json
+[2025-03-31 04:48:18] Found existing image ID: 66940
+[2025-03-31 04:48:20] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:48:20] Updating product 66938 with WooCommerce API
+[2025-03-31 04:48:23] ✅ Updated product 66938 successfully
+[2025-03-31 04:48:23]   - Updated with 6 tags
+[2025-03-31 04:48:23]   - Updated with 19 meta fields
+[2025-03-31 04:48:23]   - Updated with 1 images
+[2025-03-31 04:48:23] Generated permalink slug from primary keyword: nahar-eau-du-parfum
+[2025-03-31 04:48:26] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:48:26]   - Saved API response to seo_outputs\success_66938.json
+[2025-03-31 04:48:28] 🔄 [11/148] Processing: Oud Azrak EDP - 100ML (ID: 67274) - 7.4% complete
+[2025-03-31 04:48:28] 📤 Sending request to Claude for Oud Azrak EDP - 100ML
+[2025-03-31 04:48:53] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:48:53] 📥 Received response from Claude (4768 chars)
+[2025-03-31 04:48:53] 📄 Saved raw Claude response to seo_outputs\response_67274.txt
+[2025-03-31 04:48:53] Extracted 10 non-empty fields
+[2025-03-31 04:48:53] 📁 Saved content to seo_outputs\product_67274_Oud_Azrak_EDP_-_100ML.json
+[2025-03-31 04:48:54] Found existing image ID: 67276
+[2025-03-31 04:48:55] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:48:55] Updating product 67274 with WooCommerce API
+[2025-03-31 04:48:59] ✅ Updated product 67274 successfully
+[2025-03-31 04:48:59]   - Updated with 6 tags
+[2025-03-31 04:48:59]   - Updated with 19 meta fields
+[2025-03-31 04:48:59]   - Updated with 1 images
+[2025-03-31 04:48:59] Generated permalink slug from primary keyword: oud-azrak-edp
+[2025-03-31 04:49:03] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:49:03]   - Saved API response to seo_outputs\success_67274.json
+[2025-03-31 04:49:05] 🔄 [12/148] Processing: Oud Taifi EDP - 60ML (ID: 67989) - 8.1% complete
+[2025-03-31 04:49:05] 📤 Sending request to Claude for Oud Taifi EDP - 60ML
+[2025-03-31 04:49:33] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:49:33] 📥 Received response from Claude (5398 chars)
+[2025-03-31 04:49:33] 📄 Saved raw Claude response to seo_outputs\response_67989.txt
+[2025-03-31 04:49:33] Extracted 10 non-empty fields
+[2025-03-31 04:49:33] 📁 Saved content to seo_outputs\product_67989_Oud_Taifi_EDP_-_60ML.json
+[2025-03-31 04:49:35] Found existing image ID: 67991
+[2025-03-31 04:49:36] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:49:36] Updating product 67989 with WooCommerce API
+[2025-03-31 04:49:40] ✅ Updated product 67989 successfully
+[2025-03-31 04:49:40]   - Updated with 6 tags
+[2025-03-31 04:49:40]   - Updated with 19 meta fields
+[2025-03-31 04:49:40]   - Updated with 1 images
+[2025-03-31 04:49:40] Generated permalink slug from primary keyword: arabian-oud
+[2025-03-31 04:49:43] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:49:43]   - Saved API response to seo_outputs\success_67989.json
+[2025-03-31 04:49:45] 🔄 [13/148] Processing: White Amber EDP - 50ML (ID: 68139) - 8.8% complete
+[2025-03-31 04:49:45] 📤 Sending request to Claude for White Amber EDP - 50ML
+[2025-03-31 04:50:09] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:50:09] 📥 Received response from Claude (4887 chars)
+[2025-03-31 04:50:09] 📄 Saved raw Claude response to seo_outputs\response_68139.txt
+[2025-03-31 04:50:09] Extracted 10 non-empty fields
+[2025-03-31 04:50:09] 📁 Saved content to seo_outputs\product_68139_White_Amber_EDP_-_50ML.json
+[2025-03-31 04:50:11] Found existing image ID: 68141
+[2025-03-31 04:50:12] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:50:12] Updating product 68139 with WooCommerce API
+[2025-03-31 04:50:17] ✅ Updated product 68139 successfully
+[2025-03-31 04:50:17]   - Updated with 6 tags
+[2025-03-31 04:50:17]   - Updated with 19 meta fields
+[2025-03-31 04:50:17]   - Updated with 1 images
+[2025-03-31 04:50:17] Generated permalink slug from primary keyword: amber-fragrance
+[2025-03-31 04:50:20] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:50:20]   - Saved API response to seo_outputs\success_68139.json
+[2025-03-31 04:50:22] 🔄 [14/148] Processing: Zafran Oud EDP - 100ML (ID: 68219) - 9.5% complete
+[2025-03-31 04:50:22] 📤 Sending request to Claude for Zafran Oud EDP - 100ML
+[2025-03-31 04:50:48] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:50:48] 📥 Received response from Claude (4952 chars)
+[2025-03-31 04:50:48] 📄 Saved raw Claude response to seo_outputs\response_68219.txt
+[2025-03-31 04:50:48] Extracted 10 non-empty fields
+[2025-03-31 04:50:48] 📁 Saved content to seo_outputs\product_68219_Zafran_Oud_EDP_-_100ML.json
+[2025-03-31 04:50:49] Found existing image ID: 68221
+[2025-03-31 04:50:50] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:50:50] Updating product 68219 with WooCommerce API
+[2025-03-31 04:50:53] ✅ Updated product 68219 successfully
+[2025-03-31 04:50:53]   - Updated with 6 tags
+[2025-03-31 04:50:53]   - Updated with 19 meta fields
+[2025-03-31 04:50:53]   - Updated with 1 images
+[2025-03-31 04:50:53] Generated permalink slug from primary keyword: zafran-oud-edp
+[2025-03-31 04:50:56] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:50:56]   - Saved API response to seo_outputs\success_68219.json
+[2025-03-31 04:50:58] 🔄 [15/148] Processing: Fierce Eau De Cologne - 100ml (ID: 19416) - 10.1% complete
+[2025-03-31 04:50:58] 📤 Sending request to Claude for Fierce Eau De Cologne - 100ml
+[2025-03-31 04:51:22] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-03-31 04:51:22] 📥 Received response from Claude (4771 chars)
+[2025-03-31 04:51:22] 📄 Saved raw Claude response to seo_outputs\response_19416.txt
+[2025-03-31 04:51:22] Extracted 10 non-empty fields
+[2025-03-31 04:51:22] 📁 Saved content to seo_outputs\product_19416_Fierce_Eau_De_Cologne_-_100ml.json
+[2025-03-31 04:51:23] Found existing image ID: 19418
+[2025-03-31 04:51:24] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 04:51:24] Updating product 19416 with WooCommerce API
+[2025-03-31 04:51:31] ✅ Updated product 19416 successfully
+[2025-03-31 04:51:31]   - Updated with 6 tags
+[2025-03-31 04:51:31]   - Updated with 19 meta fields
+[2025-03-31 04:51:31]   - Updated with 1 images
+[2025-03-31 04:51:31] Generated permalink slug from primary keyword: fierce-cologne
+[2025-03-31 04:51:34] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 04:51:34]   - Saved API response to seo_outputs\success_19416.json
+[2025-03-31 04:51:36] 🔄 [16/148] Processing: First Instinct EDT - 100ml (ID: 19419) - 10.8% complete
+[2025-03-31 04:51:36] 📤 Sending request to Claude for First Instinct EDT - 100ml
+[2025-03-31 04:52:06] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"

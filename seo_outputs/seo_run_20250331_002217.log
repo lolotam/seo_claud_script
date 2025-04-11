@@ -1,0 +1,24 @@
+[2025-03-31 00:22:18] Loaded 1 products from fragrance_products.xlsx
+[2025-03-31 00:22:18] 🚀 Starting Fragrance SEO Content Generator
+[2025-03-31 00:22:18] 📊 Found 1 products in Excel file
+[2025-03-31 00:22:18] 🚀 Starting SEO content generation for products 1-1 of 1
+[2025-03-31 00:22:18] 🔄 [1/1] Processing: AFNAN TURATHI HOMME BROWN EDP 90ML (ID: 16183)
+[2025-03-31 00:22:18] 📤 Sending request to Claude for AFNAN TURATHI HOMME BROWN EDP 90ML
+[2025-03-31 00:22:42] 📥 Received response from Claude (5028 chars)
+[2025-03-31 00:22:42] 📄 Saved raw Claude response to seo_outputs\response_16183.txt
+[2025-03-31 00:22:42] Extracted 10 non-empty fields
+[2025-03-31 00:22:42] 📁 Saved content to seo_outputs\product_16183_AFNAN_TURATHI_HOMME_BROWN_EDP_90ML.json
+[2025-03-31 00:22:42] Image metadata being sent:
+[2025-03-31 00:22:42]   - alt_text: Afnan Turathi Homme Brown EDP 90ml luxury oriental...
+[2025-03-31 00:22:42]   - image_title: AFNAN TURATHI HOMME BROWN EDP 90ML...
+[2025-03-31 00:22:42]   - image_caption: Experience the essence of Middle Eastern luxury wi...
+[2025-03-31 00:22:42]   - image_description: Afnan Turathi Homme Brown EDP 90ml in elegant brow...
+[2025-03-31 00:22:43] Found existing image ID: 16186
+[2025-03-31 00:22:44] ⚠️ Could not update image via media API: 401
+[2025-03-31 00:22:48] ✅ Updated product 16183 successfully
+[2025-03-31 00:22:48]   - Updated with 6 tags
+[2025-03-31 00:22:48]   - Updated with 12 meta fields
+[2025-03-31 00:22:48]   - Updated with 1 images
+[2025-03-31 00:22:48]   - Saved API response to seo_outputs\success_16183.json
+[2025-03-31 00:22:51] ✅ Completed batch processing: 1 successful, 0 failed
+[2025-03-31 00:22:51] 🏁 Process completed: 1 products updated successfully, 0 failed

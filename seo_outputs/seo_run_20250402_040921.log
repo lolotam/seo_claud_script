@@ -1,0 +1,2549 @@
+[2025-04-02 04:09:21] Loaded 149 products from fragrance_products.xlsx
+[2025-04-02 04:09:21] 🚀 Starting Fragrance SEO Content Generator
+[2025-04-02 04:09:21] 📊 Found 149 products in Excel file
+[2025-04-02 04:09:21] ⚙️ Configuration: Start Index=0, Batch Size=None, Threads=1
+[2025-04-02 04:09:21] 🚀 Starting SEO content generation for products 1-149 of 149
+[2025-04-02 04:09:21] 🔄 [1/149] Processing: 1970 EDP Unisex - 100ml (ID: 22274) - 0.7% complete
+[2025-04-02 04:09:21] 📤 Sending request to Claude for 1970 EDP Unisex - 100ml
+[2025-04-02 04:09:46] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:09:46] 📥 Received response from Claude (5169 chars)
+[2025-04-02 04:09:46] 📄 Saved raw Claude response to seo_outputs\response_22274.txt
+[2025-04-02 04:09:46] Extracted 10 non-empty fields
+[2025-04-02 04:09:46] 📁 Saved content to seo_outputs\product_22274_1970_EDP_Unisex_-_100ml.json
+[2025-04-02 04:09:47] Found existing image ID: 22276
+[2025-04-02 04:09:48] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:09:48] Updating product 22274 with WooCommerce API
+[2025-04-02 04:09:57] ✅ Updated product 22274 successfully
+[2025-04-02 04:09:57]   - Updated with 6 tags
+[2025-04-02 04:09:57]   - Updated with 19 meta fields
+[2025-04-02 04:09:57]   - Updated with 1 images
+[2025-04-02 04:09:57] Generated permalink slug from primary keyword: 1970-eau-de-parfum-unisex
+[2025-04-02 04:09:58] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:09:58]   - Saved API response to seo_outputs\success_22274.json
+[2025-04-02 04:10:00] 🔄 [2/149] Processing: 1988 EDP Unisex - 100ml (ID: 30591) - 1.3% complete
+[2025-04-02 04:10:00] 📤 Sending request to Claude for 1988 EDP Unisex - 100ml
+[2025-04-02 04:10:25] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:10:25] 📥 Received response from Claude (4899 chars)
+[2025-04-02 04:10:25] 📄 Saved raw Claude response to seo_outputs\response_30591.txt
+[2025-04-02 04:10:25] Extracted 10 non-empty fields
+[2025-04-02 04:10:25] 📁 Saved content to seo_outputs\product_30591_1988_EDP_Unisex_-_100ml.json
+[2025-04-02 04:10:25] Found existing image ID: 65079
+[2025-04-02 04:10:26] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:10:26] Updating product 30591 with WooCommerce API
+[2025-04-02 04:10:31] ✅ Updated product 30591 successfully
+[2025-04-02 04:10:31]   - Updated with 6 tags
+[2025-04-02 04:10:31]   - Updated with 19 meta fields
+[2025-04-02 04:10:31]   - Updated with 1 images
+[2025-04-02 04:10:31] Generated permalink slug from primary keyword: 1988-eau-de-parfum-unisex
+[2025-04-02 04:10:32] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:10:32]   - Saved API response to seo_outputs\success_30591.json
+[2025-04-02 04:10:34] 🔄 [3/149] Processing: All Of Me EDP - 90ml (ID: 32190) - 2.0% complete
+[2025-04-02 04:10:34] 📤 Sending request to Claude for All Of Me EDP - 90ml
+[2025-04-02 04:10:58] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:10:58] 📥 Received response from Claude (5212 chars)
+[2025-04-02 04:10:58] 📄 Saved raw Claude response to seo_outputs\response_32190.txt
+[2025-04-02 04:10:58] Extracted 10 non-empty fields
+[2025-04-02 04:10:58] 📁 Saved content to seo_outputs\product_32190_All_Of_Me_EDP_-_90ml.json
+[2025-04-02 04:10:59] Found existing image ID: 32192
+[2025-04-02 04:11:00] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:11:00] Updating product 32190 with WooCommerce API
+[2025-04-02 04:11:04] ✅ Updated product 32190 successfully
+[2025-04-02 04:11:04]   - Updated with 6 tags
+[2025-04-02 04:11:04]   - Updated with 19 meta fields
+[2025-04-02 04:11:04]   - Updated with 1 images
+[2025-04-02 04:11:04] Generated permalink slug from primary keyword: all-of-me-edp
+[2025-04-02 04:11:08] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:11:08]   - Saved API response to seo_outputs\success_32190.json
+[2025-04-02 04:11:10] 🔄 [4/149] Processing: For Her Amber Musc EDP - 100ml (ID: 29675) - 2.7% complete
+[2025-04-02 04:11:10] 📤 Sending request to Claude for For Her Amber Musc EDP - 100ml
+[2025-04-02 04:11:35] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:11:35] 📥 Received response from Claude (5235 chars)
+[2025-04-02 04:11:35] 📄 Saved raw Claude response to seo_outputs\response_29675.txt
+[2025-04-02 04:11:35] Extracted 10 non-empty fields
+[2025-04-02 04:11:35] 📁 Saved content to seo_outputs\product_29675_For_Her_Amber_Musc_EDP_-_100ml.json
+[2025-04-02 04:11:36] Found existing image ID: 29677
+[2025-04-02 04:11:37] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:11:37] Updating product 29675 with WooCommerce API
+[2025-04-02 04:11:42] ✅ Updated product 29675 successfully
+[2025-04-02 04:11:42]   - Updated with 6 tags
+[2025-04-02 04:11:42]   - Updated with 19 meta fields
+[2025-04-02 04:11:42]   - Updated with 1 images
+[2025-04-02 04:11:42] Generated permalink slug from primary keyword: amber-musk-perfume
+[2025-04-02 04:11:43] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:11:43]   - Saved API response to seo_outputs\success_29675.json
+[2025-04-02 04:11:45] 🔄 [5/149] Processing: Black Opium EDP - 90ml (ID: 33374) - 3.4% complete
+[2025-04-02 04:11:45] 📤 Sending request to Claude for Black Opium EDP - 90ml
+[2025-04-02 04:12:12] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:12:12] 📥 Received response from Claude (5326 chars)
+[2025-04-02 04:12:12] 📄 Saved raw Claude response to seo_outputs\response_33374.txt
+[2025-04-02 04:12:12] Extracted 10 non-empty fields
+[2025-04-02 04:12:12] 📁 Saved content to seo_outputs\product_33374_Black_Opium_EDP_-_90ml.json
+[2025-04-02 04:12:12] Found existing image ID: 33376
+[2025-04-02 04:12:13] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:12:13] Updating product 33374 with WooCommerce API
+[2025-04-02 04:12:17] ✅ Updated product 33374 successfully
+[2025-04-02 04:12:17]   - Updated with 6 tags
+[2025-04-02 04:12:17]   - Updated with 19 meta fields
+[2025-04-02 04:12:17]   - Updated with 1 images
+[2025-04-02 04:12:17] Generated permalink slug from primary keyword: black-opium-eau-de-parfum
+[2025-04-02 04:12:20] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:12:20]   - Saved API response to seo_outputs\success_33374.json
+[2025-04-02 04:12:22] 🔄 [6/149] Processing: Boost Me Up Brow &amp; Lash Serum - 5ml (ID: 41558) - 4.0% complete
+[2025-04-02 04:12:22] 📤 Sending request to Claude for Boost Me Up Brow &amp; Lash Serum - 5ml
+[2025-04-02 04:12:48] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:12:48] 📥 Received response from Claude (5221 chars)
+[2025-04-02 04:12:48] 📄 Saved raw Claude response to seo_outputs\response_41558.txt
+[2025-04-02 04:12:48] Extracted 10 non-empty fields
+[2025-04-02 04:12:48] 📁 Saved content to seo_outputs\product_41558_Boost_Me_Up_Brow_&amp;_Lash_Serum_-_5ml.json
+[2025-04-02 04:12:49] Found existing image ID: 41560
+[2025-04-02 04:12:49] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:12:49] Updating product 41558 with WooCommerce API
+[2025-04-02 04:12:54] ✅ Updated product 41558 successfully
+[2025-04-02 04:12:54]   - Updated with 6 tags
+[2025-04-02 04:12:54]   - Updated with 19 meta fields
+[2025-04-02 04:12:54]   - Updated with 1 images
+[2025-04-02 04:12:54] Generated permalink slug from primary keyword: brow-and-lash-serum
+[2025-04-02 04:12:57] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:12:57]   - Saved API response to seo_outputs\success_41558.json
+[2025-04-02 04:12:59] 🔄 [7/149] Processing: La Baiser Du Dragon Gold Eau De Parfum - 100ml (ID: 18600) - 4.7% complete
+[2025-04-02 04:12:59] 📤 Sending request to Claude for La Baiser Du Dragon Gold Eau De Parfum - 100ml
+[2025-04-02 04:13:25] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:13:25] 📥 Received response from Claude (5276 chars)
+[2025-04-02 04:13:25] 📄 Saved raw Claude response to seo_outputs\response_18600.txt
+[2025-04-02 04:13:25] Extracted 10 non-empty fields
+[2025-04-02 04:13:25] 📁 Saved content to seo_outputs\product_18600_La_Baiser_Du_Dragon_Gold_Eau_De_Parfum_-_100ml.json
+[2025-04-02 04:13:26] Found existing image ID: 18603
+[2025-04-02 04:13:26] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:13:26] Updating product 18600 with WooCommerce API
+[2025-04-02 04:13:31] ✅ Updated product 18600 successfully
+[2025-04-02 04:13:31]   - Updated with 6 tags
+[2025-04-02 04:13:31]   - Updated with 19 meta fields
+[2025-04-02 04:13:31]   - Updated with 1 images
+[2025-04-02 04:13:31] Generated permalink slug from primary keyword: cartier-la-baiser-du-dragon-gold
+[2025-04-02 04:13:32] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:13:32]   - Saved API response to seo_outputs\success_18600.json
+[2025-04-02 04:13:34] 🔄 [8/149] Processing: La Panthere Eau De Parfum - 75ml (ID: 19055) - 5.4% complete
+[2025-04-02 04:13:34] 📤 Sending request to Claude for La Panthere Eau De Parfum - 75ml
+[2025-04-02 04:14:01] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:14:01] 📥 Received response from Claude (5407 chars)
+[2025-04-02 04:14:01] 📄 Saved raw Claude response to seo_outputs\response_19055.txt
+[2025-04-02 04:14:01] Extracted 10 non-empty fields
+[2025-04-02 04:14:01] 📁 Saved content to seo_outputs\product_19055_La_Panthere_Eau_De_Parfum_-_75ml.json
+[2025-04-02 04:14:02] Found existing image ID: 19057
+[2025-04-02 04:14:03] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:14:03] Updating product 19055 with WooCommerce API
+[2025-04-02 04:14:06] ✅ Updated product 19055 successfully
+[2025-04-02 04:14:06]   - Updated with 6 tags
+[2025-04-02 04:14:06]   - Updated with 19 meta fields
+[2025-04-02 04:14:06]   - Updated with 1 images
+[2025-04-02 04:14:06] Generated permalink slug from primary keyword: cartier-la-panthere
+[2025-04-02 04:14:10] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:14:10]   - Saved API response to seo_outputs\success_19055.json
+[2025-04-02 04:14:12] 🔄 [9/149] Processing: La Panthere Eau De Toilette - 75ml (ID: 19062) - 6.0% complete
+[2025-04-02 04:14:12] 📤 Sending request to Claude for La Panthere Eau De Toilette - 75ml
+[2025-04-02 04:14:37] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:14:37] 📥 Received response from Claude (5540 chars)
+[2025-04-02 04:14:37] 📄 Saved raw Claude response to seo_outputs\response_19062.txt
+[2025-04-02 04:14:37] Extracted 10 non-empty fields
+[2025-04-02 04:14:37] 📁 Saved content to seo_outputs\product_19062_La_Panthere_Eau_De_Toilette_-_75ml.json
+[2025-04-02 04:14:38] Found existing image ID: 19064
+[2025-04-02 04:14:39] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:14:39] Updating product 19062 with WooCommerce API
+[2025-04-02 04:14:44] ✅ Updated product 19062 successfully
+[2025-04-02 04:14:44]   - Updated with 6 tags
+[2025-04-02 04:14:44]   - Updated with 19 meta fields
+[2025-04-02 04:14:44]   - Updated with 1 images
+[2025-04-02 04:14:44] Generated permalink slug from primary keyword: cartier-la-panthere-eau-de-toilette
+[2025-04-02 04:14:45] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:14:45]   - Saved API response to seo_outputs\success_19062.json
+[2025-04-02 04:14:47] 🔄 [10/149] Processing: La Panthere Legere Eau De Parfum - 100ml (ID: 31220) - 6.7% complete
+[2025-04-02 04:14:47] 📤 Sending request to Claude for La Panthere Legere Eau De Parfum - 100ml
+[2025-04-02 04:15:14] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:15:14] 📥 Received response from Claude (5476 chars)
+[2025-04-02 04:15:14] 📄 Saved raw Claude response to seo_outputs\response_31220.txt
+[2025-04-02 04:15:14] Extracted 10 non-empty fields
+[2025-04-02 04:15:14] 📁 Saved content to seo_outputs\product_31220_La_Panthere_Legere_Eau_De_Parfum_-_100ml.json
+[2025-04-02 04:15:15] Found existing image ID: 18594
+[2025-04-02 04:15:16] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:15:16] Updating product 31220 with WooCommerce API
+[2025-04-02 04:15:20] ✅ Updated product 31220 successfully
+[2025-04-02 04:15:20]   - Updated with 6 tags
+[2025-04-02 04:15:20]   - Updated with 19 meta fields
+[2025-04-02 04:15:20]   - Updated with 1 images
+[2025-04-02 04:15:20] Generated permalink slug from primary keyword: cartier-la-panthere-legere
+[2025-04-02 04:15:21] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:15:21]   - Saved API response to seo_outputs\success_31220.json
+[2025-04-02 04:15:23] 🔄 [11/149] Processing: La Panthere Eau De Parfum Limited Edition - 75ml (ID: 33074) - 7.4% complete
+[2025-04-02 04:15:23] 📤 Sending request to Claude for La Panthere Eau De Parfum Limited Edition - 75ml
+[2025-04-02 04:15:50] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:15:50] 📥 Received response from Claude (5515 chars)
+[2025-04-02 04:15:50] 📄 Saved raw Claude response to seo_outputs\response_33074.txt
+[2025-04-02 04:15:50] Extracted 10 non-empty fields
+[2025-04-02 04:15:50] 📁 Saved content to seo_outputs\product_33074_La_Panthere_Eau_De_Parfum_Limited_Edition_-_75ml.json
+[2025-04-02 04:15:51] Found existing image ID: 19061
+[2025-04-02 04:15:57] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:15:57] Updating product 33074 with WooCommerce API
+[2025-04-02 04:16:06] ✅ Updated product 33074 successfully
+[2025-04-02 04:16:06]   - Updated with 6 tags
+[2025-04-02 04:16:06]   - Updated with 19 meta fields
+[2025-04-02 04:16:06]   - Updated with 1 images
+[2025-04-02 04:16:06] Generated permalink slug from primary keyword: cartier-la-panthre-limited-edition
+[2025-04-02 04:16:10] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:16:10]   - Saved API response to seo_outputs\success_33074.json
+[2025-04-02 04:16:12] 🔄 [12/149] Processing: La Panthere Eau De Parfum Limited Edition - 75ml (ID: 19059) - 8.1% complete
+[2025-04-02 04:16:12] 📤 Sending request to Claude for La Panthere Eau De Parfum Limited Edition - 75ml
+[2025-04-02 04:16:39] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:16:39] 📥 Received response from Claude (5761 chars)
+[2025-04-02 04:16:39] 📄 Saved raw Claude response to seo_outputs\response_19059.txt
+[2025-04-02 04:16:39] Extracted 10 non-empty fields
+[2025-04-02 04:16:39] 📁 Saved content to seo_outputs\product_19059_La_Panthere_Eau_De_Parfum_Limited_Edition_-_75ml.json
+[2025-04-02 04:16:40] Found existing image ID: 19061
+[2025-04-02 04:16:41] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:16:41] Updating product 19059 with WooCommerce API
+[2025-04-02 04:16:45] ✅ Updated product 19059 successfully
+[2025-04-02 04:16:45]   - Updated with 6 tags
+[2025-04-02 04:16:45]   - Updated with 19 meta fields
+[2025-04-02 04:16:45]   - Updated with 1 images
+[2025-04-02 04:16:45] Generated permalink slug from primary keyword: cartier-la-panthere-limited-edition
+[2025-04-02 04:16:46] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:16:46]   - Saved API response to seo_outputs\success_19059.json
+[2025-04-02 04:16:48] 🔄 [13/149] Processing: La Panthere Noir Absolu Eau De Parfum - 75ml (ID: 33078) - 8.7% complete
+[2025-04-02 04:16:48] 📤 Sending request to Claude for La Panthere Noir Absolu Eau De Parfum - 75ml
+[2025-04-02 04:17:15] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:17:15] 📥 Received response from Claude (5690 chars)
+[2025-04-02 04:17:15] 📄 Saved raw Claude response to seo_outputs\response_33078.txt
+[2025-04-02 04:17:15] Extracted 10 non-empty fields
+[2025-04-02 04:17:15] 📁 Saved content to seo_outputs\product_33078_La_Panthere_Noir_Absolu_Eau_De_Parfum_-_75ml.json
+[2025-04-02 04:17:16] Found existing image ID: 18615
+[2025-04-02 04:17:16] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:17:16] Updating product 33078 with WooCommerce API
+[2025-04-02 04:17:21] ✅ Updated product 33078 successfully
+[2025-04-02 04:17:21]   - Updated with 6 tags
+[2025-04-02 04:17:21]   - Updated with 19 meta fields
+[2025-04-02 04:17:21]   - Updated with 1 images
+[2025-04-02 04:17:21] Generated permalink slug from primary keyword: cartier-la-panthere-noir-absolu
+[2025-04-02 04:17:22] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:17:22]   - Saved API response to seo_outputs\success_33078.json
+[2025-04-02 04:17:24] 🔄 [14/149] Processing: La Panthere Eau De Parfum - 75ml (ID: 33072) - 9.4% complete
+[2025-04-02 04:17:24] 📤 Sending request to Claude for La Panthere Eau De Parfum - 75ml
+[2025-04-02 04:17:48] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:17:48] 📥 Received response from Claude (4911 chars)
+[2025-04-02 04:17:48] 📄 Saved raw Claude response to seo_outputs\response_33072.txt
+[2025-04-02 04:17:48] Extracted 10 non-empty fields
+[2025-04-02 04:17:48] 📁 Saved content to seo_outputs\product_33072_La_Panthere_Eau_De_Parfum_-_75ml.json
+[2025-04-02 04:17:49] Found existing image ID: 19057
+[2025-04-02 04:17:50] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:17:50] Updating product 33072 with WooCommerce API
+[2025-04-02 04:17:54] ✅ Updated product 33072 successfully
+[2025-04-02 04:17:54]   - Updated with 6 tags
+[2025-04-02 04:17:54]   - Updated with 19 meta fields
+[2025-04-02 04:17:54]   - Updated with 1 images
+[2025-04-02 04:17:54] Generated permalink slug from primary keyword: cartier-la-panthere
+[2025-04-02 04:17:55] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:17:55]   - Saved API response to seo_outputs\success_33072.json
+[2025-04-02 04:17:57] 🔄 [15/149] Processing: L'Envol Parfum - 80ml (ID: 22667) - 10.1% complete
+[2025-04-02 04:17:57] 📤 Sending request to Claude for L'Envol Parfum - 80ml
+[2025-04-02 04:18:24] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:18:24] 📥 Received response from Claude (5416 chars)
+[2025-04-02 04:18:24] 📄 Saved raw Claude response to seo_outputs\response_22667.txt
+[2025-04-02 04:18:24] Extracted 10 non-empty fields
+[2025-04-02 04:18:24] 📁 Saved content to seo_outputs\product_22667_L'Envol_Parfum_-_80ml.json
+[2025-04-02 04:18:25] Found existing image ID: 22669
+[2025-04-02 04:18:25] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:18:25] Updating product 22667 with WooCommerce API
+[2025-04-02 04:18:30] ✅ Updated product 22667 successfully
+[2025-04-02 04:18:30]   - Updated with 6 tags
+[2025-04-02 04:18:30]   - Updated with 19 meta fields
+[2025-04-02 04:18:30]   - Updated with 1 images
+[2025-04-02 04:18:30] Generated permalink slug from primary keyword: cartier-lenvol-parfum
+[2025-04-02 04:18:31] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:18:31]   - Saved API response to seo_outputs\success_22667.json
+[2025-04-02 04:18:33] 🔄 [16/149] Processing: 1881 EDP Pour Homme - 100ml (ID: 21089) - 10.7% complete
+[2025-04-02 04:18:33] 📤 Sending request to Claude for 1881 EDP Pour Homme - 100ml
+[2025-04-02 04:18:58] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:18:58] 📥 Received response from Claude (5027 chars)
+[2025-04-02 04:18:58] 📄 Saved raw Claude response to seo_outputs\response_21089.txt
+[2025-04-02 04:18:58] Extracted 10 non-empty fields
+[2025-04-02 04:18:58] 📁 Saved content to seo_outputs\product_21089_1881_EDP_Pour_Homme_-_100ml.json
+[2025-04-02 04:18:59] Found existing image ID: 21091
+[2025-04-02 04:19:00] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:19:00] Updating product 21089 with WooCommerce API
+[2025-04-02 04:19:04] ✅ Updated product 21089 successfully
+[2025-04-02 04:19:04]   - Updated with 6 tags
+[2025-04-02 04:19:04]   - Updated with 19 meta fields
+[2025-04-02 04:19:04]   - Updated with 1 images
+[2025-04-02 04:19:04] Generated permalink slug from primary keyword: cerruti-1881-pour-homme
+[2025-04-02 04:19:05] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:19:05]   - Saved API response to seo_outputs\success_21089.json
+[2025-04-02 04:19:07] 🔄 [17/149] Processing: Cinema EDP- 90ml (ID: 33463) - 11.4% complete
+[2025-04-02 04:19:07] 📤 Sending request to Claude for Cinema EDP- 90ml
+[2025-04-02 04:19:32] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:19:32] 📥 Received response from Claude (4916 chars)
+[2025-04-02 04:19:32] 📄 Saved raw Claude response to seo_outputs\response_33463.txt
+[2025-04-02 04:19:32] Extracted 10 non-empty fields
+[2025-04-02 04:19:32] 📁 Saved content to seo_outputs\product_33463_Cinema_EDP-_90ml.json
+[2025-04-02 04:19:32] Found existing image ID: 33465
+[2025-04-02 04:19:33] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:19:33] Updating product 33463 with WooCommerce API
+[2025-04-02 04:19:37] ✅ Updated product 33463 successfully
+[2025-04-02 04:19:37]   - Updated with 6 tags
+[2025-04-02 04:19:37]   - Updated with 19 meta fields
+[2025-04-02 04:19:37]   - Updated with 1 images
+[2025-04-02 04:19:37] Generated permalink slug from primary keyword: ysl-cinema-edp
+[2025-04-02 04:19:41] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:19:41]   - Saved API response to seo_outputs\success_33463.json
+[2025-04-02 04:19:43] 🔄 [18/149] Processing: Declaration EDP - 100ml (ID: 33751) - 12.1% complete
+[2025-04-02 04:19:43] 📤 Sending request to Claude for Declaration EDP - 100ml
+[2025-04-02 04:20:08] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:20:08] 📥 Received response from Claude (5208 chars)
+[2025-04-02 04:20:08] 📄 Saved raw Claude response to seo_outputs\response_33751.txt
+[2025-04-02 04:20:08] Extracted 10 non-empty fields
+[2025-04-02 04:20:08] 📁 Saved content to seo_outputs\product_33751_Declaration_EDP_-_100ml.json
+[2025-04-02 04:20:09] Found existing image ID: 33753
+[2025-04-02 04:20:10] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:20:10] Updating product 33751 with WooCommerce API
+[2025-04-02 04:20:14] ✅ Updated product 33751 successfully
+[2025-04-02 04:20:14]   - Updated with 6 tags
+[2025-04-02 04:20:14]   - Updated with 19 meta fields
+[2025-04-02 04:20:14]   - Updated with 1 images
+[2025-04-02 04:20:14] Generated permalink slug from primary keyword: cartier-declaration-edp
+[2025-04-02 04:20:17] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:20:17]   - Saved API response to seo_outputs\success_33751.json
+[2025-04-02 04:20:19] 🔄 [19/149] Processing: Delices De Cartier EDT - 100ml (ID: 19070) - 12.8% complete
+[2025-04-02 04:20:19] 📤 Sending request to Claude for Delices De Cartier EDT - 100ml
+[2025-04-02 04:20:46] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:20:46] 📥 Received response from Claude (5421 chars)
+[2025-04-02 04:20:46] 📄 Saved raw Claude response to seo_outputs\response_19070.txt
+[2025-04-02 04:20:46] Extracted 10 non-empty fields
+[2025-04-02 04:20:46] 📁 Saved content to seo_outputs\product_19070_Delices_De_Cartier_EDT_-_100ml.json
+[2025-04-02 04:20:47] Found existing image ID: 19072
+[2025-04-02 04:20:48] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:20:48] Updating product 19070 with WooCommerce API
+[2025-04-02 04:20:52] ✅ Updated product 19070 successfully
+[2025-04-02 04:20:52]   - Updated with 6 tags
+[2025-04-02 04:20:52]   - Updated with 19 meta fields
+[2025-04-02 04:20:52]   - Updated with 1 images
+[2025-04-02 04:20:52] Generated permalink slug from primary keyword: delices-de-cartier-edt
+[2025-04-02 04:20:56] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:20:56]   - Saved API response to seo_outputs\success_19070.json
+[2025-04-02 04:20:58] 🔄 [20/149] Processing: Desire Blue Ocean EDT for Men - 150ml (ID: 16942) - 13.4% complete
+[2025-04-02 04:20:58] 📤 Sending request to Claude for Desire Blue Ocean EDT for Men - 150ml
+[2025-04-02 04:21:21] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:21:21] 📥 Received response from Claude (5009 chars)
+[2025-04-02 04:21:21] 📄 Saved raw Claude response to seo_outputs\response_16942.txt
+[2025-04-02 04:21:21] Extracted 10 non-empty fields
+[2025-04-02 04:21:21] 📁 Saved content to seo_outputs\product_16942_Desire_Blue_Ocean_EDT_for_Men_-_150ml.json
+[2025-04-02 04:21:22] Found existing image ID: 16948
+[2025-04-02 04:21:23] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:21:23] Updating product 16942 with WooCommerce API
+[2025-04-02 04:21:26] ✅ Updated product 16942 successfully
+[2025-04-02 04:21:26]   - Updated with 6 tags
+[2025-04-02 04:21:26]   - Updated with 19 meta fields
+[2025-04-02 04:21:26]   - Updated with 1 images
+[2025-04-02 04:21:26] Generated permalink slug from primary keyword: desire-blue-ocean-edt
+[2025-04-02 04:21:30] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:21:30]   - Saved API response to seo_outputs\success_16942.json
+[2025-04-02 04:21:32] 🔄 [21/149] Processing: Desire Gold EDT - 100ml (ID: 20823) - 14.1% complete
+[2025-04-02 04:21:32] 📤 Sending request to Claude for Desire Gold EDT - 100ml
+[2025-04-02 04:21:56] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:21:56] 📥 Received response from Claude (5054 chars)
+[2025-04-02 04:21:56] 📄 Saved raw Claude response to seo_outputs\response_20823.txt
+[2025-04-02 04:21:56] Extracted 10 non-empty fields
+[2025-04-02 04:21:56] 📁 Saved content to seo_outputs\product_20823_Desire_Gold_EDT_-_100ml.json
+[2025-04-02 04:21:57] Found existing image ID: 20825
+[2025-04-02 04:21:58] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:21:58] Updating product 20823 with WooCommerce API
+[2025-04-02 04:22:01] ✅ Updated product 20823 successfully
+[2025-04-02 04:22:01]   - Updated with 6 tags
+[2025-04-02 04:22:01]   - Updated with 19 meta fields
+[2025-04-02 04:22:01]   - Updated with 1 images
+[2025-04-02 04:22:01] Generated permalink slug from primary keyword: desire-gold-edt
+[2025-04-02 04:22:04] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:22:04]   - Saved API response to seo_outputs\success_20823.json
+[2025-04-02 04:22:06] 🔄 [22/149] Processing: Divine EDP - 100ml (ID: 31358) - 14.8% complete
+[2025-04-02 04:22:06] 📤 Sending request to Claude for Divine EDP - 100ml
+[2025-04-02 04:22:27] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:22:27] 📥 Received response from Claude (4337 chars)
+[2025-04-02 04:22:27] 📄 Saved raw Claude response to seo_outputs\response_31358.txt
+[2025-04-02 04:22:27] Extracted 10 non-empty fields
+[2025-04-02 04:22:27] 📁 Saved content to seo_outputs\product_31358_Divine_EDP_-_100ml.json
+[2025-04-02 04:22:27] Found existing image ID: 31360
+[2025-04-02 04:22:28] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:22:28] Updating product 31358 with WooCommerce API
+[2025-04-02 04:22:32] ✅ Updated product 31358 successfully
+[2025-04-02 04:22:32]   - Updated with 6 tags
+[2025-04-02 04:22:32]   - Updated with 19 meta fields
+[2025-04-02 04:22:32]   - Updated with 1 images
+[2025-04-02 04:22:32] Generated permalink slug from primary keyword: divine-eau-de-parfum
+[2025-04-02 04:22:34] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:22:34]   - Saved API response to seo_outputs\success_31358.json
+[2025-04-02 04:22:36] 🔄 [23/149] Processing: Fierce Eau De Cologne - 100ml (ID: 19416) - 15.4% complete
+[2025-04-02 04:22:36] 📤 Sending request to Claude for Fierce Eau De Cologne - 100ml
+[2025-04-02 04:22:58] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:22:58] 📥 Received response from Claude (4602 chars)
+[2025-04-02 04:22:58] 📄 Saved raw Claude response to seo_outputs\response_19416.txt
+[2025-04-02 04:22:58] Extracted 10 non-empty fields
+[2025-04-02 04:22:58] 📁 Saved content to seo_outputs\product_19416_Fierce_Eau_De_Cologne_-_100ml.json
+[2025-04-02 04:22:59] Found existing image ID: 19418
+[2025-04-02 04:23:00] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:23:00] Updating product 19416 with WooCommerce API
+[2025-04-02 04:23:04] ✅ Updated product 19416 successfully
+[2025-04-02 04:23:04]   - Updated with 6 tags
+[2025-04-02 04:23:04]   - Updated with 19 meta fields
+[2025-04-02 04:23:04]   - Updated with 1 images
+[2025-04-02 04:23:04] Generated permalink slug from primary keyword: fierce-cologne
+[2025-04-02 04:23:05] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:23:05]   - Saved API response to seo_outputs\success_19416.json
+[2025-04-02 04:23:07] 🔄 [24/149] Processing: Icon EDP - 100ml (ID: 16924) - 16.1% complete
+[2025-04-02 04:23:07] 📤 Sending request to Claude for Icon EDP - 100ml
+[2025-04-02 04:23:29] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:23:29] 📥 Received response from Claude (4704 chars)
+[2025-04-02 04:23:29] 📄 Saved raw Claude response to seo_outputs\response_16924.txt
+[2025-04-02 04:23:29] Extracted 10 non-empty fields
+[2025-04-02 04:23:29] 📁 Saved content to seo_outputs\product_16924_Icon_EDP_-_100ml.json
+[2025-04-02 04:23:30] Found existing image ID: 16927
+[2025-04-02 04:23:31] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:23:31] Updating product 16924 with WooCommerce API
+[2025-04-02 04:23:35] ✅ Updated product 16924 successfully
+[2025-04-02 04:23:35]   - Updated with 6 tags
+[2025-04-02 04:23:35]   - Updated with 19 meta fields
+[2025-04-02 04:23:35]   - Updated with 1 images
+[2025-04-02 04:23:35] Generated permalink slug from primary keyword: icon-eau-de-parfum
+[2025-04-02 04:23:36] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:23:36]   - Saved API response to seo_outputs\success_16924.json
+[2025-04-02 04:23:38] 🔄 [25/149] Processing: Kokorico Eau De Toilette - 50ml (ID: 22656) - 16.8% complete
+[2025-04-02 04:23:38] 📤 Sending request to Claude for Kokorico Eau De Toilette - 50ml
+[2025-04-02 04:24:05] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:24:05] 📥 Received response from Claude (5293 chars)
+[2025-04-02 04:24:05] 📄 Saved raw Claude response to seo_outputs\response_22656.txt
+[2025-04-02 04:24:05] Extracted 10 non-empty fields
+[2025-04-02 04:24:05] 📁 Saved content to seo_outputs\product_22656_Kokorico_Eau_De_Toilette_-_50ml.json
+[2025-04-02 04:24:06] Found existing image ID: 22658
+[2025-04-02 04:24:07] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:24:07] Updating product 22656 with WooCommerce API
+[2025-04-02 04:24:11] ✅ Updated product 22656 successfully
+[2025-04-02 04:24:11]   - Updated with 6 tags
+[2025-04-02 04:24:11]   - Updated with 19 meta fields
+[2025-04-02 04:24:11]   - Updated with 1 images
+[2025-04-02 04:24:11] Generated permalink slug from primary keyword: kokorico-eau-de-toilette
+[2025-04-02 04:24:12] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:24:12]   - Saved API response to seo_outputs\success_22656.json
+[2025-04-02 04:24:14] 🔄 [26/149] Processing: La Belle Eau De Parfum - 100ml (ID: 33066) - 17.4% complete
+[2025-04-02 04:24:14] 📤 Sending request to Claude for La Belle Eau De Parfum - 100ml
+[2025-04-02 04:24:39] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:24:39] 📥 Received response from Claude (4888 chars)
+[2025-04-02 04:24:39] 📄 Saved raw Claude response to seo_outputs\response_33066.txt
+[2025-04-02 04:24:39] Extracted 10 non-empty fields
+[2025-04-02 04:24:39] 📁 Saved content to seo_outputs\product_33066_La_Belle_Eau_De_Parfum_-_100ml.json
+[2025-04-02 04:24:40] Found existing image ID: 33068
+[2025-04-02 04:24:40] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:24:40] Updating product 33066 with WooCommerce API
+[2025-04-02 04:24:45] ✅ Updated product 33066 successfully
+[2025-04-02 04:24:45]   - Updated with 6 tags
+[2025-04-02 04:24:45]   - Updated with 19 meta fields
+[2025-04-02 04:24:45]   - Updated with 1 images
+[2025-04-02 04:24:45] Generated permalink slug from primary keyword: la-belle-eau-de-parfum
+[2025-04-02 04:24:46] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:24:46]   - Saved API response to seo_outputs\success_33066.json
+[2025-04-02 04:24:48] 🔄 [27/149] Processing: La Panthere Eau De Toilette - 75ml (ID: 33076) - 18.1% complete
+[2025-04-02 04:24:48] 📤 Sending request to Claude for La Panthere Eau De Toilette - 75ml
+[2025-04-02 04:25:14] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:25:14] 📥 Received response from Claude (5271 chars)
+[2025-04-02 04:25:14] 📄 Saved raw Claude response to seo_outputs\response_33076.txt
+[2025-04-02 04:25:14] Extracted 10 non-empty fields
+[2025-04-02 04:25:14] 📁 Saved content to seo_outputs\product_33076_La_Panthere_Eau_De_Toilette_-_75ml.json
+[2025-04-02 04:25:15] Found existing image ID: 19064
+[2025-04-02 04:25:16] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:25:16] Updating product 33076 with WooCommerce API
+[2025-04-02 04:25:19] ✅ Updated product 33076 successfully
+[2025-04-02 04:25:19]   - Updated with 6 tags
+[2025-04-02 04:25:19]   - Updated with 19 meta fields
+[2025-04-02 04:25:19]   - Updated with 1 images
+[2025-04-02 04:25:19] Generated permalink slug from primary keyword: cartier-la-panthere-eau-de-toilette
+[2025-04-02 04:25:22] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:25:22]   - Saved API response to seo_outputs\success_33076.json
+[2025-04-02 04:25:24] 🔄 [28/149] Processing: La Panthere Legere Eau De Parfum - 100ml (ID: 18592) - 18.8% complete
+[2025-04-02 04:25:24] 📤 Sending request to Claude for La Panthere Legere Eau De Parfum - 100ml
+[2025-04-02 04:25:51] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:25:51] 📥 Received response from Claude (5390 chars)
+[2025-04-02 04:25:51] 📄 Saved raw Claude response to seo_outputs\response_18592.txt
+[2025-04-02 04:25:51] Extracted 10 non-empty fields
+[2025-04-02 04:25:51] 📁 Saved content to seo_outputs\product_18592_La_Panthere_Legere_Eau_De_Parfum_-_100ml.json
+[2025-04-02 04:25:52] Found existing image ID: 18594
+[2025-04-02 04:25:53] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:25:53] Updating product 18592 with WooCommerce API
+[2025-04-02 04:25:58] ✅ Updated product 18592 successfully
+[2025-04-02 04:25:58]   - Updated with 6 tags
+[2025-04-02 04:25:58]   - Updated with 19 meta fields
+[2025-04-02 04:25:58]   - Updated with 1 images
+[2025-04-02 04:25:58] Generated permalink slug from primary keyword: cartier-la-panthere-legere
+[2025-04-02 04:26:01] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:26:01]   - Saved API response to seo_outputs\success_18592.json
+[2025-04-02 04:26:03] 🔄 [29/149] Processing: Le Beau Eau De Parfum Intense - 125ml (ID: 21454) - 19.5% complete
+[2025-04-02 04:26:03] 📤 Sending request to Claude for Le Beau Eau De Parfum Intense - 125ml
+[2025-04-02 04:26:30] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:26:30] 📥 Received response from Claude (5460 chars)
+[2025-04-02 04:26:30] 📄 Saved raw Claude response to seo_outputs\response_21454.txt
+[2025-04-02 04:26:30] Extracted 10 non-empty fields
+[2025-04-02 04:26:30] 📁 Saved content to seo_outputs\product_21454_Le_Beau_Eau_De_Parfum_Intense_-_125ml.json
+[2025-04-02 04:26:30] Found existing image ID: 21456
+[2025-04-02 04:26:31] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:26:31] Updating product 21454 with WooCommerce API
+[2025-04-02 04:26:36] ✅ Updated product 21454 successfully
+[2025-04-02 04:26:36]   - Updated with 6 tags
+[2025-04-02 04:26:36]   - Updated with 19 meta fields
+[2025-04-02 04:26:36]   - Updated with 1 images
+[2025-04-02 04:26:36] Generated permalink slug from primary keyword: le-beau-intense
+[2025-04-02 04:26:39] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:26:39]   - Saved API response to seo_outputs\success_21454.json
+[2025-04-02 04:26:41] 🔄 [30/149] Processing: Le Beau Eau De Toilette - 125ml (ID: 22697) - 20.1% complete
+[2025-04-02 04:26:41] 📤 Sending request to Claude for Le Beau Eau De Toilette - 125ml
+[2025-04-02 04:27:09] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:27:09] 📥 Received response from Claude (5467 chars)
+[2025-04-02 04:27:09] 📄 Saved raw Claude response to seo_outputs\response_22697.txt
+[2025-04-02 04:27:09] Extracted 10 non-empty fields
+[2025-04-02 04:27:09] 📁 Saved content to seo_outputs\product_22697_Le_Beau_Eau_De_Toilette_-_125ml.json
+[2025-04-02 04:27:10] Found existing image ID: 22699
+[2025-04-02 04:27:11] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:27:11] Updating product 22697 with WooCommerce API
+[2025-04-02 04:27:14] ✅ Updated product 22697 successfully
+[2025-04-02 04:27:14]   - Updated with 6 tags
+[2025-04-02 04:27:14]   - Updated with 19 meta fields
+[2025-04-02 04:27:14]   - Updated with 1 images
+[2025-04-02 04:27:14] Generated permalink slug from primary keyword: le-beau-eau-de-toilette
+[2025-04-02 04:27:15] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:27:15]   - Saved API response to seo_outputs\success_22697.json
+[2025-04-02 04:27:17] 🔄 [31/149] Processing: Le Beau Paradise Garden Eau De Parfum - 125ml (ID: 21458) - 20.8% complete
+[2025-04-02 04:27:17] 📤 Sending request to Claude for Le Beau Paradise Garden Eau De Parfum - 125ml
+[2025-04-02 04:27:42] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:27:42] 📥 Received response from Claude (5173 chars)
+[2025-04-02 04:27:42] 📄 Saved raw Claude response to seo_outputs\response_21458.txt
+[2025-04-02 04:27:42] Extracted 10 non-empty fields
+[2025-04-02 04:27:42] 📁 Saved content to seo_outputs\product_21458_Le_Beau_Paradise_Garden_Eau_De_Parfum_-_125ml.json
+[2025-04-02 04:27:43] Found existing image ID: 21460
+[2025-04-02 04:27:44] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:27:44] Updating product 21458 with WooCommerce API
+[2025-04-02 04:27:48] ✅ Updated product 21458 successfully
+[2025-04-02 04:27:48]   - Updated with 6 tags
+[2025-04-02 04:27:48]   - Updated with 19 meta fields
+[2025-04-02 04:27:48]   - Updated with 1 images
+[2025-04-02 04:27:48] Generated permalink slug from primary keyword: le-beau-paradise-garden
+[2025-04-02 04:27:52] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:27:52]   - Saved API response to seo_outputs\success_21458.json
+[2025-04-02 04:27:54] 🔄 [32/149] Processing: Le Male Eau De Toilette - 125ml (ID: 33601) - 21.5% complete
+[2025-04-02 04:27:54] 📤 Sending request to Claude for Le Male Eau De Toilette - 125ml
+[2025-04-02 04:28:19] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:28:19] 📥 Received response from Claude (5120 chars)
+[2025-04-02 04:28:19] 📄 Saved raw Claude response to seo_outputs\response_33601.txt
+[2025-04-02 04:28:19] Extracted 10 non-empty fields
+[2025-04-02 04:28:19] 📁 Saved content to seo_outputs\product_33601_Le_Male_Eau_De_Toilette_-_125ml.json
+[2025-04-02 04:28:20] Found existing image ID: 33603
+[2025-04-02 04:28:20] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:28:20] Updating product 33601 with WooCommerce API
+[2025-04-02 04:28:25] ✅ Updated product 33601 successfully
+[2025-04-02 04:28:25]   - Updated with 6 tags
+[2025-04-02 04:28:25]   - Updated with 19 meta fields
+[2025-04-02 04:28:25]   - Updated with 1 images
+[2025-04-02 04:28:25] Generated permalink slug from primary keyword: le-male-eau-de-toilette
+[2025-04-02 04:28:26] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:28:26]   - Saved API response to seo_outputs\success_33601.json
+[2025-04-02 04:28:28] 🔄 [33/149] Processing: Le Male Elixir Eau De Parfum - 125ml (ID: 33605) - 22.1% complete
+[2025-04-02 04:28:28] 📤 Sending request to Claude for Le Male Elixir Eau De Parfum - 125ml
+[2025-04-02 04:28:51] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:28:51] 📥 Received response from Claude (4943 chars)
+[2025-04-02 04:28:51] 📄 Saved raw Claude response to seo_outputs\response_33605.txt
+[2025-04-02 04:28:51] Extracted 10 non-empty fields
+[2025-04-02 04:28:51] 📁 Saved content to seo_outputs\product_33605_Le_Male_Elixir_Eau_De_Parfum_-_125ml.json
+[2025-04-02 04:28:52] Found existing image ID: 33607
+[2025-04-02 04:28:53] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:28:53] Updating product 33605 with WooCommerce API
+[2025-04-02 04:28:57] ✅ Updated product 33605 successfully
+[2025-04-02 04:28:57]   - Updated with 6 tags
+[2025-04-02 04:28:57]   - Updated with 19 meta fields
+[2025-04-02 04:28:57]   - Updated with 1 images
+[2025-04-02 04:28:57] Generated permalink slug from primary keyword: le-male-elixir-eau-de-parfum
+[2025-04-02 04:28:58] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:28:58]   - Saved API response to seo_outputs\success_33605.json
+[2025-04-02 04:29:00] 🔄 [34/149] Processing: Lilac EDP - 50ML (ID: 65674) - 22.8% complete
+[2025-04-02 04:29:00] 📤 Sending request to Claude for Lilac EDP - 50ML
+[2025-04-02 04:29:25] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:29:25] 📥 Received response from Claude (4896 chars)
+[2025-04-02 04:29:25] 📄 Saved raw Claude response to seo_outputs\response_65674.txt
+[2025-04-02 04:29:25] Extracted 10 non-empty fields
+[2025-04-02 04:29:25] 📁 Saved content to seo_outputs\product_65674_Lilac_EDP_-_50ML.json
+[2025-04-02 04:29:25] Found existing image ID: 65676
+[2025-04-02 04:29:26] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:29:26] Updating product 65674 with WooCommerce API
+[2025-04-02 04:29:30] ✅ Updated product 65674 successfully
+[2025-04-02 04:29:30]   - Updated with 6 tags
+[2025-04-02 04:29:30]   - Updated with 19 meta fields
+[2025-04-02 04:29:30]   - Updated with 1 images
+[2025-04-02 04:29:30] Generated permalink slug from primary keyword: lilac-eau-de-parfum
+[2025-04-02 04:29:35] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:29:35]   - Saved API response to seo_outputs\success_65674.json
+[2025-04-02 04:29:37] 🔄 [35/149] Processing: Mega Clear Brow &amp; Lash Mascara (ID: 37766) - 23.5% complete
+[2025-04-02 04:29:37] 📤 Sending request to Claude for Mega Clear Brow &amp; Lash Mascara
+[2025-04-02 04:30:04] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:30:04] 📥 Received response from Claude (5542 chars)
+[2025-04-02 04:30:04] 📄 Saved raw Claude response to seo_outputs\response_37766.txt
+[2025-04-02 04:30:04] Extracted 10 non-empty fields
+[2025-04-02 04:30:04] 📁 Saved content to seo_outputs\product_37766_Mega_Clear_Brow_&amp;_Lash_Mascara.json
+[2025-04-02 04:30:05] Found existing image ID: 37768
+[2025-04-02 04:30:06] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:30:06] Updating product 37766 with WooCommerce API
+[2025-04-02 04:30:10] ✅ Updated product 37766 successfully
+[2025-04-02 04:30:10]   - Updated with 6 tags
+[2025-04-02 04:30:10]   - Updated with 19 meta fields
+[2025-04-02 04:30:10]   - Updated with 1 images
+[2025-04-02 04:30:10] Generated permalink slug from primary keyword: clear-brow-and-lash-mascara
+[2025-04-02 04:30:15] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:30:15]   - Saved API response to seo_outputs\success_37766.json
+[2025-04-02 04:30:17] 🔄 [36/149] Processing: Mega Glo Lip &amp; Cheek Color - Berry True (ID: 37774) - 24.2% complete
+[2025-04-02 04:30:17] 📤 Sending request to Claude for Mega Glo Lip &amp; Cheek Color - Berry True
+[2025-04-02 04:30:44] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:30:44] 📥 Received response from Claude (5635 chars)
+[2025-04-02 04:30:44] 📄 Saved raw Claude response to seo_outputs\response_37774.txt
+[2025-04-02 04:30:44] Extracted 10 non-empty fields
+[2025-04-02 04:30:44] 📁 Saved content to seo_outputs\product_37774_Mega_Glo_Lip_&amp;_Cheek_Color_-_Berry_True.json
+[2025-04-02 04:30:44] Found existing image ID: 37776
+[2025-04-02 04:30:45] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:30:45] Updating product 37774 with WooCommerce API
+[2025-04-02 04:30:48] ✅ Updated product 37774 successfully
+[2025-04-02 04:30:48]   - Updated with 6 tags
+[2025-04-02 04:30:48]   - Updated with 19 meta fields
+[2025-04-02 04:30:48]   - Updated with 1 images
+[2025-04-02 04:30:48] Generated permalink slug from primary keyword: lip-and-cheek-color
+[2025-04-02 04:30:52] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:30:52]   - Saved API response to seo_outputs\success_37774.json
+[2025-04-02 04:30:54] 🔄 [37/149] Processing: Mega Glo Lip &amp; Cheek Color - Coral Dream (ID: 37779) - 24.8% complete
+[2025-04-02 04:30:54] 📤 Sending request to Claude for Mega Glo Lip &amp; Cheek Color - Coral Dream
+[2025-04-02 04:31:19] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:31:20] 📥 Received response from Claude (5104 chars)
+[2025-04-02 04:31:20] 📄 Saved raw Claude response to seo_outputs\response_37779.txt
+[2025-04-02 04:31:20] Extracted 10 non-empty fields
+[2025-04-02 04:31:20] 📁 Saved content to seo_outputs\product_37779_Mega_Glo_Lip_&amp;_Cheek_Color_-_Coral_Dream.json
+[2025-04-02 04:31:20] Found existing image ID: 37781
+[2025-04-02 04:31:21] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:31:21] Updating product 37779 with WooCommerce API
+[2025-04-02 04:31:25] ✅ Updated product 37779 successfully
+[2025-04-02 04:31:25]   - Updated with 6 tags
+[2025-04-02 04:31:25]   - Updated with 19 meta fields
+[2025-04-02 04:31:25]   - Updated with 1 images
+[2025-04-02 04:31:25] Generated permalink slug from primary keyword: lip-and-cheek-color
+[2025-04-02 04:31:28] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:31:28]   - Saved API response to seo_outputs\success_37779.json
+[2025-04-02 04:31:30] 🔄 [38/149] Processing: Moroccan Amber Eau De Parfum - 100ml (ID: 16969) - 25.5% complete
+[2025-04-02 04:31:30] 📤 Sending request to Claude for Moroccan Amber Eau De Parfum - 100ml
+[2025-04-02 04:31:56] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:31:56] 📥 Received response from Claude (5248 chars)
+[2025-04-02 04:31:56] 📄 Saved raw Claude response to seo_outputs\response_16969.txt
+[2025-04-02 04:31:56] Extracted 10 non-empty fields
+[2025-04-02 04:31:56] 📁 Saved content to seo_outputs\product_16969_Moroccan_Amber_Eau_De_Parfum_-_100ml.json
+[2025-04-02 04:31:56] Found existing image ID: 16974
+[2025-04-02 04:31:57] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:31:57] Updating product 16969 with WooCommerce API
+[2025-04-02 04:32:02] ✅ Updated product 16969 successfully
+[2025-04-02 04:32:02]   - Updated with 6 tags
+[2025-04-02 04:32:02]   - Updated with 19 meta fields
+[2025-04-02 04:32:02]   - Updated with 1 images
+[2025-04-02 04:32:02] Generated permalink slug from primary keyword: moroccan-amber-perfume
+[2025-04-02 04:32:06] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:32:06]   - Saved API response to seo_outputs\success_16969.json
+[2025-04-02 04:32:08] 🔄 [39/149] Processing: Pasha De Eau De Toilette  - 100ml (ID: 21597) - 26.2% complete
+[2025-04-02 04:32:08] 📤 Sending request to Claude for Pasha De Eau De Toilette  - 100ml
+[2025-04-02 04:32:35] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:32:35] 📥 Received response from Claude (5276 chars)
+[2025-04-02 04:32:35] 📄 Saved raw Claude response to seo_outputs\response_21597.txt
+[2025-04-02 04:32:35] Extracted 10 non-empty fields
+[2025-04-02 04:32:35] 📁 Saved content to seo_outputs\product_21597_Pasha_De_Eau_De_Toilette__-_100ml.json
+[2025-04-02 04:32:35] Found existing image ID: 21599
+[2025-04-02 04:32:36] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:32:36] Updating product 21597 with WooCommerce API
+[2025-04-02 04:32:41] ✅ Updated product 21597 successfully
+[2025-04-02 04:32:41]   - Updated with 6 tags
+[2025-04-02 04:32:41]   - Updated with 19 meta fields
+[2025-04-02 04:32:41]   - Updated with 1 images
+[2025-04-02 04:32:41] Generated permalink slug from primary keyword: pasha-de-cartier
+[2025-04-02 04:32:44] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:32:44]   - Saved API response to seo_outputs\success_21597.json
+[2025-04-02 04:32:46] 🔄 [40/149] Processing: Cartier De Pasha Parfum - 100ml (ID: 23111) - 26.8% complete
+[2025-04-02 04:32:46] 📤 Sending request to Claude for Cartier De Pasha Parfum - 100ml
+[2025-04-02 04:33:12] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:33:12] 📥 Received response from Claude (5113 chars)
+[2025-04-02 04:33:12] 📄 Saved raw Claude response to seo_outputs\response_23111.txt
+[2025-04-02 04:33:12] Extracted 10 non-empty fields
+[2025-04-02 04:33:12] 📁 Saved content to seo_outputs\product_23111_Cartier_De_Pasha_Parfum_-_100ml.json
+[2025-04-02 04:33:12] Found existing image ID: 23113
+[2025-04-02 04:33:13] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:33:13] Updating product 23111 with WooCommerce API
+[2025-04-02 04:33:17] ✅ Updated product 23111 successfully
+[2025-04-02 04:33:17]   - Updated with 6 tags
+[2025-04-02 04:33:17]   - Updated with 19 meta fields
+[2025-04-02 04:33:17]   - Updated with 1 images
+[2025-04-02 04:33:17] Generated permalink slug from primary keyword: pasha-de-cartier-parfum
+[2025-04-02 04:33:18] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:33:18]   - Saved API response to seo_outputs\success_23111.json
+[2025-04-02 04:33:20] 🔄 [41/149] Processing: Run Wild Eau De Parfum - 100ml (ID: 30822) - 27.5% complete
+[2025-04-02 04:33:20] 📤 Sending request to Claude for Run Wild Eau De Parfum - 100ml
+[2025-04-02 04:33:43] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:33:43] 📥 Received response from Claude (4400 chars)
+[2025-04-02 04:33:43] 📄 Saved raw Claude response to seo_outputs\response_30822.txt
+[2025-04-02 04:33:43] Extracted 10 non-empty fields
+[2025-04-02 04:33:43] 📁 Saved content to seo_outputs\product_30822_Run_Wild_Eau_De_Parfum_-_100ml.json
+[2025-04-02 04:33:43] Found existing image ID: 19090
+[2025-04-02 04:33:44] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:33:44] Updating product 30822 with WooCommerce API
+[2025-04-02 04:33:48] ✅ Updated product 30822 successfully
+[2025-04-02 04:33:48]   - Updated with 6 tags
+[2025-04-02 04:33:48]   - Updated with 19 meta fields
+[2025-04-02 04:33:48]   - Updated with 1 images
+[2025-04-02 04:33:48] Generated permalink slug from primary keyword: run-wild-eau-de-parfum
+[2025-04-02 04:33:52] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:33:52]   - Saved API response to seo_outputs\success_30822.json
+[2025-04-02 04:33:54] 🔄 [42/149] Processing: Santos De Eau De Toilette - 100ml (ID: 23905) - 28.2% complete
+[2025-04-02 04:33:54] 📤 Sending request to Claude for Santos De Eau De Toilette - 100ml
+[2025-04-02 04:34:19] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:34:19] 📥 Received response from Claude (5287 chars)
+[2025-04-02 04:34:19] 📄 Saved raw Claude response to seo_outputs\response_23905.txt
+[2025-04-02 04:34:19] Extracted 10 non-empty fields
+[2025-04-02 04:34:19] 📁 Saved content to seo_outputs\product_23905_Santos_De_Eau_De_Toilette_-_100ml.json
+[2025-04-02 04:34:20] Found existing image ID: 19068
+[2025-04-02 04:34:21] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:34:21] Updating product 23905 with WooCommerce API
+[2025-04-02 04:34:24] ✅ Updated product 23905 successfully
+[2025-04-02 04:34:24]   - Updated with 6 tags
+[2025-04-02 04:34:24]   - Updated with 19 meta fields
+[2025-04-02 04:34:24]   - Updated with 1 images
+[2025-04-02 04:34:24] Generated permalink slug from primary keyword: santos-de-cartier-cologne
+[2025-04-02 04:34:25] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:34:25]   - Saved API response to seo_outputs\success_23905.json
+[2025-04-02 04:34:27] 🔄 [43/149] Processing: Sauvage Eau De Parfum - 100 ml (ID: 23907) - 28.9% complete
+[2025-04-02 04:34:27] 📤 Sending request to Claude for Sauvage Eau De Parfum - 100 ml
+[2025-04-02 04:34:54] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:34:54] 📥 Received response from Claude (5093 chars)
+[2025-04-02 04:34:54] 📄 Saved raw Claude response to seo_outputs\response_23907.txt
+[2025-04-02 04:34:54] Extracted 10 non-empty fields
+[2025-04-02 04:34:54] 📁 Saved content to seo_outputs\product_23907_Sauvage_Eau_De_Parfum_-_100_ml.json
+[2025-04-02 04:34:55] Found existing image ID: 23909
+[2025-04-02 04:34:55] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:34:55] Updating product 23907 with WooCommerce API
+[2025-04-02 04:34:59] ✅ Updated product 23907 successfully
+[2025-04-02 04:34:59]   - Updated with 6 tags
+[2025-04-02 04:34:59]   - Updated with 19 meta fields
+[2025-04-02 04:34:59]   - Updated with 1 images
+[2025-04-02 04:34:59] Generated permalink slug from primary keyword: sauvage-eau-de-parfum
+[2025-04-02 04:35:00] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:35:00]   - Saved API response to seo_outputs\success_23907.json
+[2025-04-02 04:35:02] 🔄 [44/149] Processing: Ladies Scandal A Paris Eau De Toilette - 80ml (ID: 33089) - 29.5% complete
+[2025-04-02 04:35:02] 📤 Sending request to Claude for Ladies Scandal A Paris Eau De Toilette - 80ml
+[2025-04-02 04:35:31] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:35:31] 📥 Received response from Claude (5819 chars)
+[2025-04-02 04:35:31] 📄 Saved raw Claude response to seo_outputs\response_33089.txt
+[2025-04-02 04:35:31] Extracted 10 non-empty fields
+[2025-04-02 04:35:31] 📁 Saved content to seo_outputs\product_33089_Ladies_Scandal_A_Paris_Eau_De_Toilette_-_80ml.json
+[2025-04-02 04:35:31] Found existing image ID: 33091
+[2025-04-02 04:35:32] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:35:32] Updating product 33089 with WooCommerce API
+[2025-04-02 04:35:37] ✅ Updated product 33089 successfully
+[2025-04-02 04:35:37]   - Updated with 6 tags
+[2025-04-02 04:35:37]   - Updated with 19 meta fields
+[2025-04-02 04:35:37]   - Updated with 1 images
+[2025-04-02 04:35:37] Generated permalink slug from primary keyword: scandal-a-paris-eau-de-toilette
+[2025-04-02 04:35:39] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:35:39]   - Saved API response to seo_outputs\success_33089.json
+[2025-04-02 04:35:41] 🔄 [45/149] Processing: Scandal Absolu Eau De Parfum - 100ml (ID: 21659) - 30.2% complete
+[2025-04-02 04:35:41] 📤 Sending request to Claude for Scandal Absolu Eau De Parfum - 100ml
+[2025-04-02 04:36:09] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:36:09] 📥 Received response from Claude (5987 chars)
+[2025-04-02 04:36:09] 📄 Saved raw Claude response to seo_outputs\response_21659.txt
+[2025-04-02 04:36:09] Extracted 10 non-empty fields
+[2025-04-02 04:36:09] 📁 Saved content to seo_outputs\product_21659_Scandal_Absolu_Eau_De_Parfum_-_100ml.json
+[2025-04-02 04:36:10] Found existing image ID: 21661
+[2025-04-02 04:36:11] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:36:11] Updating product 21659 with WooCommerce API
+[2025-04-02 04:36:15] ✅ Updated product 21659 successfully
+[2025-04-02 04:36:15]   - Updated with 6 tags
+[2025-04-02 04:36:15]   - Updated with 19 meta fields
+[2025-04-02 04:36:15]   - Updated with 1 images
+[2025-04-02 04:36:15] Generated permalink slug from primary keyword: scandal-absolu-eau-de-parfum
+[2025-04-02 04:36:16] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:36:16]   - Saved API response to seo_outputs\success_21659.json
+[2025-04-02 04:36:18] 🔄 [46/149] Processing: Scandal by Night Eau De Parfum Intense - 80ml (ID: 32707) - 30.9% complete
+[2025-04-02 04:36:18] 📤 Sending request to Claude for Scandal by Night Eau De Parfum Intense - 80ml
+[2025-04-02 04:36:43] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:36:43] 📥 Received response from Claude (5137 chars)
+[2025-04-02 04:36:43] 📄 Saved raw Claude response to seo_outputs\response_32707.txt
+[2025-04-02 04:36:43] Extracted 10 non-empty fields
+[2025-04-02 04:36:43] 📁 Saved content to seo_outputs\product_32707_Scandal_by_Night_Eau_De_Parfum_Intense_-_80ml.json
+[2025-04-02 04:36:44] Found existing image ID: 32709
+[2025-04-02 04:36:45] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:36:45] Updating product 32707 with WooCommerce API
+[2025-04-02 04:36:48] ✅ Updated product 32707 successfully
+[2025-04-02 04:36:48]   - Updated with 6 tags
+[2025-04-02 04:36:48]   - Updated with 19 meta fields
+[2025-04-02 04:36:48]   - Updated with 1 images
+[2025-04-02 04:36:48] Generated permalink slug from primary keyword: scandal-by-night-eau-de-parfum-intense
+[2025-04-02 04:36:49] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:36:49]   - Saved API response to seo_outputs\success_32707.json
+[2025-04-02 04:36:51] 🔄 [47/149] Processing: Scandal Gold Eau De Parfum - 80ml (ID: 32711) - 31.5% complete
+[2025-04-02 04:36:51] 📤 Sending request to Claude for Scandal Gold Eau De Parfum - 80ml
+[2025-04-02 04:37:19] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:37:19] 📥 Received response from Claude (5547 chars)
+[2025-04-02 04:37:19] 📄 Saved raw Claude response to seo_outputs\response_32711.txt
+[2025-04-02 04:37:19] Extracted 10 non-empty fields
+[2025-04-02 04:37:19] 📁 Saved content to seo_outputs\product_32711_Scandal_Gold_Eau_De_Parfum_-_80ml.json
+[2025-04-02 04:37:19] Found existing image ID: 32713
+[2025-04-02 04:37:20] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:37:20] Updating product 32711 with WooCommerce API
+[2025-04-02 04:37:23] ✅ Updated product 32711 successfully
+[2025-04-02 04:37:23]   - Updated with 6 tags
+[2025-04-02 04:37:23]   - Updated with 19 meta fields
+[2025-04-02 04:37:23]   - Updated with 1 images
+[2025-04-02 04:37:23] Generated permalink slug from primary keyword: scandal-gold-eau-de-parfum
+[2025-04-02 04:37:24] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:37:24]   - Saved API response to seo_outputs\success_32711.json
+[2025-04-02 04:37:26] 🔄 [48/149] Processing: Ultra Male Eau De Toilette - 125ml (ID: 23616) - 32.2% complete
+[2025-04-02 04:37:26] 📤 Sending request to Claude for Ultra Male Eau De Toilette - 125ml
+[2025-04-02 04:37:52] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:37:52] 📥 Received response from Claude (5096 chars)
+[2025-04-02 04:37:52] 📄 Saved raw Claude response to seo_outputs\response_23616.txt
+[2025-04-02 04:37:52] Extracted 10 non-empty fields
+[2025-04-02 04:37:52] 📁 Saved content to seo_outputs\product_23616_Ultra_Male_Eau_De_Toilette_-_125ml.json
+[2025-04-02 04:37:53] Found existing image ID: 23618
+[2025-04-02 04:37:54] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:37:54] Updating product 23616 with WooCommerce API
+[2025-04-02 04:37:58] ✅ Updated product 23616 successfully
+[2025-04-02 04:37:58]   - Updated with 6 tags
+[2025-04-02 04:37:58]   - Updated with 19 meta fields
+[2025-04-02 04:37:58]   - Updated with 1 images
+[2025-04-02 04:37:58] Generated permalink slug from primary keyword: ultra-male-eau-de-toilette
+[2025-04-02 04:37:59] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:37:59]   - Saved API response to seo_outputs\success_23616.json
+[2025-04-02 04:38:01] 🔄 [49/149] Processing: Gardenia Petale EDP - 75ml (ID: 31784) - 32.9% complete
+[2025-04-02 04:38:01] 📤 Sending request to Claude for Gardenia Petale EDP - 75ml
+[2025-04-02 04:38:27] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:38:27] 📥 Received response from Claude (5176 chars)
+[2025-04-02 04:38:27] 📄 Saved raw Claude response to seo_outputs\response_31784.txt
+[2025-04-02 04:38:27] Extracted 10 non-empty fields
+[2025-04-02 04:38:27] 📁 Saved content to seo_outputs\product_31784_Gardenia_Petale_EDP_-_75ml.json
+[2025-04-02 04:38:28] Found existing image ID: 22949
+[2025-04-02 04:38:28] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:38:28] Updating product 31784 with WooCommerce API
+[2025-04-02 04:38:32] ✅ Updated product 31784 successfully
+[2025-04-02 04:38:32]   - Updated with 6 tags
+[2025-04-02 04:38:32]   - Updated with 19 meta fields
+[2025-04-02 04:38:32]   - Updated with 1 images
+[2025-04-02 04:38:32] Generated permalink slug from primary keyword: gardenia-perfume
+[2025-04-02 04:38:36] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:38:36]   - Saved API response to seo_outputs\success_31784.json
+[2025-04-02 04:38:38] 🔄 [50/149] Processing: Oud Blanc Eau De Parfum  - 75ml (ID: 32924) - 33.6% complete
+[2025-04-02 04:38:38] 📤 Sending request to Claude for Oud Blanc Eau De Parfum  - 75ml
+[2025-04-02 04:39:05] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:39:05] 📥 Received response from Claude (5623 chars)
+[2025-04-02 04:39:05] 📄 Saved raw Claude response to seo_outputs\response_32924.txt
+[2025-04-02 04:39:05] Extracted 10 non-empty fields
+[2025-04-02 04:39:05] 📁 Saved content to seo_outputs\product_32924_Oud_Blanc_Eau_De_Parfum__-_75ml.json
+[2025-04-02 04:39:06] Found existing image ID: 23778
+[2025-04-02 04:39:07] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:39:07] Updating product 32924 with WooCommerce API
+[2025-04-02 04:39:12] ✅ Updated product 32924 successfully
+[2025-04-02 04:39:12]   - Updated with 6 tags
+[2025-04-02 04:39:12]   - Updated with 19 meta fields
+[2025-04-02 04:39:12]   - Updated with 1 images
+[2025-04-02 04:39:12] Generated permalink slug from primary keyword: oud-blanc-eau-de-parfum
+[2025-04-02 04:39:16] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:39:16]   - Saved API response to seo_outputs\success_32924.json
+[2025-04-02 04:39:18] 🔄 [51/149] Processing: Precious Oud Gift Set - 2 pcs (ID: 32623) - 34.2% complete
+[2025-04-02 04:39:18] 📤 Sending request to Claude for Precious Oud Gift Set - 2 pcs
+[2025-04-02 04:39:45] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:39:45] 📥 Received response from Claude (5613 chars)
+[2025-04-02 04:39:45] 📄 Saved raw Claude response to seo_outputs\response_32623.txt
+[2025-04-02 04:39:45] Extracted 10 non-empty fields
+[2025-04-02 04:39:45] 📁 Saved content to seo_outputs\product_32623_Precious_Oud_Gift_Set_-_2_pcs.json
+[2025-04-02 04:39:46] Found existing image ID: 32625
+[2025-04-02 04:39:47] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:39:47] Updating product 32623 with WooCommerce API
+[2025-04-02 04:39:51] ✅ Updated product 32623 successfully
+[2025-04-02 04:39:51]   - Updated with 6 tags
+[2025-04-02 04:39:51]   - Updated with 19 meta fields
+[2025-04-02 04:39:51]   - Updated with 1 images
+[2025-04-02 04:39:51] Generated permalink slug from primary keyword: precious-oud-gift-set
+[2025-04-02 04:39:55] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:39:55]   - Saved API response to seo_outputs\success_32623.json
+[2025-04-02 04:39:57] 🔄 [52/149] Processing: Rose Rouge Eau De Parfum - 75ml (ID: 32682) - 34.9% complete
+[2025-04-02 04:39:57] 📤 Sending request to Claude for Rose Rouge Eau De Parfum - 75ml
+[2025-04-02 04:40:22] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:40:22] 📥 Received response from Claude (5283 chars)
+[2025-04-02 04:40:22] 📄 Saved raw Claude response to seo_outputs\response_32682.txt
+[2025-04-02 04:40:22] Extracted 10 non-empty fields
+[2025-04-02 04:40:22] 📁 Saved content to seo_outputs\product_32682_Rose_Rouge_Eau_De_Parfum_-_75ml.json
+[2025-04-02 04:40:24] Found existing image ID: 23885
+[2025-04-02 04:40:25] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:40:25] Updating product 32682 with WooCommerce API
+[2025-04-02 04:40:29] ✅ Updated product 32682 successfully
+[2025-04-02 04:40:29]   - Updated with 6 tags
+[2025-04-02 04:40:29]   - Updated with 19 meta fields
+[2025-04-02 04:40:29]   - Updated with 1 images
+[2025-04-02 04:40:29] Generated permalink slug from primary keyword: rose-rouge-perfume
+[2025-04-02 04:40:32] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:40:32]   - Saved API response to seo_outputs\success_32682.json
+[2025-04-02 04:40:34] 🔄 [53/149] Processing: Santal Blanc Eau De Parfum - 75ml (ID: 32096) - 35.6% complete
+[2025-04-02 04:40:34] 📤 Sending request to Claude for Santal Blanc Eau De Parfum - 75ml
+[2025-04-02 04:40:58] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:40:58] 📥 Received response from Claude (4581 chars)
+[2025-04-02 04:40:58] 📄 Saved raw Claude response to seo_outputs\response_32096.txt
+[2025-04-02 04:40:58] Extracted 10 non-empty fields
+[2025-04-02 04:40:58] 📁 Saved content to seo_outputs\product_32096_Santal_Blanc_Eau_De_Parfum_-_75ml.json
+[2025-04-02 04:40:59] Found existing image ID: 23463
+[2025-04-02 04:40:59] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:40:59] Updating product 32096 with WooCommerce API
+[2025-04-02 04:41:04] ✅ Updated product 32096 successfully
+[2025-04-02 04:41:04]   - Updated with 6 tags
+[2025-04-02 04:41:04]   - Updated with 19 meta fields
+[2025-04-02 04:41:04]   - Updated with 1 images
+[2025-04-02 04:41:04] Generated permalink slug from primary keyword: santal-blanc-eau-de-parfum
+[2025-04-02 04:41:07] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:41:07]   - Saved API response to seo_outputs\success_32096.json
+[2025-04-02 04:41:09] 🔄 [54/149] Processing: Dip Eyeliner Waterproof 24H Longlasting - Deep Black (ID: 38797) - 36.2% complete
+[2025-04-02 04:41:09] 📤 Sending request to Claude for Dip Eyeliner Waterproof 24H Longlasting - Deep Black
+[2025-04-02 04:41:35] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:41:35] 📥 Received response from Claude (5097 chars)
+[2025-04-02 04:41:35] 📄 Saved raw Claude response to seo_outputs\response_38797.txt
+[2025-04-02 04:41:35] Extracted 10 non-empty fields
+[2025-04-02 04:41:35] 📁 Saved content to seo_outputs\product_38797_Dip_Eyeliner_Waterproof_24H_Longlasting_-_Deep_Black.json
+[2025-04-02 04:41:35] Found existing image ID: 38799
+[2025-04-02 04:41:36] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:41:36] Updating product 38797 with WooCommerce API
+[2025-04-02 04:41:40] ✅ Updated product 38797 successfully
+[2025-04-02 04:41:40]   - Updated with 6 tags
+[2025-04-02 04:41:40]   - Updated with 19 meta fields
+[2025-04-02 04:41:40]   - Updated with 1 images
+[2025-04-02 04:41:40] Generated permalink slug from primary keyword: waterproof-eyeliner
+[2025-04-02 04:41:41] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:41:41]   - Saved API response to seo_outputs\success_38797.json
+[2025-04-02 04:41:43] 🔄 [55/149] Processing: Y Elixir Eau De Parfum for Men - 60ml (ID: 20552) - 36.9% complete
+[2025-04-02 04:41:43] 📤 Sending request to Claude for Y Elixir Eau De Parfum for Men - 60ml
+[2025-04-02 04:42:08] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:42:08] 📥 Received response from Claude (4879 chars)
+[2025-04-02 04:42:08] 📄 Saved raw Claude response to seo_outputs\response_20552.txt
+[2025-04-02 04:42:08] Extracted 10 non-empty fields
+[2025-04-02 04:42:08] 📁 Saved content to seo_outputs\product_20552_Y_Elixir_Eau_De_Parfum_for_Men_-_60ml.json
+[2025-04-02 04:42:09] Found existing image ID: 20554
+[2025-04-02 04:42:10] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:42:10] Updating product 20552 with WooCommerce API
+[2025-04-02 04:42:14] ✅ Updated product 20552 successfully
+[2025-04-02 04:42:14]   - Updated with 6 tags
+[2025-04-02 04:42:14]   - Updated with 19 meta fields
+[2025-04-02 04:42:14]   - Updated with 1 images
+[2025-04-02 04:42:14] Generated permalink slug from primary keyword: ysl-y-elixir
+[2025-04-02 04:42:17] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:42:17]   - Saved API response to seo_outputs\success_20552.json
+[2025-04-02 04:42:19] 🔄 [56/149] Processing: Dermato Clean Hyaluron Cleansing Gel 200ml (ID: 76) - 37.6% complete
+[2025-04-02 04:42:19] 📤 Sending request to Claude for Dermato Clean Hyaluron Cleansing Gel 200ml
+[2025-04-02 04:42:44] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:42:44] 📥 Received response from Claude (5544 chars)
+[2025-04-02 04:42:44] 📄 Saved raw Claude response to seo_outputs\response_76.txt
+[2025-04-02 04:42:44] Extracted 10 non-empty fields
+[2025-04-02 04:42:44] 📁 Saved content to seo_outputs\product_76_Dermato_Clean_Hyaluron_Cleansing_Gel_200ml.json
+[2025-04-02 04:42:45] Found existing image ID: 106
+[2025-04-02 04:42:45] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:42:45] Updating product 76 with WooCommerce API
+[2025-04-02 04:42:51] ✅ Updated product 76 successfully
+[2025-04-02 04:42:51]   - Updated with 6 tags
+[2025-04-02 04:42:51]   - Updated with 19 meta fields
+[2025-04-02 04:42:51]   - Updated with 1 images
+[2025-04-02 04:42:51] Generated permalink slug from primary keyword: hyaluronic-acid-cleansing-gel
+[2025-04-02 04:42:54] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:42:54]   - Saved API response to seo_outputs\success_76.json
+[2025-04-02 04:42:56] 🔄 [57/149] Processing: Cleansing Foam Face &amp; Eyes 200ml (ID: 77) - 38.3% complete
+[2025-04-02 04:42:56] 📤 Sending request to Claude for Cleansing Foam Face &amp; Eyes 200ml
+[2025-04-02 04:43:22] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:43:22] 📥 Received response from Claude (5331 chars)
+[2025-04-02 04:43:22] 📄 Saved raw Claude response to seo_outputs\response_77.txt
+[2025-04-02 04:43:22] Extracted 10 non-empty fields
+[2025-04-02 04:43:22] 📁 Saved content to seo_outputs\product_77_Cleansing_Foam_Face_&amp;_Eyes_200ml.json
+[2025-04-02 04:43:23] Found existing image ID: 107
+[2025-04-02 04:43:24] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:43:24] Updating product 77 with WooCommerce API
+[2025-04-02 04:43:28] ✅ Updated product 77 successfully
+[2025-04-02 04:43:28]   - Updated with 6 tags
+[2025-04-02 04:43:28]   - Updated with 19 meta fields
+[2025-04-02 04:43:28]   - Updated with 1 images
+[2025-04-02 04:43:28] Generated permalink slug from primary keyword: cleansing-foam
+[2025-04-02 04:43:31] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:43:31]   - Saved API response to seo_outputs\success_77.json
+[2025-04-02 04:43:33] 🔄 [58/149] Processing: Tensage Radiance Eye Contour 15ml (ID: 82) - 38.9% complete
+[2025-04-02 04:43:33] 📤 Sending request to Claude for Tensage Radiance Eye Contour 15ml
+[2025-04-02 04:43:58] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:43:58] 📥 Received response from Claude (5344 chars)
+[2025-04-02 04:43:58] 📄 Saved raw Claude response to seo_outputs\response_82.txt
+[2025-04-02 04:43:58] Extracted 10 non-empty fields
+[2025-04-02 04:43:58] 📁 Saved content to seo_outputs\product_82_Tensage_Radiance_Eye_Contour_15ml.json
+[2025-04-02 04:43:58] Found existing image ID: 112
+[2025-04-02 04:43:59] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:43:59] Updating product 82 with WooCommerce API
+[2025-04-02 04:44:04] ✅ Updated product 82 successfully
+[2025-04-02 04:44:04]   - Updated with 6 tags
+[2025-04-02 04:44:04]   - Updated with 19 meta fields
+[2025-04-02 04:44:04]   - Updated with 1 images
+[2025-04-02 04:44:04] Generated permalink slug from primary keyword: tensage-radiance-eye-contour
+[2025-04-02 04:44:07] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:44:07]   - Saved API response to seo_outputs\success_82.json
+[2025-04-02 04:44:09] 🔄 [59/149] Processing: Polo Blue Eau de Toilette (ID: 87) - 39.6% complete
+[2025-04-02 04:44:09] 📤 Sending request to Claude for Polo Blue Eau de Toilette
+[2025-04-02 04:44:31] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:44:31] 📥 Received response from Claude (4628 chars)
+[2025-04-02 04:44:31] 📄 Saved raw Claude response to seo_outputs\response_87.txt
+[2025-04-02 04:44:31] Extracted 10 non-empty fields
+[2025-04-02 04:44:31] 📁 Saved content to seo_outputs\product_87_Polo_Blue_Eau_de_Toilette.json
+[2025-04-02 04:44:32] Found existing image ID: 117
+[2025-04-02 04:44:33] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:44:33] Updating product 87 with WooCommerce API
+[2025-04-02 04:44:36] ✅ Updated product 87 successfully
+[2025-04-02 04:44:36]   - Updated with 6 tags
+[2025-04-02 04:44:36]   - Updated with 19 meta fields
+[2025-04-02 04:44:36]   - Updated with 1 images
+[2025-04-02 04:44:36] Generated permalink slug from primary keyword: polo-blue-eau-de-toilette
+[2025-04-02 04:44:37] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:44:37]   - Saved API response to seo_outputs\success_87.json
+[2025-04-02 04:44:39] 🔄 [60/149] Processing: Hugo Man Eau de Toilette (ID: 88) - 40.3% complete
+[2025-04-02 04:44:39] 📤 Sending request to Claude for Hugo Man Eau de Toilette
+[2025-04-02 04:45:09] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:45:09] 📥 Received response from Claude (5277 chars)
+[2025-04-02 04:45:09] 📄 Saved raw Claude response to seo_outputs\response_88.txt
+[2025-04-02 04:45:09] Extracted 10 non-empty fields
+[2025-04-02 04:45:09] 📁 Saved content to seo_outputs\product_88_Hugo_Man_Eau_de_Toilette.json
+[2025-04-02 04:45:09] Found existing image ID: 118
+[2025-04-02 04:45:10] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:45:10] Updating product 88 with WooCommerce API
+[2025-04-02 04:45:14] ✅ Updated product 88 successfully
+[2025-04-02 04:45:14]   - Updated with 6 tags
+[2025-04-02 04:45:14]   - Updated with 19 meta fields
+[2025-04-02 04:45:14]   - Updated with 1 images
+[2025-04-02 04:45:14] Generated permalink slug from primary keyword: hugo-man-eau-de-toilette
+[2025-04-02 04:45:15] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:45:15]   - Saved API response to seo_outputs\success_88.json
+[2025-04-02 04:45:17] 🔄 [61/149] Processing: Soft Touch Mousse Make-Up (ID: 93) - 40.9% complete
+[2025-04-02 04:45:17] 📤 Sending request to Claude for Soft Touch Mousse Make-Up
+[2025-04-02 04:45:43] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:45:43] 📥 Received response from Claude (5436 chars)
+[2025-04-02 04:45:43] 📄 Saved raw Claude response to seo_outputs\response_93.txt
+[2025-04-02 04:45:43] Extracted 10 non-empty fields
+[2025-04-02 04:45:43] 📁 Saved content to seo_outputs\product_93_Soft_Touch_Mousse_Make-Up.json
+[2025-04-02 04:45:44] Found existing image ID: 122
+[2025-04-02 04:45:45] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:45:45] Updating product 93 with WooCommerce API
+[2025-04-02 04:45:46] ⚠️ Attempt 1 failed: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/93. Retrying in 6s...
+[2025-04-02 04:45:52] Updating product 93 with WooCommerce API
+[2025-04-02 04:45:53] ⚠️ Attempt 2 failed: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/93. Retrying in 12s...
+[2025-04-02 04:46:05] Updating product 93 with WooCommerce API
+[2025-04-02 04:46:05] ❌ Exception during API request: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/93
+[2025-04-02 04:46:05]   - Saved request data to seo_outputs\api_request_exception_93.json
+[2025-04-02 04:46:07] 🔄 [62/149] Processing: Soft Touch Mousse Make-Up (ID: 94) - 41.6% complete
+[2025-04-02 04:46:07] 📤 Sending request to Claude for Soft Touch Mousse Make-Up
+[2025-04-02 04:46:35] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:46:35] 📥 Received response from Claude (5571 chars)
+[2025-04-02 04:46:35] 📄 Saved raw Claude response to seo_outputs\response_94.txt
+[2025-04-02 04:46:35] Extracted 10 non-empty fields
+[2025-04-02 04:46:35] 📁 Saved content to seo_outputs\product_94_Soft_Touch_Mousse_Make-Up.json
+[2025-04-02 04:46:35] Found existing image ID: 123
+[2025-04-02 04:46:36] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:46:36] Updating product 94 with WooCommerce API
+[2025-04-02 04:46:37] ⚠️ Attempt 1 failed: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/94. Retrying in 6s...
+[2025-04-02 04:46:43] Updating product 94 with WooCommerce API
+[2025-04-02 04:46:44] ⚠️ Attempt 2 failed: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/94. Retrying in 12s...
+[2025-04-02 04:46:56] Updating product 94 with WooCommerce API
+[2025-04-02 04:46:57] ❌ Exception during API request: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/94
+[2025-04-02 04:46:57]   - Saved request data to seo_outputs\api_request_exception_94.json
+[2025-04-02 04:46:59] 🔄 [63/149] Processing: Soft Touch Mousse Make-Up (ID: 95) - 42.3% complete
+[2025-04-02 04:46:59] 📤 Sending request to Claude for Soft Touch Mousse Make-Up
+[2025-04-02 04:47:24] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:47:24] 📥 Received response from Claude (5348 chars)
+[2025-04-02 04:47:24] 📄 Saved raw Claude response to seo_outputs\response_95.txt
+[2025-04-02 04:47:24] Extracted 10 non-empty fields
+[2025-04-02 04:47:24] 📁 Saved content to seo_outputs\product_95_Soft_Touch_Mousse_Make-Up.json
+[2025-04-02 04:47:24] Found existing image ID: 124
+[2025-04-02 04:47:25] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:47:25] Updating product 95 with WooCommerce API
+[2025-04-02 04:47:26] ⚠️ Attempt 1 failed: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/95. Retrying in 6s...
+[2025-04-02 04:47:32] Updating product 95 with WooCommerce API
+[2025-04-02 04:47:33] ⚠️ Attempt 2 failed: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/95. Retrying in 12s...
+[2025-04-02 04:47:45] Updating product 95 with WooCommerce API
+[2025-04-02 04:47:46] ❌ Exception during API request: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/95
+[2025-04-02 04:47:46]   - Saved request data to seo_outputs\api_request_exception_95.json
+[2025-04-02 04:47:48] 🔄 [64/149] Processing: Coverstick (ID: 100) - 43.0% complete
+[2025-04-02 04:47:48] 📤 Sending request to Claude for Coverstick
+[2025-04-02 04:48:14] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:48:14] 📥 Received response from Claude (5475 chars)
+[2025-04-02 04:48:14] 📄 Saved raw Claude response to seo_outputs\response_100.txt
+[2025-04-02 04:48:14] Extracted 10 non-empty fields
+[2025-04-02 04:48:14] 📁 Saved content to seo_outputs\product_100_Coverstick.json
+[2025-04-02 04:48:15] Found existing image ID: 128
+[2025-04-02 04:48:16] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:48:16] Updating product 100 with WooCommerce API
+[2025-04-02 04:48:17] ⚠️ Attempt 1 failed: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/100. Retrying in 6s...
+[2025-04-02 04:48:23] Updating product 100 with WooCommerce API
+[2025-04-02 04:48:23] ⚠️ Attempt 2 failed: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/100. Retrying in 12s...
+[2025-04-02 04:48:35] Updating product 100 with WooCommerce API
+[2025-04-02 04:48:36] ❌ Exception during API request: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/100
+[2025-04-02 04:48:36]   - Saved request data to seo_outputs\api_request_exception_100.json
+[2025-04-02 04:48:38] 🔄 [65/149] Processing: Coverstick (ID: 101) - 43.6% complete
+[2025-04-02 04:48:38] 📤 Sending request to Claude for Coverstick
+[2025-04-02 04:49:01] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:49:01] 📥 Received response from Claude (4673 chars)
+[2025-04-02 04:49:01] 📄 Saved raw Claude response to seo_outputs\response_101.txt
+[2025-04-02 04:49:01] Extracted 10 non-empty fields
+[2025-04-02 04:49:01] 📁 Saved content to seo_outputs\product_101_Coverstick.json
+[2025-04-02 04:49:02] Found existing image ID: 127
+[2025-04-02 04:49:03] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:49:03] Updating product 101 with WooCommerce API
+[2025-04-02 04:49:04] ⚠️ Attempt 1 failed: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/101. Retrying in 6s...
+[2025-04-02 04:49:10] Updating product 101 with WooCommerce API
+[2025-04-02 04:49:11] ⚠️ Attempt 2 failed: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/101. Retrying in 12s...
+[2025-04-02 04:49:23] Updating product 101 with WooCommerce API
+[2025-04-02 04:49:24] ❌ Exception during API request: 404 Client Error: Not Found for url: https://xsellpoint.com/wp-json/wc/v3/products/101
+[2025-04-02 04:49:24]   - Saved request data to seo_outputs\api_request_exception_101.json
+[2025-04-02 04:49:26] 🔄 [66/149] Processing: Pure Volume Mascara (ID: 103) - 44.3% complete
+[2025-04-02 04:49:26] 📤 Sending request to Claude for Pure Volume Mascara
+[2025-04-02 04:49:37] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 "
+[2025-04-02 04:49:37] Retrying request to /v1/messages in 0.447292 seconds
+[2025-04-02 04:50:01] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:50:01] 📥 Received response from Claude (5007 chars)
+[2025-04-02 04:50:01] 📄 Saved raw Claude response to seo_outputs\response_103.txt
+[2025-04-02 04:50:01] Extracted 10 non-empty fields
+[2025-04-02 04:50:01] 📁 Saved content to seo_outputs\product_103_Pure_Volume_Mascara.json
+[2025-04-02 04:50:02] Found existing image ID: 130
+[2025-04-02 04:50:03] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:50:03] Updating product 103 with WooCommerce API
+[2025-04-02 04:50:09] ✅ Updated product 103 successfully
+[2025-04-02 04:50:09]   - Updated with 6 tags
+[2025-04-02 04:50:09]   - Updated with 19 meta fields
+[2025-04-02 04:50:09]   - Updated with 1 images
+[2025-04-02 04:50:09] Generated permalink slug from primary keyword: volumizing-mascara
+[2025-04-02 04:50:12] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:50:12]   - Saved API response to seo_outputs\success_103.json
+[2025-04-02 04:50:14] 🔄 [67/149] Processing: Lift Effect Lashes 741 x1 Pair (ID: 104) - 45.0% complete
+[2025-04-02 04:50:14] 📤 Sending request to Claude for Lift Effect Lashes 741 x1 Pair
+[2025-04-02 04:50:38] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:50:38] 📥 Received response from Claude (4966 chars)
+[2025-04-02 04:50:38] 📄 Saved raw Claude response to seo_outputs\response_104.txt
+[2025-04-02 04:50:38] Extracted 10 non-empty fields
+[2025-04-02 04:50:38] 📁 Saved content to seo_outputs\product_104_Lift_Effect_Lashes_741_x1_Pair.json
+[2025-04-02 04:50:39] Found existing image ID: 131
+[2025-04-02 04:50:39] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:50:39] Updating product 104 with WooCommerce API
+[2025-04-02 04:50:44] ✅ Updated product 104 successfully
+[2025-04-02 04:50:44]   - Updated with 6 tags
+[2025-04-02 04:50:44]   - Updated with 19 meta fields
+[2025-04-02 04:50:44]   - Updated with 1 images
+[2025-04-02 04:50:44] Generated permalink slug from primary keyword: false-eyelashes
+[2025-04-02 04:50:48] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:50:48]   - Saved API response to seo_outputs\success_104.json
+[2025-04-02 04:50:50] 🔄 [68/149] Processing: Power Full 5 Lip Care (ID: 105) - 45.6% complete
+[2025-04-02 04:50:50] 📤 Sending request to Claude for Power Full 5 Lip Care
+[2025-04-02 04:51:15] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:51:15] 📥 Received response from Claude (5302 chars)
+[2025-04-02 04:51:15] 📄 Saved raw Claude response to seo_outputs\response_105.txt
+[2025-04-02 04:51:15] Extracted 10 non-empty fields
+[2025-04-02 04:51:15] 📁 Saved content to seo_outputs\product_105_Power_Full_5_Lip_Care.json
+[2025-04-02 04:51:16] Found existing image ID: 132
+[2025-04-02 04:51:17] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:51:17] Updating product 105 with WooCommerce API
+[2025-04-02 04:51:22] ✅ Updated product 105 successfully
+[2025-04-02 04:51:22]   - Updated with 6 tags
+[2025-04-02 04:51:22]   - Updated with 19 meta fields
+[2025-04-02 04:51:22]   - Updated with 1 images
+[2025-04-02 04:51:22] Generated permalink slug from primary keyword: lip-care
+[2025-04-02 04:51:25] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:51:25]   - Saved API response to seo_outputs\success_105.json
+[2025-04-02 04:51:27] 🔄 [69/149] Processing: Ink Airy Velvet (ID: 133) - 46.3% complete
+[2025-04-02 04:51:27] 📤 Sending request to Claude for Ink Airy Velvet
+[2025-04-02 04:51:46] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 "
+[2025-04-02 04:51:46] Retrying request to /v1/messages in 0.496286 seconds
+[2025-04-02 04:52:13] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:52:13] 📥 Received response from Claude (5553 chars)
+[2025-04-02 04:52:13] 📄 Saved raw Claude response to seo_outputs\response_133.txt
+[2025-04-02 04:52:13] Extracted 10 non-empty fields
+[2025-04-02 04:52:13] 📁 Saved content to seo_outputs\product_133_Ink_Airy_Velvet.json
+[2025-04-02 04:52:14] Found existing image ID: 150
+[2025-04-02 04:52:15] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:52:15] Updating product 133 with WooCommerce API
+[2025-04-02 04:52:19] ✅ Updated product 133 successfully
+[2025-04-02 04:52:19]   - Updated with 6 tags
+[2025-04-02 04:52:19]   - Updated with 19 meta fields
+[2025-04-02 04:52:19]   - Updated with 1 images
+[2025-04-02 04:52:19] Generated permalink slug from primary keyword: oriental-fragrance
+[2025-04-02 04:52:22] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:52:22]   - Saved API response to seo_outputs\success_133.json
+[2025-04-02 04:52:24] 🔄 [70/149] Processing: Beauty Curly Locks Hair Mask 35ml (ID: 136) - 47.0% complete
+[2025-04-02 04:52:24] 📤 Sending request to Claude for Beauty Curly Locks Hair Mask 35ml
+[2025-04-02 04:52:49] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:52:49] 📥 Received response from Claude (5007 chars)
+[2025-04-02 04:52:49] 📄 Saved raw Claude response to seo_outputs\response_136.txt
+[2025-04-02 04:52:49] Extracted 10 non-empty fields
+[2025-04-02 04:52:49] 📁 Saved content to seo_outputs\product_136_Beauty_Curly_Locks_Hair_Mask_35ml.json
+[2025-04-02 04:52:49] Found existing image ID: 153
+[2025-04-02 04:52:50] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:52:50] Updating product 136 with WooCommerce API
+[2025-04-02 04:52:54] ✅ Updated product 136 successfully
+[2025-04-02 04:52:54]   - Updated with 6 tags
+[2025-04-02 04:52:54]   - Updated with 19 meta fields
+[2025-04-02 04:52:54]   - Updated with 1 images
+[2025-04-02 04:52:54] Generated permalink slug from primary keyword: curly-hair-mask
+[2025-04-02 04:52:57] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:52:57]   - Saved API response to seo_outputs\success_136.json
+[2025-04-02 04:52:59] 🔄 [71/149] Processing: Keratin Repair Nourish &amp; Repair Conditioner 150ml (ID: 137) - 47.7% complete
+[2025-04-02 04:52:59] 📤 Sending request to Claude for Keratin Repair Nourish &amp; Repair Conditioner 150ml
+[2025-04-02 04:53:27] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:53:27] 📥 Received response from Claude (6098 chars)
+[2025-04-02 04:53:27] 📄 Saved raw Claude response to seo_outputs\response_137.txt
+[2025-04-02 04:53:27] Extracted 10 non-empty fields
+[2025-04-02 04:53:27] 📁 Saved content to seo_outputs\product_137_Keratin_Repair_Nourish_&amp;_Repair_Conditioner_150ml.json
+[2025-04-02 04:53:28] Found existing image ID: 154
+[2025-04-02 04:53:28] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:53:28] Updating product 137 with WooCommerce API
+[2025-04-02 04:53:33] ✅ Updated product 137 successfully
+[2025-04-02 04:53:33]   - Updated with 6 tags
+[2025-04-02 04:53:33]   - Updated with 19 meta fields
+[2025-04-02 04:53:33]   - Updated with 1 images
+[2025-04-02 04:53:33] Generated permalink slug from primary keyword: keratin-repair-conditioner
+[2025-04-02 04:53:36] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:53:36]   - Saved API response to seo_outputs\success_137.json
+[2025-04-02 04:53:38] 🔄 [72/149] Processing: Coils &amp; Curls Co-Wash 100ml (ID: 138) - 48.3% complete
+[2025-04-02 04:53:38] 📤 Sending request to Claude for Coils &amp; Curls Co-Wash 100ml
+[2025-04-02 04:54:00] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:54:00] 📥 Received response from Claude (4436 chars)
+[2025-04-02 04:54:00] 📄 Saved raw Claude response to seo_outputs\response_138.txt
+[2025-04-02 04:54:00] Extracted 10 non-empty fields
+[2025-04-02 04:54:00] 📁 Saved content to seo_outputs\product_138_Coils_&amp;_Curls_Co-Wash_100ml.json
+[2025-04-02 04:54:01] Found existing image ID: 155
+[2025-04-02 04:54:02] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:54:02] Updating product 138 with WooCommerce API
+[2025-04-02 04:54:07] ✅ Updated product 138 successfully
+[2025-04-02 04:54:07]   - Updated with 6 tags
+[2025-04-02 04:54:07]   - Updated with 19 meta fields
+[2025-04-02 04:54:07]   - Updated with 1 images
+[2025-04-02 04:54:07] Generated permalink slug from primary keyword: co-wash-cleanser
+[2025-04-02 04:54:11] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:54:11]   - Saved API response to seo_outputs\success_138.json
+[2025-04-02 04:54:13] 🔄 [73/149] Processing: KHADLAJ LA FEDE AURA KISS OF ROSE EDP 100ML (ID: 15881) - 49.0% complete
+[2025-04-02 04:54:13] 📤 Sending request to Claude for KHADLAJ LA FEDE AURA KISS OF ROSE EDP 100ML
+[2025-04-02 04:54:38] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:54:38] 📥 Received response from Claude (4932 chars)
+[2025-04-02 04:54:38] 📄 Saved raw Claude response to seo_outputs\response_15881.txt
+[2025-04-02 04:54:38] Extracted 10 non-empty fields
+[2025-04-02 04:54:38] 📁 Saved content to seo_outputs\product_15881_KHADLAJ_LA_FEDE_AURA_KISS_OF_ROSE_EDP_100ML.json
+[2025-04-02 04:54:38] Found existing image ID: 15816
+[2025-04-02 04:54:39] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:54:39] Updating product 15881 with WooCommerce API
+[2025-04-02 04:54:43] ✅ Updated product 15881 successfully
+[2025-04-02 04:54:43]   - Updated with 6 tags
+[2025-04-02 04:54:43]   - Updated with 19 meta fields
+[2025-04-02 04:54:43]   - Updated with 1 images
+[2025-04-02 04:54:43] Generated permalink slug from primary keyword: rose-fragrance
+[2025-04-02 04:54:45] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:54:45]   - Saved API response to seo_outputs\success_15881.json
+[2025-04-02 04:54:47] 🔄 [74/149] Processing: KHADLAJ LA FEDE AURA CRISP FLOWER EDP 100ML (ID: 15883) - 49.7% complete
+[2025-04-02 04:54:47] 📤 Sending request to Claude for KHADLAJ LA FEDE AURA CRISP FLOWER EDP 100ML
+[2025-04-02 04:55:12] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:55:12] 📥 Received response from Claude (4982 chars)
+[2025-04-02 04:55:12] 📄 Saved raw Claude response to seo_outputs\response_15883.txt
+[2025-04-02 04:55:12] Extracted 10 non-empty fields
+[2025-04-02 04:55:12] 📁 Saved content to seo_outputs\product_15883_KHADLAJ_LA_FEDE_AURA_CRISP_FLOWER_EDP_100ML.json
+[2025-04-02 04:55:13] Found existing image ID: 15817
+[2025-04-02 04:55:14] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:55:14] Updating product 15883 with WooCommerce API
+[2025-04-02 04:55:18] ✅ Updated product 15883 successfully
+[2025-04-02 04:55:18]   - Updated with 6 tags
+[2025-04-02 04:55:18]   - Updated with 19 meta fields
+[2025-04-02 04:55:18]   - Updated with 1 images
+[2025-04-02 04:55:18] Generated permalink slug from primary keyword: khadlaj-la-fede-aura-crisp-flower
+[2025-04-02 04:55:21] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:55:21]   - Saved API response to seo_outputs\success_15883.json
+[2025-04-02 04:55:23] 🔄 [75/149] Processing: KHADLAJ CASHMERE WARM OUD 100ML (ID: 15885) - 50.3% complete
+[2025-04-02 04:55:23] 📤 Sending request to Claude for KHADLAJ CASHMERE WARM OUD 100ML
+[2025-04-02 04:55:48] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:55:48] 📥 Received response from Claude (4994 chars)
+[2025-04-02 04:55:48] 📄 Saved raw Claude response to seo_outputs\response_15885.txt
+[2025-04-02 04:55:48] Extracted 10 non-empty fields
+[2025-04-02 04:55:48] 📁 Saved content to seo_outputs\product_15885_KHADLAJ_CASHMERE_WARM_OUD_100ML.json
+[2025-04-02 04:55:49] Found existing image ID: 15818
+[2025-04-02 04:55:50] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:55:50] Updating product 15885 with WooCommerce API
+[2025-04-02 04:55:54] ✅ Updated product 15885 successfully
+[2025-04-02 04:55:54]   - Updated with 6 tags
+[2025-04-02 04:55:54]   - Updated with 19 meta fields
+[2025-04-02 04:55:54]   - Updated with 1 images
+[2025-04-02 04:55:54] Generated permalink slug from primary keyword: khadlaj-cashmere-warm-oud
+[2025-04-02 04:55:57] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:55:57]   - Saved API response to seo_outputs\success_15885.json
+[2025-04-02 04:55:59] 🔄 [76/149] Processing: KHADLAJ CASHMERE SUNSHINE MUSK 100ML (ID: 15887) - 51.0% complete
+[2025-04-02 04:55:59] 📤 Sending request to Claude for KHADLAJ CASHMERE SUNSHINE MUSK 100ML
+[2025-04-02 04:56:26] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:56:26] 📥 Received response from Claude (5441 chars)
+[2025-04-02 04:56:26] 📄 Saved raw Claude response to seo_outputs\response_15887.txt
+[2025-04-02 04:56:26] Extracted 10 non-empty fields
+[2025-04-02 04:56:26] 📁 Saved content to seo_outputs\product_15887_KHADLAJ_CASHMERE_SUNSHINE_MUSK_100ML.json
+[2025-04-02 04:56:27] Found existing image ID: 15819
+[2025-04-02 04:56:28] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:56:28] Updating product 15887 with WooCommerce API
+[2025-04-02 04:56:36] ✅ Updated product 15887 successfully
+[2025-04-02 04:56:36]   - Updated with 6 tags
+[2025-04-02 04:56:36]   - Updated with 19 meta fields
+[2025-04-02 04:56:36]   - Updated with 1 images
+[2025-04-02 04:56:36] Generated permalink slug from primary keyword: khadlaj-cashmere-sunshine-musk
+[2025-04-02 04:56:40] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:56:40]   - Saved API response to seo_outputs\success_15887.json
+[2025-04-02 04:56:42] 🔄 [77/149] Processing: KHADLAJ MAISON EPOQUE ARTISTIQUE 100ML (ID: 15889) - 51.7% complete
+[2025-04-02 04:56:42] 📤 Sending request to Claude for KHADLAJ MAISON EPOQUE ARTISTIQUE 100ML
+[2025-04-02 04:57:08] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:57:08] 📥 Received response from Claude (5485 chars)
+[2025-04-02 04:57:08] 📄 Saved raw Claude response to seo_outputs\response_15889.txt
+[2025-04-02 04:57:08] Extracted 10 non-empty fields
+[2025-04-02 04:57:08] 📁 Saved content to seo_outputs\product_15889_KHADLAJ_MAISON_EPOQUE_ARTISTIQUE_100ML.json
+[2025-04-02 04:57:09] Found existing image ID: 15820
+[2025-04-02 04:57:10] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:57:10] Updating product 15889 with WooCommerce API
+[2025-04-02 04:57:13] ✅ Updated product 15889 successfully
+[2025-04-02 04:57:13]   - Updated with 6 tags
+[2025-04-02 04:57:13]   - Updated with 19 meta fields
+[2025-04-02 04:57:13]   - Updated with 1 images
+[2025-04-02 04:57:13] Generated permalink slug from primary keyword: khadlaj-maison-epoque-artistique
+[2025-04-02 04:57:15] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:57:15]   - Saved API response to seo_outputs\success_15889.json
+[2025-04-02 04:57:17] 🔄 [78/149] Processing: KHADLAJ MAISON CREATION DE REVE 100ML (ID: 15891) - 52.3% complete
+[2025-04-02 04:57:17] 📤 Sending request to Claude for KHADLAJ MAISON CREATION DE REVE 100ML
+[2025-04-02 04:57:41] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:57:41] 📥 Received response from Claude (4748 chars)
+[2025-04-02 04:57:41] 📄 Saved raw Claude response to seo_outputs\response_15891.txt
+[2025-04-02 04:57:41] Extracted 10 non-empty fields
+[2025-04-02 04:57:41] 📁 Saved content to seo_outputs\product_15891_KHADLAJ_MAISON_CREATION_DE_REVE_100ML.json
+[2025-04-02 04:57:42] Found existing image ID: 15821
+[2025-04-02 04:57:43] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:57:43] Updating product 15891 with WooCommerce API
+[2025-04-02 04:57:45] ✅ Updated product 15891 successfully
+[2025-04-02 04:57:45]   - Updated with 6 tags
+[2025-04-02 04:57:45]   - Updated with 19 meta fields
+[2025-04-02 04:57:45]   - Updated with 1 images
+[2025-04-02 04:57:45] Generated permalink slug from primary keyword: khadlaj-maison-creation-de-reve
+[2025-04-02 04:57:48] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:57:48]   - Saved API response to seo_outputs\success_15891.json
+[2025-04-02 04:57:50] 🔄 [79/149] Processing: KHADLAJ PURE MUSK EDP 100ML (ID: 15893) - 53.0% complete
+[2025-04-02 04:57:50] 📤 Sending request to Claude for KHADLAJ PURE MUSK EDP 100ML
+[2025-04-02 04:58:15] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:58:15] 📥 Received response from Claude (4852 chars)
+[2025-04-02 04:58:15] 📄 Saved raw Claude response to seo_outputs\response_15893.txt
+[2025-04-02 04:58:15] Extracted 10 non-empty fields
+[2025-04-02 04:58:15] 📁 Saved content to seo_outputs\product_15893_KHADLAJ_PURE_MUSK_EDP_100ML.json
+[2025-04-02 04:58:15] Found existing image ID: 15822
+[2025-04-02 04:58:16] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:58:16] Updating product 15893 with WooCommerce API
+[2025-04-02 04:58:19] ✅ Updated product 15893 successfully
+[2025-04-02 04:58:19]   - Updated with 6 tags
+[2025-04-02 04:58:19]   - Updated with 19 meta fields
+[2025-04-02 04:58:19]   - Updated with 1 images
+[2025-04-02 04:58:19] Generated permalink slug from primary keyword: khadlaj-pure-musk
+[2025-04-02 04:58:23] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:58:23]   - Saved API response to seo_outputs\success_15893.json
+[2025-04-02 04:58:25] 🔄 [80/149] Processing: KHADLAJ SENSOUS NIGHT EDP 100ML (ID: 15895) - 53.7% complete
+[2025-04-02 04:58:25] 📤 Sending request to Claude for KHADLAJ SENSOUS NIGHT EDP 100ML
+[2025-04-02 04:58:47] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:58:47] 📥 Received response from Claude (4516 chars)
+[2025-04-02 04:58:47] 📄 Saved raw Claude response to seo_outputs\response_15895.txt
+[2025-04-02 04:58:47] Extracted 10 non-empty fields
+[2025-04-02 04:58:47] 📁 Saved content to seo_outputs\product_15895_KHADLAJ_SENSOUS_NIGHT_EDP_100ML.json
+[2025-04-02 04:58:48] Found existing image ID: 15823
+[2025-04-02 04:58:49] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:58:49] Updating product 15895 with WooCommerce API
+[2025-04-02 04:58:51] ✅ Updated product 15895 successfully
+[2025-04-02 04:58:51]   - Updated with 6 tags
+[2025-04-02 04:58:51]   - Updated with 19 meta fields
+[2025-04-02 04:58:51]   - Updated with 1 images
+[2025-04-02 04:58:51] Generated permalink slug from primary keyword: khadlaj-sensous-night
+[2025-04-02 04:58:55] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:58:55]   - Saved API response to seo_outputs\success_15895.json
+[2025-04-02 04:58:57] 🔄 [81/149] Processing: KHADLAJ ROSE AND ROMANCE EDP 100ML (ID: 15897) - 54.4% complete
+[2025-04-02 04:58:57] 📤 Sending request to Claude for KHADLAJ ROSE AND ROMANCE EDP 100ML
+[2025-04-02 04:59:20] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:59:20] 📥 Received response from Claude (4987 chars)
+[2025-04-02 04:59:20] 📄 Saved raw Claude response to seo_outputs\response_15897.txt
+[2025-04-02 04:59:20] Extracted 10 non-empty fields
+[2025-04-02 04:59:20] 📁 Saved content to seo_outputs\product_15897_KHADLAJ_ROSE_AND_ROMANCE_EDP_100ML.json
+[2025-04-02 04:59:21] Found existing image ID: 15824
+[2025-04-02 04:59:22] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:59:22] Updating product 15897 with WooCommerce API
+[2025-04-02 04:59:25] ✅ Updated product 15897 successfully
+[2025-04-02 04:59:25]   - Updated with 6 tags
+[2025-04-02 04:59:25]   - Updated with 19 meta fields
+[2025-04-02 04:59:25]   - Updated with 1 images
+[2025-04-02 04:59:25] Generated permalink slug from primary keyword: khadlaj-rose-and-romance
+[2025-04-02 04:59:28] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 04:59:28]   - Saved API response to seo_outputs\success_15897.json
+[2025-04-02 04:59:30] 🔄 [82/149] Processing: KHADLAJ OUD NOIR EDP 100ML (ID: 15899) - 55.0% complete
+[2025-04-02 04:59:30] 📤 Sending request to Claude for KHADLAJ OUD NOIR EDP 100ML
+[2025-04-02 04:59:56] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 04:59:56] 📥 Received response from Claude (4926 chars)
+[2025-04-02 04:59:56] 📄 Saved raw Claude response to seo_outputs\response_15899.txt
+[2025-04-02 04:59:56] Extracted 10 non-empty fields
+[2025-04-02 04:59:56] 📁 Saved content to seo_outputs\product_15899_KHADLAJ_OUD_NOIR_EDP_100ML.json
+[2025-04-02 04:59:56] Found existing image ID: 15825
+[2025-04-02 04:59:57] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 04:59:57] Updating product 15899 with WooCommerce API
+[2025-04-02 05:00:01] ✅ Updated product 15899 successfully
+[2025-04-02 05:00:01]   - Updated with 6 tags
+[2025-04-02 05:00:01]   - Updated with 19 meta fields
+[2025-04-02 05:00:01]   - Updated with 1 images
+[2025-04-02 05:00:01] Generated permalink slug from primary keyword: khadlaj-oud-noir
+[2025-04-02 05:00:07] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:00:07]   - Saved API response to seo_outputs\success_15899.json
+[2025-04-02 05:00:09] 🔄 [83/149] Processing: ARMAF CDN PRIVATE KEY TO MY LIFE 100ML (ID: 15901) - 55.7% complete
+[2025-04-02 05:00:09] 📤 Sending request to Claude for ARMAF CDN PRIVATE KEY TO MY LIFE 100ML
+[2025-04-02 05:00:32] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:00:32] 📥 Received response from Claude (4978 chars)
+[2025-04-02 05:00:32] 📄 Saved raw Claude response to seo_outputs\response_15901.txt
+[2025-04-02 05:00:32] Extracted 10 non-empty fields
+[2025-04-02 05:00:32] 📁 Saved content to seo_outputs\product_15901_ARMAF_CDN_PRIVATE_KEY_TO_MY_LIFE_100ML.json
+[2025-04-02 05:00:33] Found existing image ID: 15827
+[2025-04-02 05:00:34] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:00:34] Updating product 15901 with WooCommerce API
+[2025-04-02 05:00:37] ✅ Updated product 15901 successfully
+[2025-04-02 05:00:37]   - Updated with 6 tags
+[2025-04-02 05:00:37]   - Updated with 19 meta fields
+[2025-04-02 05:00:37]   - Updated with 1 images
+[2025-04-02 05:00:37] Generated permalink slug from primary keyword: armaf-cdn-private-key-to-my-life
+[2025-04-02 05:00:41] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:00:41]   - Saved API response to seo_outputs\success_15901.json
+[2025-04-02 05:00:43] 🔄 [84/149] Processing: ARMAF CDN PRIVATE KEY TO MY DREAMS 100ML (ID: 15903) - 56.4% complete
+[2025-04-02 05:00:43] 📤 Sending request to Claude for ARMAF CDN PRIVATE KEY TO MY DREAMS 100ML
+[2025-04-02 05:01:05] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:01:05] 📥 Received response from Claude (4628 chars)
+[2025-04-02 05:01:05] 📄 Saved raw Claude response to seo_outputs\response_15903.txt
+[2025-04-02 05:01:05] Extracted 10 non-empty fields
+[2025-04-02 05:01:05] 📁 Saved content to seo_outputs\product_15903_ARMAF_CDN_PRIVATE_KEY_TO_MY_DREAMS_100ML.json
+[2025-04-02 05:01:06] Found existing image ID: 15828
+[2025-04-02 05:01:07] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:01:07] Updating product 15903 with WooCommerce API
+[2025-04-02 05:01:10] ✅ Updated product 15903 successfully
+[2025-04-02 05:01:10]   - Updated with 6 tags
+[2025-04-02 05:01:10]   - Updated with 19 meta fields
+[2025-04-02 05:01:10]   - Updated with 1 images
+[2025-04-02 05:01:10] Generated permalink slug from primary keyword: armaf-cdn-private-key-to-my-dreams
+[2025-04-02 05:01:13] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:01:13]   - Saved API response to seo_outputs\success_15903.json
+[2025-04-02 05:01:15] 🔄 [85/149] Processing: ARMAF CDN PRIVATE KEY TO MY LOVE 100ML (ID: 15905) - 57.0% complete
+[2025-04-02 05:01:15] 📤 Sending request to Claude for ARMAF CDN PRIVATE KEY TO MY LOVE 100ML
+[2025-04-02 05:01:39] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:01:39] 📥 Received response from Claude (4780 chars)
+[2025-04-02 05:01:39] 📄 Saved raw Claude response to seo_outputs\response_15905.txt
+[2025-04-02 05:01:39] Extracted 10 non-empty fields
+[2025-04-02 05:01:39] 📁 Saved content to seo_outputs\product_15905_ARMAF_CDN_PRIVATE_KEY_TO_MY_LOVE_100ML.json
+[2025-04-02 05:01:40] Found existing image ID: 15829
+[2025-04-02 05:01:41] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:01:41] Updating product 15905 with WooCommerce API
+[2025-04-02 05:01:44] ✅ Updated product 15905 successfully
+[2025-04-02 05:01:44]   - Updated with 6 tags
+[2025-04-02 05:01:44]   - Updated with 19 meta fields
+[2025-04-02 05:01:44]   - Updated with 1 images
+[2025-04-02 05:01:44] Generated permalink slug from primary keyword: armaf-cdn-private-key-to-my-love
+[2025-04-02 05:01:47] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:01:47]   - Saved API response to seo_outputs\success_15905.json
+[2025-04-02 05:01:49] 🔄 [86/149] Processing: ARMAF CDN PRIVATE KEY TO MY SOUL 100ML (ID: 15907) - 57.7% complete
+[2025-04-02 05:01:49] 📤 Sending request to Claude for ARMAF CDN PRIVATE KEY TO MY SOUL 100ML
+[2025-04-02 05:02:14] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:02:14] 📥 Received response from Claude (4720 chars)
+[2025-04-02 05:02:14] 📄 Saved raw Claude response to seo_outputs\response_15907.txt
+[2025-04-02 05:02:14] Extracted 10 non-empty fields
+[2025-04-02 05:02:14] 📁 Saved content to seo_outputs\product_15907_ARMAF_CDN_PRIVATE_KEY_TO_MY_SOUL_100ML.json
+[2025-04-02 05:02:15] Found existing image ID: 15830
+[2025-04-02 05:02:16] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:02:16] Updating product 15907 with WooCommerce API
+[2025-04-02 05:02:19] ✅ Updated product 15907 successfully
+[2025-04-02 05:02:19]   - Updated with 6 tags
+[2025-04-02 05:02:19]   - Updated with 19 meta fields
+[2025-04-02 05:02:19]   - Updated with 1 images
+[2025-04-02 05:02:19] Generated permalink slug from primary keyword: armaf-cdn-private-key-to-my-soul
+[2025-04-02 05:02:23] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:02:23]   - Saved API response to seo_outputs\success_15907.json
+[2025-04-02 05:02:25] 🔄 [87/149] Processing: ARMAF CDN PRIVATE KEY TO MY SUCCESS 100ML (ID: 15909) - 58.4% complete
+[2025-04-02 05:02:25] 📤 Sending request to Claude for ARMAF CDN PRIVATE KEY TO MY SUCCESS 100ML
+[2025-04-02 05:02:49] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:02:49] 📥 Received response from Claude (5109 chars)
+[2025-04-02 05:02:49] 📄 Saved raw Claude response to seo_outputs\response_15909.txt
+[2025-04-02 05:02:49] Extracted 10 non-empty fields
+[2025-04-02 05:02:49] 📁 Saved content to seo_outputs\product_15909_ARMAF_CDN_PRIVATE_KEY_TO_MY_SUCCESS_100ML.json
+[2025-04-02 05:02:50] Found existing image ID: 15832
+[2025-04-02 05:02:51] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:02:51] Updating product 15909 with WooCommerce API
+[2025-04-02 05:02:54] ✅ Updated product 15909 successfully
+[2025-04-02 05:02:54]   - Updated with 6 tags
+[2025-04-02 05:02:54]   - Updated with 19 meta fields
+[2025-04-02 05:02:54]   - Updated with 1 images
+[2025-04-02 05:02:54] Generated permalink slug from primary keyword: armaf-cdn-private-key-to-my-success
+[2025-04-02 05:02:56] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:02:56]   - Saved API response to seo_outputs\success_15909.json
+[2025-04-02 05:02:58] 🔄 [88/149] Processing: ARMAF Club de Nuit Blue Iconic for Men EDP 105mL (ID: 15913) - 59.1% complete
+[2025-04-02 05:02:58] 📤 Sending request to Claude for ARMAF Club de Nuit Blue Iconic for Men EDP 105mL
+[2025-04-02 05:03:23] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:03:23] 📥 Received response from Claude (4954 chars)
+[2025-04-02 05:03:23] 📄 Saved raw Claude response to seo_outputs\response_15913.txt
+[2025-04-02 05:03:23] Extracted 10 non-empty fields
+[2025-04-02 05:03:23] 📁 Saved content to seo_outputs\product_15913_ARMAF_Club_de_Nuit_Blue_Iconic_for_Men_EDP_105mL.json
+[2025-04-02 05:03:24] Found existing image ID: 15834
+[2025-04-02 05:03:24] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:03:24] Updating product 15913 with WooCommerce API
+[2025-04-02 05:03:28] ✅ Updated product 15913 successfully
+[2025-04-02 05:03:28]   - Updated with 6 tags
+[2025-04-02 05:03:28]   - Updated with 19 meta fields
+[2025-04-02 05:03:28]   - Updated with 1 images
+[2025-04-02 05:03:28] Generated permalink slug from primary keyword: armaf-club-de-nuit-blue-iconic
+[2025-04-02 05:03:30] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:03:30]   - Saved API response to seo_outputs\success_15913.json
+[2025-04-02 05:03:32] 🔄 [89/149] Processing: ARMAF CDN URBAN MAN ELIXIR EDP 105ML (ID: 15915) - 59.7% complete
+[2025-04-02 05:03:32] 📤 Sending request to Claude for ARMAF CDN URBAN MAN ELIXIR EDP 105ML
+[2025-04-02 05:03:57] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:03:57] 📥 Received response from Claude (5145 chars)
+[2025-04-02 05:03:57] 📄 Saved raw Claude response to seo_outputs\response_15915.txt
+[2025-04-02 05:03:57] Extracted 10 non-empty fields
+[2025-04-02 05:03:57] 📁 Saved content to seo_outputs\product_15915_ARMAF_CDN_URBAN_MAN_ELIXIR_EDP_105ML.json
+[2025-04-02 05:03:58] Found existing image ID: 15835
+[2025-04-02 05:03:58] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:03:58] Updating product 15915 with WooCommerce API
+[2025-04-02 05:04:02] ✅ Updated product 15915 successfully
+[2025-04-02 05:04:02]   - Updated with 6 tags
+[2025-04-02 05:04:02]   - Updated with 19 meta fields
+[2025-04-02 05:04:02]   - Updated with 1 images
+[2025-04-02 05:04:02] Generated permalink slug from primary keyword: armaf-cdn-urban-man-elixir
+[2025-04-02 05:04:07] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:04:07]   - Saved API response to seo_outputs\success_15915.json
+[2025-04-02 05:04:09] 🔄 [90/149] Processing: ARMAF HUNTER INTENSE EDT 100ML Brown (ID: 15917) - 60.4% complete
+[2025-04-02 05:04:09] 📤 Sending request to Claude for ARMAF HUNTER INTENSE EDT 100ML Brown
+[2025-04-02 05:04:33] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:04:33] 📥 Received response from Claude (5134 chars)
+[2025-04-02 05:04:33] 📄 Saved raw Claude response to seo_outputs\response_15917.txt
+[2025-04-02 05:04:33] Extracted 10 non-empty fields
+[2025-04-02 05:04:33] 📁 Saved content to seo_outputs\product_15917_ARMAF_HUNTER_INTENSE_EDT_100ML_Brown.json
+[2025-04-02 05:04:34] Found existing image ID: 15836
+[2025-04-02 05:04:35] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:04:35] Updating product 15917 with WooCommerce API
+[2025-04-02 05:04:39] ✅ Updated product 15917 successfully
+[2025-04-02 05:04:39]   - Updated with 6 tags
+[2025-04-02 05:04:39]   - Updated with 19 meta fields
+[2025-04-02 05:04:39]   - Updated with 1 images
+[2025-04-02 05:04:39] Generated permalink slug from primary keyword: armaf-hunter-intense-edt
+[2025-04-02 05:04:42] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:04:42]   - Saved API response to seo_outputs\success_15917.json
+[2025-04-02 05:04:44] 🔄 [91/149] Processing: ARMAF CRAZE EDT 100ML (ID: 15919) - 61.1% complete
+[2025-04-02 05:04:44] 📤 Sending request to Claude for ARMAF CRAZE EDT 100ML
+[2025-04-02 05:05:08] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:05:09] 📥 Received response from Claude (5033 chars)
+[2025-04-02 05:05:09] 📄 Saved raw Claude response to seo_outputs\response_15919.txt
+[2025-04-02 05:05:09] Extracted 10 non-empty fields
+[2025-04-02 05:05:09] 📁 Saved content to seo_outputs\product_15919_ARMAF_CRAZE_EDT_100ML.json
+[2025-04-02 05:05:09] Found existing image ID: 15837
+[2025-04-02 05:05:10] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:05:10] Updating product 15919 with WooCommerce API
+[2025-04-02 05:05:14] ✅ Updated product 15919 successfully
+[2025-04-02 05:05:14]   - Updated with 6 tags
+[2025-04-02 05:05:14]   - Updated with 19 meta fields
+[2025-04-02 05:05:14]   - Updated with 1 images
+[2025-04-02 05:05:14] Generated permalink slug from primary keyword: armaf-craze-edt-100ml
+[2025-04-02 05:05:15] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:05:15]   - Saved API response to seo_outputs\success_15919.json
+[2025-04-02 05:05:17] 🔄 [92/149] Processing: ARMAF LEGASI MEN EDP 100 ML (ID: 15921) - 61.7% complete
+[2025-04-02 05:05:17] 📤 Sending request to Claude for ARMAF LEGASI MEN EDP 100 ML
+[2025-04-02 05:05:41] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:05:41] 📥 Received response from Claude (4791 chars)
+[2025-04-02 05:05:41] 📄 Saved raw Claude response to seo_outputs\response_15921.txt
+[2025-04-02 05:05:41] Extracted 10 non-empty fields
+[2025-04-02 05:05:41] 📁 Saved content to seo_outputs\product_15921_ARMAF_LEGASI_MEN_EDP_100_ML.json
+[2025-04-02 05:05:41] Found existing image ID: 15838
+[2025-04-02 05:05:42] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:05:42] Updating product 15921 with WooCommerce API
+[2025-04-02 05:05:46] ✅ Updated product 15921 successfully
+[2025-04-02 05:05:46]   - Updated with 6 tags
+[2025-04-02 05:05:46]   - Updated with 19 meta fields
+[2025-04-02 05:05:46]   - Updated with 1 images
+[2025-04-02 05:05:46] Generated permalink slug from primary keyword: armaf-legasi-men-edp
+[2025-04-02 05:05:49] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:05:49]   - Saved API response to seo_outputs\success_15921.json
+[2025-04-02 05:05:51] 🔄 [93/149] Processing: ARMAF TRES NUIT EDT 100ML (ID: 15923) - 62.4% complete
+[2025-04-02 05:05:51] 📤 Sending request to Claude for ARMAF TRES NUIT EDT 100ML
+[2025-04-02 05:06:15] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:06:15] 📥 Received response from Claude (4899 chars)
+[2025-04-02 05:06:15] 📄 Saved raw Claude response to seo_outputs\response_15923.txt
+[2025-04-02 05:06:15] Extracted 10 non-empty fields
+[2025-04-02 05:06:15] 📁 Saved content to seo_outputs\product_15923_ARMAF_TRES_NUIT_EDT_100ML.json
+[2025-04-02 05:06:16] Found existing image ID: 15839
+[2025-04-02 05:06:17] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:06:17] Updating product 15923 with WooCommerce API
+[2025-04-02 05:06:20] ✅ Updated product 15923 successfully
+[2025-04-02 05:06:20]   - Updated with 6 tags
+[2025-04-02 05:06:20]   - Updated with 19 meta fields
+[2025-04-02 05:06:20]   - Updated with 1 images
+[2025-04-02 05:06:20] Generated permalink slug from primary keyword: armaf-tres-nuit-edt
+[2025-04-02 05:06:23] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:06:23]   - Saved API response to seo_outputs\success_15923.json
+[2025-04-02 05:06:25] 🔄 [94/149] Processing: ARMAF TAG HIM EDT 100ML (ID: 15925) - 63.1% complete
+[2025-04-02 05:06:25] 📤 Sending request to Claude for ARMAF TAG HIM EDT 100ML
+[2025-04-02 05:06:50] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:06:50] 📥 Received response from Claude (5179 chars)
+[2025-04-02 05:06:50] 📄 Saved raw Claude response to seo_outputs\response_15925.txt
+[2025-04-02 05:06:50] Extracted 10 non-empty fields
+[2025-04-02 05:06:50] 📁 Saved content to seo_outputs\product_15925_ARMAF_TAG_HIM_EDT_100ML.json
+[2025-04-02 05:06:51] Found existing image ID: 15840
+[2025-04-02 05:06:52] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:06:52] Updating product 15925 with WooCommerce API
+[2025-04-02 05:06:55] ✅ Updated product 15925 successfully
+[2025-04-02 05:06:55]   - Updated with 6 tags
+[2025-04-02 05:06:55]   - Updated with 19 meta fields
+[2025-04-02 05:06:55]   - Updated with 1 images
+[2025-04-02 05:06:55] Generated permalink slug from primary keyword: armaf-tag-him-edt
+[2025-04-02 05:06:58] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:06:58]   - Saved API response to seo_outputs\success_15925.json
+[2025-04-02 05:07:00] 🔄 [95/149] Processing: ARMAF CLUB DE NUIT MILESTONE EDP 105 ML (ID: 15927) - 63.8% complete
+[2025-04-02 05:07:00] 📤 Sending request to Claude for ARMAF CLUB DE NUIT MILESTONE EDP 105 ML
+[2025-04-02 05:07:26] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:07:26] 📥 Received response from Claude (5381 chars)
+[2025-04-02 05:07:26] 📄 Saved raw Claude response to seo_outputs\response_15927.txt
+[2025-04-02 05:07:26] Extracted 10 non-empty fields
+[2025-04-02 05:07:26] 📁 Saved content to seo_outputs\product_15927_ARMAF CLUB DE NUIT MILESTONE EDP_105 ML.json
+[2025-04-02 05:07:27] Found existing image ID: 15841
+[2025-04-02 05:07:28] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:07:28] Updating product 15927 with WooCommerce API
+[2025-04-02 05:07:31] ✅ Updated product 15927 successfully
+[2025-04-02 05:07:31]   - Updated with 6 tags
+[2025-04-02 05:07:31]   - Updated with 19 meta fields
+[2025-04-02 05:07:31]   - Updated with 1 images
+[2025-04-02 05:07:31] Generated permalink slug from primary keyword: armaf-club-de-nuit-milestone
+[2025-04-02 05:07:34] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:07:34]   - Saved API response to seo_outputs\success_15927.json
+[2025-04-02 05:07:36] 🔄 [96/149] Processing: ARMAF  Club de Nuit Intense Man (EDT & Limited Edition) 105 ML (ID: 15929) - 64.4% complete
+[2025-04-02 05:07:36] 📤 Sending request to Claude for ARMAF  Club de Nuit Intense Man (EDT & Limited Edition) 105 ML
+[2025-04-02 05:07:59] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:07:59] 📥 Received response from Claude (4943 chars)
+[2025-04-02 05:07:59] 📄 Saved raw Claude response to seo_outputs\response_15929.txt
+[2025-04-02 05:07:59] Extracted 10 non-empty fields
+[2025-04-02 05:07:59] 📁 Saved content to seo_outputs\product_15929_ARMAF__Club_de_Nuit_Intense_Man_(EDT_&_Limited_Edition)_105_ML.json
+[2025-04-02 05:08:00] Found existing image ID: 15842
+[2025-04-02 05:08:01] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:08:01] Updating product 15929 with WooCommerce API
+[2025-04-02 05:08:05] ✅ Updated product 15929 successfully
+[2025-04-02 05:08:05]   - Updated with 6 tags
+[2025-04-02 05:08:05]   - Updated with 19 meta fields
+[2025-04-02 05:08:05]   - Updated with 1 images
+[2025-04-02 05:08:05] Generated permalink slug from primary keyword: armaf-club-de-nuit-intense-man
+[2025-04-02 05:08:08] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:08:08]   - Saved API response to seo_outputs\success_15929.json
+[2025-04-02 05:08:10] 🔄 [97/149] Processing: ARMAF HUNTER INTENSE EDT 100ML Black (ID: 15931) - 65.1% complete
+[2025-04-02 05:08:10] 📤 Sending request to Claude for ARMAF HUNTER INTENSE EDT 100ML Black
+[2025-04-02 05:08:34] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:08:34] 📥 Received response from Claude (4796 chars)
+[2025-04-02 05:08:34] 📄 Saved raw Claude response to seo_outputs\response_15931.txt
+[2025-04-02 05:08:34] Extracted 10 non-empty fields
+[2025-04-02 05:08:34] 📁 Saved content to seo_outputs\product_15931_ARMAF_HUNTER_INTENSE_EDT_100ML_Black.json
+[2025-04-02 05:08:35] Found existing image ID: 15843
+[2025-04-02 05:08:36] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:08:36] Updating product 15931 with WooCommerce API
+[2025-04-02 05:08:40] ✅ Updated product 15931 successfully
+[2025-04-02 05:08:40]   - Updated with 6 tags
+[2025-04-02 05:08:40]   - Updated with 19 meta fields
+[2025-04-02 05:08:40]   - Updated with 1 images
+[2025-04-02 05:08:40] Generated permalink slug from primary keyword: armaf-hunter-intense-edt
+[2025-04-02 05:08:42] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:08:42]   - Saved API response to seo_outputs\success_15931.json
+[2025-04-02 05:08:44] 🔄 [98/149] Processing: ARMAF CLUB DE NUIT SILLAGE EDP 105 ML (ID: 15933) - 65.8% complete
+[2025-04-02 05:08:44] 📤 Sending request to Claude for ARMAF CLUB DE NUIT SILLAGE EDP 105 ML
+[2025-04-02 05:09:10] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:09:10] 📥 Received response from Claude (5243 chars)
+[2025-04-02 05:09:10] 📄 Saved raw Claude response to seo_outputs\response_15933.txt
+[2025-04-02 05:09:10] Extracted 10 non-empty fields
+[2025-04-02 05:09:10] 📁 Saved content to seo_outputs\product_15933_ARMAF CLUB DE NUIT SILLAGE EDP_105 ML.json
+[2025-04-02 05:09:10] Found existing image ID: 15844
+[2025-04-02 05:09:11] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:09:11] Updating product 15933 with WooCommerce API
+[2025-04-02 05:09:14] ✅ Updated product 15933 successfully
+[2025-04-02 05:09:14]   - Updated with 6 tags
+[2025-04-02 05:09:14]   - Updated with 19 meta fields
+[2025-04-02 05:09:14]   - Updated with 1 images
+[2025-04-02 05:09:14] Generated permalink slug from primary keyword: armaf-club-de-nuit-sillage
+[2025-04-02 05:09:17] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:09:17]   - Saved API response to seo_outputs\success_15933.json
+[2025-04-02 05:09:19] 🔄 [99/149] Processing: BRANDY SAFFRON NOIR 100 ML EDP (ID: 15935) - 66.4% complete
+[2025-04-02 05:09:19] 📤 Sending request to Claude for BRANDY SAFFRON NOIR 100 ML EDP
+[2025-04-02 05:09:45] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:09:45] 📥 Received response from Claude (5201 chars)
+[2025-04-02 05:09:45] 📄 Saved raw Claude response to seo_outputs\response_15935.txt
+[2025-04-02 05:09:45] Extracted 10 non-empty fields
+[2025-04-02 05:09:45] 📁 Saved content to seo_outputs\product_15935_BRANDY SAFFRON NOIR 100 ML EDP.json
+[2025-04-02 05:09:45] Found existing image ID: 15846
+[2025-04-02 05:09:46] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:09:46] Updating product 15935 with WooCommerce API
+[2025-04-02 05:09:49] ✅ Updated product 15935 successfully
+[2025-04-02 05:09:49]   - Updated with 6 tags
+[2025-04-02 05:09:49]   - Updated with 19 meta fields
+[2025-04-02 05:09:49]   - Updated with 1 images
+[2025-04-02 05:09:49] Generated permalink slug from primary keyword: oriental-saffron-fragrance
+[2025-04-02 05:09:52] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:09:52]   - Saved API response to seo_outputs\success_15935.json
+[2025-04-02 05:09:54] 🔄 [100/149] Processing: BRANDY MERRY NOIR 100 ML EDP (ID: 15937) - 67.1% complete
+[2025-04-02 05:09:54] 📤 Sending request to Claude for BRANDY MERRY NOIR 100 ML EDP
+[2025-04-02 05:10:19] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:10:19] 📥 Received response from Claude (4775 chars)
+[2025-04-02 05:10:19] 📄 Saved raw Claude response to seo_outputs\response_15937.txt
+[2025-04-02 05:10:19] Extracted 10 non-empty fields
+[2025-04-02 05:10:19] 📁 Saved content to seo_outputs\product_15937_BRANDY MERRY NOIR 100 ML EDP.json
+[2025-04-02 05:10:19] Found existing image ID: 15847
+[2025-04-02 05:10:20] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:10:20] Updating product 15937 with WooCommerce API
+[2025-04-02 05:10:23] ✅ Updated product 15937 successfully
+[2025-04-02 05:10:23]   - Updated with 6 tags
+[2025-04-02 05:10:23]   - Updated with 19 meta fields
+[2025-04-02 05:10:23]   - Updated with 1 images
+[2025-04-02 05:10:23] Generated permalink slug from primary keyword: brandy-merry-noir
+[2025-04-02 05:10:26] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:10:26]   - Saved API response to seo_outputs\success_15937.json
+[2025-04-02 05:10:28] 🔄 [101/149] Processing: BRANDY DANIEL & GLORIA 100ML (ID: 15939) - 67.8% complete
+[2025-04-02 05:10:28] 📤 Sending request to Claude for BRANDY DANIEL & GLORIA 100ML
+[2025-04-02 05:10:52] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:10:52] 📥 Received response from Claude (4966 chars)
+[2025-04-02 05:10:52] 📄 Saved raw Claude response to seo_outputs\response_15939.txt
+[2025-04-02 05:10:52] Extracted 10 non-empty fields
+[2025-04-02 05:10:52] 📁 Saved content to seo_outputs\product_15939_BRANDY_DANIEL_&_GLORIA_100ML.json
+[2025-04-02 05:10:53] Found existing image ID: 15848
+[2025-04-02 05:10:54] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:10:54] Updating product 15939 with WooCommerce API
+[2025-04-02 05:10:57] ✅ Updated product 15939 successfully
+[2025-04-02 05:10:57]   - Updated with 6 tags
+[2025-04-02 05:10:57]   - Updated with 19 meta fields
+[2025-04-02 05:10:57]   - Updated with 1 images
+[2025-04-02 05:10:57] Generated permalink slug from primary keyword: amber-fragrance
+[2025-04-02 05:11:00] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:11:00]   - Saved API response to seo_outputs\success_15939.json
+[2025-04-02 05:11:02] 🔄 [102/149] Processing: BRANDY BARACCAT 100 ML EDP (ID: 15941) - 68.5% complete
+[2025-04-02 05:11:02] 📤 Sending request to Claude for BRANDY BARACCAT 100 ML EDP
+[2025-04-02 05:11:25] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:11:25] 📥 Received response from Claude (4600 chars)
+[2025-04-02 05:11:25] 📄 Saved raw Claude response to seo_outputs\response_15941.txt
+[2025-04-02 05:11:25] Extracted 10 non-empty fields
+[2025-04-02 05:11:25] 📁 Saved content to seo_outputs\product_15941_BRANDY BARACCAT 100 ML EDP.json
+[2025-04-02 05:11:26] Found existing image ID: 15849
+[2025-04-02 05:11:27] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:11:27] Updating product 15941 with WooCommerce API
+[2025-04-02 05:11:30] ✅ Updated product 15941 successfully
+[2025-04-02 05:11:30]   - Updated with 6 tags
+[2025-04-02 05:11:30]   - Updated with 19 meta fields
+[2025-04-02 05:11:30]   - Updated with 1 images
+[2025-04-02 05:11:30] Generated permalink slug from primary keyword: oriental-fragrance
+[2025-04-02 05:11:33] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:11:33]   - Saved API response to seo_outputs\success_15941.json
+[2025-04-02 05:11:35] 🔄 [103/149] Processing: BRANDY SALVAGE EDP 100ML (ID: 15943) - 69.1% complete
+[2025-04-02 05:11:35] 📤 Sending request to Claude for BRANDY SALVAGE EDP 100ML
+[2025-04-02 05:11:58] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:11:58] 📥 Received response from Claude (4813 chars)
+[2025-04-02 05:11:58] 📄 Saved raw Claude response to seo_outputs\response_15943.txt
+[2025-04-02 05:11:58] Extracted 10 non-empty fields
+[2025-04-02 05:11:58] 📁 Saved content to seo_outputs\product_15943_BRANDY_SALVAGE_EDP_100ML.json
+[2025-04-02 05:11:59] Found existing image ID: 15850
+[2025-04-02 05:12:00] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:12:00] Updating product 15943 with WooCommerce API
+[2025-04-02 05:12:07] ✅ Updated product 15943 successfully
+[2025-04-02 05:12:07]   - Updated with 6 tags
+[2025-04-02 05:12:07]   - Updated with 19 meta fields
+[2025-04-02 05:12:07]   - Updated with 1 images
+[2025-04-02 05:12:07] Generated permalink slug from primary keyword: brandy-salvage-edp
+[2025-04-02 05:12:10] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:12:11]   - Saved API response to seo_outputs\success_15943.json
+[2025-04-02 05:12:13] 🔄 [104/149] Processing: BRANDY OMBERY ROVER 100ML (ID: 15945) - 69.8% complete
+[2025-04-02 05:12:13] 📤 Sending request to Claude for BRANDY OMBERY ROVER 100ML
+[2025-04-02 05:12:36] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:12:36] 📥 Received response from Claude (4692 chars)
+[2025-04-02 05:12:36] 📄 Saved raw Claude response to seo_outputs\response_15945.txt
+[2025-04-02 05:12:36] Extracted 10 non-empty fields
+[2025-04-02 05:12:36] 📁 Saved content to seo_outputs\product_15945_BRANDY_OMBERY_ROVER_100ML.json
+[2025-04-02 05:12:37] Found existing image ID: 15851
+[2025-04-02 05:12:37] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:12:37] Updating product 15945 with WooCommerce API
+[2025-04-02 05:12:41] ✅ Updated product 15945 successfully
+[2025-04-02 05:12:41]   - Updated with 6 tags
+[2025-04-02 05:12:41]   - Updated with 19 meta fields
+[2025-04-02 05:12:41]   - Updated with 1 images
+[2025-04-02 05:12:41] Generated permalink slug from primary keyword: brandy-ombery-rover-100ml
+[2025-04-02 05:12:42] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:12:42]   - Saved API response to seo_outputs\success_15945.json
+[2025-04-02 05:12:44] 🔄 [105/149] Processing: BRANDY AMBRE LEATHER EDP 100ML (ID: 15947) - 70.5% complete
+[2025-04-02 05:12:44] 📤 Sending request to Claude for BRANDY AMBRE LEATHER EDP 100ML
+[2025-04-02 05:13:10] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:13:10] 📥 Received response from Claude (5383 chars)
+[2025-04-02 05:13:10] 📄 Saved raw Claude response to seo_outputs\response_15947.txt
+[2025-04-02 05:13:10] Extracted 10 non-empty fields
+[2025-04-02 05:13:10] 📁 Saved content to seo_outputs\product_15947_BRANDY_AMBRE_LEATHER_EDP_100ML.json
+[2025-04-02 05:13:11] Found existing image ID: 15852
+[2025-04-02 05:13:12] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:13:12] Updating product 15947 with WooCommerce API
+[2025-04-02 05:13:15] ✅ Updated product 15947 successfully
+[2025-04-02 05:13:15]   - Updated with 6 tags
+[2025-04-02 05:13:15]   - Updated with 19 meta fields
+[2025-04-02 05:13:15]   - Updated with 1 images
+[2025-04-02 05:13:15] Generated permalink slug from primary keyword: brandy-ambre-leather-edp
+[2025-04-02 05:13:18] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:13:18]   - Saved API response to seo_outputs\success_15947.json
+[2025-04-02 05:13:20] 🔄 [106/149] Processing: BRANDY ROJA VANELINE EDP 100ML (ID: 15949) - 71.1% complete
+[2025-04-02 05:13:20] 📤 Sending request to Claude for BRANDY ROJA VANELINE EDP 100ML
+[2025-04-02 05:13:45] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:13:45] 📥 Received response from Claude (5324 chars)
+[2025-04-02 05:13:45] 📄 Saved raw Claude response to seo_outputs\response_15949.txt
+[2025-04-02 05:13:45] Extracted 10 non-empty fields
+[2025-04-02 05:13:45] 📁 Saved content to seo_outputs\product_15949_BRANDY_ROJA_VANELINE_EDP_100ML.json
+[2025-04-02 05:13:46] Found existing image ID: 15853
+[2025-04-02 05:13:47] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:13:47] Updating product 15949 with WooCommerce API
+[2025-04-02 05:13:50] ✅ Updated product 15949 successfully
+[2025-04-02 05:13:50]   - Updated with 6 tags
+[2025-04-02 05:13:50]   - Updated with 19 meta fields
+[2025-04-02 05:13:50]   - Updated with 1 images
+[2025-04-02 05:13:50] Generated permalink slug from primary keyword: brandy-roja-vaneline-edp
+[2025-04-02 05:13:54] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:13:54]   - Saved API response to seo_outputs\success_15949.json
+[2025-04-02 05:13:56] 🔄 [107/149] Processing: GUCCI GUILTY INTENSE POUR FEMME EDP 90 ML (ID: 16400) - 71.8% complete
+[2025-04-02 05:13:56] 📤 Sending request to Claude for GUCCI GUILTY INTENSE POUR FEMME EDP 90 ML
+[2025-04-02 05:14:21] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:14:21] 📥 Received response from Claude (5351 chars)
+[2025-04-02 05:14:21] 📄 Saved raw Claude response to seo_outputs\response_16400.txt
+[2025-04-02 05:14:21] Extracted 10 non-empty fields
+[2025-04-02 05:14:21] 📁 Saved content to seo_outputs\product_16400_GUCCI_GUILTY_INTENSE_POUR_FEMME_EDP_90_ML.json
+[2025-04-02 05:14:22] Found existing image ID: 16401
+[2025-04-02 05:14:24] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:14:24] Updating product 16400 with WooCommerce API
+[2025-04-02 05:14:27] ✅ Updated product 16400 successfully
+[2025-04-02 05:14:27]   - Updated with 6 tags
+[2025-04-02 05:14:27]   - Updated with 19 meta fields
+[2025-04-02 05:14:27]   - Updated with 1 images
+[2025-04-02 05:14:27] Generated permalink slug from primary keyword: gucci-guilty-intense-pour-femme
+[2025-04-02 05:14:30] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:14:30]   - Saved API response to seo_outputs\success_16400.json
+[2025-04-02 05:14:32] 🔄 [108/149] Processing: Quorum Eau De Toilette - 100ML - Men (ID: 16462) - 72.5% complete
+[2025-04-02 05:14:32] 📤 Sending request to Claude for Quorum Eau De Toilette - 100ML - Men
+[2025-04-02 05:14:58] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:14:58] 📥 Received response from Claude (5473 chars)
+[2025-04-02 05:14:58] 📄 Saved raw Claude response to seo_outputs\response_16462.txt
+[2025-04-02 05:14:58] Extracted 10 non-empty fields
+[2025-04-02 05:14:58] 📁 Saved content to seo_outputs\product_16462_Quorum_Eau_De_Toilette_-_100ML_-_Men.json
+[2025-04-02 05:14:59] Found existing image ID: 16471
+[2025-04-02 05:15:00] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:15:00] Updating product 16462 with WooCommerce API
+[2025-04-02 05:15:05] ✅ Updated product 16462 successfully
+[2025-04-02 05:15:05]   - Updated with 6 tags
+[2025-04-02 05:15:05]   - Updated with 19 meta fields
+[2025-04-02 05:15:05]   - Updated with 1 images
+[2025-04-02 05:15:05] Generated permalink slug from primary keyword: quorum-eau-de-toilette
+[2025-04-02 05:15:08] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:15:09]   - Saved API response to seo_outputs\success_16462.json
+[2025-04-02 05:15:11] 🔄 [109/149] Processing: Quorum Silver Eau De Toilette - 100ML - Men (ID: 16465) - 73.2% complete
+[2025-04-02 05:15:11] 📤 Sending request to Claude for Quorum Silver Eau De Toilette - 100ML - Men
+[2025-04-02 05:15:35] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:15:35] 📥 Received response from Claude (5141 chars)
+[2025-04-02 05:15:35] 📄 Saved raw Claude response to seo_outputs\response_16465.txt
+[2025-04-02 05:15:35] Extracted 10 non-empty fields
+[2025-04-02 05:15:35] 📁 Saved content to seo_outputs\product_16465_Quorum_Silver_Eau_De_Toilette_-_100ML_-_Men.json
+[2025-04-02 05:15:36] Found existing image ID: 16474
+[2025-04-02 05:15:37] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:15:37] Updating product 16465 with WooCommerce API
+[2025-04-02 05:15:40] ✅ Updated product 16465 successfully
+[2025-04-02 05:15:40]   - Updated with 6 tags
+[2025-04-02 05:15:40]   - Updated with 19 meta fields
+[2025-04-02 05:15:40]   - Updated with 1 images
+[2025-04-02 05:15:40] Generated permalink slug from primary keyword: quorum-silver-eau-de-toilette
+[2025-04-02 05:15:43] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:15:43]   - Saved API response to seo_outputs\success_16465.json
+[2025-04-02 05:15:45] 🔄 [110/149] Processing: Velvet Oud Eau De Parfum - 50ml (ID: 16496) - 73.8% complete
+[2025-04-02 05:15:45] 📤 Sending request to Claude for Velvet Oud Eau De Parfum - 50ml
+[2025-04-02 05:16:11] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:16:12] 📥 Received response from Claude (5256 chars)
+[2025-04-02 05:16:12] 📄 Saved raw Claude response to seo_outputs\response_16496.txt
+[2025-04-02 05:16:12] Extracted 10 non-empty fields
+[2025-04-02 05:16:12] 📁 Saved content to seo_outputs\product_16496_Velvet_Oud_Eau_De_Parfum_-_50ml.json
+[2025-04-02 05:16:12] Found existing image ID: 16504
+[2025-04-02 05:16:13] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:16:13] Updating product 16496 with WooCommerce API
+[2025-04-02 05:16:16] ✅ Updated product 16496 successfully
+[2025-04-02 05:16:16]   - Updated with 6 tags
+[2025-04-02 05:16:16]   - Updated with 19 meta fields
+[2025-04-02 05:16:16]   - Updated with 1 images
+[2025-04-02 05:16:16] Generated permalink slug from primary keyword: velvet-oud-perfume
+[2025-04-02 05:16:19] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:16:19]   - Saved API response to seo_outputs\success_16496.json
+[2025-04-02 05:16:21] 🔄 [111/149] Processing: The One Eau De Toilette - 100ml (ID: 16512) - 74.5% complete
+[2025-04-02 05:16:21] 📤 Sending request to Claude for The One Eau De Toilette - 100ml
+[2025-04-02 05:16:46] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:16:46] 📥 Received response from Claude (4778 chars)
+[2025-04-02 05:16:46] 📄 Saved raw Claude response to seo_outputs\response_16512.txt
+[2025-04-02 05:16:46] Extracted 10 non-empty fields
+[2025-04-02 05:16:46] 📁 Saved content to seo_outputs\product_16512_The_One_Eau_De_Toilette_-_100ml.json
+[2025-04-02 05:16:46] Found existing image ID: 16515
+[2025-04-02 05:16:47] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:16:47] Updating product 16512 with WooCommerce API
+[2025-04-02 05:16:51] ✅ Updated product 16512 successfully
+[2025-04-02 05:16:51]   - Updated with 6 tags
+[2025-04-02 05:16:51]   - Updated with 19 meta fields
+[2025-04-02 05:16:51]   - Updated with 1 images
+[2025-04-02 05:16:51] Generated permalink slug from primary keyword: the-one-eau-de-toilette
+[2025-04-02 05:16:54] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:16:54]   - Saved API response to seo_outputs\success_16512.json
+[2025-04-02 05:16:56] 🔄 [112/149] Processing: The One Eau De Parfum - 150ml (ID: 16517) - 75.2% complete
+[2025-04-02 05:16:56] 📤 Sending request to Claude for The One Eau De Parfum - 150ml
+[2025-04-02 05:17:23] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:17:23] 📥 Received response from Claude (5328 chars)
+[2025-04-02 05:17:23] 📄 Saved raw Claude response to seo_outputs\response_16517.txt
+[2025-04-02 05:17:23] Extracted 10 non-empty fields
+[2025-04-02 05:17:23] 📁 Saved content to seo_outputs\product_16517_The_One_Eau_De_Parfum_-_150ml.json
+[2025-04-02 05:17:23] Found existing image ID: 16518
+[2025-04-02 05:17:24] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:17:24] Updating product 16517 with WooCommerce API
+[2025-04-02 05:17:27] ✅ Updated product 16517 successfully
+[2025-04-02 05:17:27]   - Updated with 6 tags
+[2025-04-02 05:17:27]   - Updated with 19 meta fields
+[2025-04-02 05:17:27]   - Updated with 1 images
+[2025-04-02 05:17:27] Generated permalink slug from primary keyword: the-one-eau-de-parfum
+[2025-04-02 05:17:30] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:17:30]   - Saved API response to seo_outputs\success_16517.json
+[2025-04-02 05:17:32] 🔄 [113/149] Processing: The One Eau De Parfum - 100ml (ID: 16521) - 75.8% complete
+[2025-04-02 05:17:32] 📤 Sending request to Claude for The One Eau De Parfum - 100ml
+[2025-04-02 05:17:57] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:17:57] 📥 Received response from Claude (4924 chars)
+[2025-04-02 05:17:57] 📄 Saved raw Claude response to seo_outputs\response_16521.txt
+[2025-04-02 05:17:57] Extracted 10 non-empty fields
+[2025-04-02 05:17:57] 📁 Saved content to seo_outputs\product_16521_The_One_Eau_De_Parfum_-_100ml.json
+[2025-04-02 05:17:58] Found existing image ID: 16518
+[2025-04-02 05:17:59] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:17:59] Updating product 16521 with WooCommerce API
+[2025-04-02 05:18:03] ✅ Updated product 16521 successfully
+[2025-04-02 05:18:03]   - Updated with 6 tags
+[2025-04-02 05:18:03]   - Updated with 19 meta fields
+[2025-04-02 05:18:03]   - Updated with 1 images
+[2025-04-02 05:18:03] Generated permalink slug from primary keyword: the-one-eau-de-parfum
+[2025-04-02 05:18:06] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:18:06]   - Saved API response to seo_outputs\success_16521.json
+[2025-04-02 05:18:08] 🔄 [114/149] Processing: Light Blue Eau Intense Eau De Parfum - 100ml (ID: 16523) - 76.5% complete
+[2025-04-02 05:18:08] 📤 Sending request to Claude for Light Blue Eau Intense Eau De Parfum - 100ml
+[2025-04-02 05:18:31] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:18:31] 📥 Received response from Claude (4773 chars)
+[2025-04-02 05:18:31] 📄 Saved raw Claude response to seo_outputs\response_16523.txt
+[2025-04-02 05:18:31] Extracted 10 non-empty fields
+[2025-04-02 05:18:31] 📁 Saved content to seo_outputs\product_16523_Light_Blue_Eau_Intense_Eau_De_Parfum_-_100ml.json
+[2025-04-02 05:18:32] Found existing image ID: 16524
+[2025-04-02 05:18:33] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:18:33] Updating product 16523 with WooCommerce API
+[2025-04-02 05:18:36] ✅ Updated product 16523 successfully
+[2025-04-02 05:18:36]   - Updated with 6 tags
+[2025-04-02 05:18:36]   - Updated with 19 meta fields
+[2025-04-02 05:18:36]   - Updated with 1 images
+[2025-04-02 05:18:36] Generated permalink slug from primary keyword: light-blue-eau-intense
+[2025-04-02 05:18:39] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:18:39]   - Saved API response to seo_outputs\success_16523.json
+[2025-04-02 05:18:41] 🔄 [115/149] Processing: Intenso Eau De Perfume - 125ml Perfumes (ID: 16638) - 77.2% complete
+[2025-04-02 05:18:41] 📤 Sending request to Claude for Intenso Eau De Perfume - 125ml Perfumes
+[2025-04-02 05:19:04] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:19:04] 📥 Received response from Claude (4932 chars)
+[2025-04-02 05:19:04] 📄 Saved raw Claude response to seo_outputs\response_16638.txt
+[2025-04-02 05:19:04] Extracted 10 non-empty fields
+[2025-04-02 05:19:04] 📁 Saved content to seo_outputs\product_16638_Intenso_Eau_De_Perfume_-_125ml_Perfumes.json
+[2025-04-02 05:19:05] Found existing image ID: 16680
+[2025-04-02 05:19:06] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:19:06] Updating product 16638 with WooCommerce API
+[2025-04-02 05:19:09] ✅ Updated product 16638 successfully
+[2025-04-02 05:19:09]   - Updated with 6 tags
+[2025-04-02 05:19:09]   - Updated with 19 meta fields
+[2025-04-02 05:19:09]   - Updated with 1 images
+[2025-04-02 05:19:09] Generated permalink slug from primary keyword: intenso-eau-de-perfume
+[2025-04-02 05:19:12] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:19:12]   - Saved API response to seo_outputs\success_16638.json
+[2025-04-02 05:19:14] 🔄 [116/149] Processing: Dolce &amp; Gabbana EDT - 125ml (ID: 16641) - 77.9% complete
+[2025-04-02 05:19:14] 📤 Sending request to Claude for Dolce &amp; Gabbana EDT - 125ml
+[2025-04-02 05:19:41] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:19:41] 📥 Received response from Claude (5543 chars)
+[2025-04-02 05:19:41] 📄 Saved raw Claude response to seo_outputs\response_16641.txt
+[2025-04-02 05:19:41] Extracted 10 non-empty fields
+[2025-04-02 05:19:41] 📁 Saved content to seo_outputs\product_16641_Dolce_&amp;_Gabbana_EDT_-_125ml.json
+[2025-04-02 05:19:42] Found existing image ID: 16642
+[2025-04-02 05:19:42] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:19:42] Updating product 16641 with WooCommerce API
+[2025-04-02 05:19:46] ✅ Updated product 16641 successfully
+[2025-04-02 05:19:46]   - Updated with 6 tags
+[2025-04-02 05:19:46]   - Updated with 19 meta fields
+[2025-04-02 05:19:46]   - Updated with 1 images
+[2025-04-02 05:19:46] Generated permalink slug from primary keyword: dolce--gabbana-eau-de-toilette
+[2025-04-02 05:19:48] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:19:48]   - Saved API response to seo_outputs\success_16641.json
+[2025-04-02 05:19:50] 🔄 [117/149] Processing: Velvet Desert Oud Eau De Parfum - 100ml (ID: 16645) - 78.5% complete
+[2025-04-02 05:19:50] 📤 Sending request to Claude for Velvet Desert Oud Eau De Parfum - 100ml
+[2025-04-02 05:20:15] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:20:15] 📥 Received response from Claude (4790 chars)
+[2025-04-02 05:20:15] 📄 Saved raw Claude response to seo_outputs\response_16645.txt
+[2025-04-02 05:20:15] Extracted 10 non-empty fields
+[2025-04-02 05:20:15] 📁 Saved content to seo_outputs\product_16645_Velvet_Desert_Oud_Eau_De_Parfum_-_100ml.json
+[2025-04-02 05:20:16] Found existing image ID: 16646
+[2025-04-02 05:20:16] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:20:16] Updating product 16645 with WooCommerce API
+[2025-04-02 05:20:20] ✅ Updated product 16645 successfully
+[2025-04-02 05:20:20]   - Updated with 6 tags
+[2025-04-02 05:20:20]   - Updated with 19 meta fields
+[2025-04-02 05:20:20]   - Updated with 1 images
+[2025-04-02 05:20:20] Generated permalink slug from primary keyword: velvet-desert-oud
+[2025-04-02 05:20:23] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:20:23]   - Saved API response to seo_outputs\success_16645.json
+[2025-04-02 05:20:25] 🔄 [118/149] Processing: The One Intense Eau De Parfum - 100ml (ID: 16649) - 79.2% complete
+[2025-04-02 05:20:25] 📤 Sending request to Claude for The One Intense Eau De Parfum - 100ml
+[2025-04-02 05:20:50] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:20:50] 📥 Received response from Claude (5451 chars)
+[2025-04-02 05:20:50] 📄 Saved raw Claude response to seo_outputs\response_16649.txt
+[2025-04-02 05:20:50] Extracted 10 non-empty fields
+[2025-04-02 05:20:50] 📁 Saved content to seo_outputs\product_16649_The_One_Intense_Eau_De_Parfum_-_100ml.json
+[2025-04-02 05:20:51] Found existing image ID: 16650
+[2025-04-02 05:20:51] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:20:51] Updating product 16649 with WooCommerce API
+[2025-04-02 05:20:55] ✅ Updated product 16649 successfully
+[2025-04-02 05:20:55]   - Updated with 6 tags
+[2025-04-02 05:20:55]   - Updated with 19 meta fields
+[2025-04-02 05:20:55]   - Updated with 1 images
+[2025-04-02 05:20:55] Generated permalink slug from primary keyword: the-one-intense-eau-de-parfum
+[2025-04-02 05:20:58] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:20:58]   - Saved API response to seo_outputs\success_16649.json
+[2025-04-02 05:21:00] 🔄 [119/149] Processing: The One Royal Night Eau De Parfum - 150ml (ID: 16654) - 79.9% complete
+[2025-04-02 05:21:00] 📤 Sending request to Claude for The One Royal Night Eau De Parfum - 150ml
+[2025-04-02 05:21:24] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:21:24] 📥 Received response from Claude (4969 chars)
+[2025-04-02 05:21:24] 📄 Saved raw Claude response to seo_outputs\response_16654.txt
+[2025-04-02 05:21:24] Extracted 10 non-empty fields
+[2025-04-02 05:21:24] 📁 Saved content to seo_outputs\product_16654_The_One_Royal_Night_Eau_De_Parfum_-_150ml.json
+[2025-04-02 05:21:25] Found existing image ID: 16655
+[2025-04-02 05:21:26] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:21:26] Updating product 16654 with WooCommerce API
+[2025-04-02 05:21:29] ✅ Updated product 16654 successfully
+[2025-04-02 05:21:29]   - Updated with 6 tags
+[2025-04-02 05:21:29]   - Updated with 19 meta fields
+[2025-04-02 05:21:29]   - Updated with 1 images
+[2025-04-02 05:21:29] Generated permalink slug from primary keyword: the-one-royal-night-eau-de-parfum
+[2025-04-02 05:21:32] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:21:32]   - Saved API response to seo_outputs\success_16654.json
+[2025-04-02 05:21:34] 🔄 [120/149] Processing: The One Gold Eau De Parfum - 100ml (ID: 16658) - 80.5% complete
+[2025-04-02 05:21:34] 📤 Sending request to Claude for The One Gold Eau De Parfum - 100ml
+[2025-04-02 05:22:01] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:22:01] 📥 Received response from Claude (5288 chars)
+[2025-04-02 05:22:01] 📄 Saved raw Claude response to seo_outputs\response_16658.txt
+[2025-04-02 05:22:01] Extracted 10 non-empty fields
+[2025-04-02 05:22:01] 📁 Saved content to seo_outputs\product_16658_The_One_Gold_Eau_De_Parfum_-_100ml.json
+[2025-04-02 05:22:02] Found existing image ID: 16659
+[2025-04-02 05:22:03] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:22:03] Updating product 16658 with WooCommerce API
+[2025-04-02 05:22:07] ✅ Updated product 16658 successfully
+[2025-04-02 05:22:07]   - Updated with 6 tags
+[2025-04-02 05:22:07]   - Updated with 19 meta fields
+[2025-04-02 05:22:07]   - Updated with 1 images
+[2025-04-02 05:22:07] Generated permalink slug from primary keyword: the-one-gold-eau-de-parfum
+[2025-04-02 05:22:10] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:22:10]   - Saved API response to seo_outputs\success_16658.json
+[2025-04-02 05:22:12] 🔄 [121/149] Processing: The One Eau De Toilette - 150ml Perfumes (ID: 16662) - 81.2% complete
+[2025-04-02 05:22:12] 📤 Sending request to Claude for The One Eau De Toilette - 150ml Perfumes
+[2025-04-02 05:22:38] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:22:38] 📥 Received response from Claude (4985 chars)
+[2025-04-02 05:22:38] 📄 Saved raw Claude response to seo_outputs\response_16662.txt
+[2025-04-02 05:22:38] Extracted 10 non-empty fields
+[2025-04-02 05:22:38] 📁 Saved content to seo_outputs\product_16662_The_One_Eau_De_Toilette_-_150ml_Perfumes.json
+[2025-04-02 05:22:39] Found existing image ID: 16663
+[2025-04-02 05:22:39] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:22:39] Updating product 16662 with WooCommerce API
+[2025-04-02 05:22:43] ✅ Updated product 16662 successfully
+[2025-04-02 05:22:43]   - Updated with 6 tags
+[2025-04-02 05:22:43]   - Updated with 19 meta fields
+[2025-04-02 05:22:43]   - Updated with 1 images
+[2025-04-02 05:22:43] Generated permalink slug from primary keyword: the-one-eau-de-toilette
+[2025-04-02 05:22:47] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:22:47]   - Saved API response to seo_outputs\success_16662.json
+[2025-04-02 05:22:49] 🔄 [122/149] Processing: Velvet Black Patchouli Eau De Parfum - 150ml (ID: 16689) - 81.9% complete
+[2025-04-02 05:22:49] 📤 Sending request to Claude for Velvet Black Patchouli Eau De Parfum - 150ml
+[2025-04-02 05:23:11] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:23:11] 📥 Received response from Claude (4478 chars)
+[2025-04-02 05:23:11] 📄 Saved raw Claude response to seo_outputs\response_16689.txt
+[2025-04-02 05:23:11] Extracted 10 non-empty fields
+[2025-04-02 05:23:11] 📁 Saved content to seo_outputs\product_16689_Velvet_Black_Patchouli_Eau_De_Parfum_-_150ml.json
+[2025-04-02 05:23:11] Found existing image ID: 16690
+[2025-04-02 05:23:12] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:23:12] Updating product 16689 with WooCommerce API
+[2025-04-02 05:23:16] ✅ Updated product 16689 successfully
+[2025-04-02 05:23:16]   - Updated with 6 tags
+[2025-04-02 05:23:16]   - Updated with 19 meta fields
+[2025-04-02 05:23:16]   - Updated with 1 images
+[2025-04-02 05:23:16] Generated permalink slug from primary keyword: velvet-black-patchouli
+[2025-04-02 05:23:19] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:23:19]   - Saved API response to seo_outputs\success_16689.json
+[2025-04-02 05:23:21] 🔄 [123/149] Processing: Velvet Collection Desert Eau De Parfum - 150ml (ID: 16692) - 82.6% complete
+[2025-04-02 05:23:21] 📤 Sending request to Claude for Velvet Collection Desert Eau De Parfum - 150ml
+[2025-04-02 05:23:46] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:23:46] 📥 Received response from Claude (5242 chars)
+[2025-04-02 05:23:46] 📄 Saved raw Claude response to seo_outputs\response_16692.txt
+[2025-04-02 05:23:46] Extracted 10 non-empty fields
+[2025-04-02 05:23:46] 📁 Saved content to seo_outputs\product_16692_Velvet_Collection_Desert_Eau_De_Parfum_-_150ml.json
+[2025-04-02 05:23:46] Found existing image ID: 16693
+[2025-04-02 05:23:47] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:23:47] Updating product 16692 with WooCommerce API
+[2025-04-02 05:23:50] ✅ Updated product 16692 successfully
+[2025-04-02 05:23:50]   - Updated with 6 tags
+[2025-04-02 05:23:50]   - Updated with 19 meta fields
+[2025-04-02 05:23:50]   - Updated with 1 images
+[2025-04-02 05:23:50] Generated permalink slug from primary keyword: velvet-collection-desert-perfume
+[2025-04-02 05:23:53] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:23:53]   - Saved API response to seo_outputs\success_16692.json
+[2025-04-02 05:23:55] 🔄 [124/149] Processing: The One Mysterious Night Eau De Parfum - 100ml (ID: 16696) - 83.2% complete
+[2025-04-02 05:23:55] 📤 Sending request to Claude for The One Mysterious Night Eau De Parfum - 100ml
+[2025-04-02 05:24:20] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:24:20] 📥 Received response from Claude (5036 chars)
+[2025-04-02 05:24:20] 📄 Saved raw Claude response to seo_outputs\response_16696.txt
+[2025-04-02 05:24:20] Extracted 10 non-empty fields
+[2025-04-02 05:24:20] 📁 Saved content to seo_outputs\product_16696_The_One_Mysterious_Night_Eau_De_Parfum_-_100ml.json
+[2025-04-02 05:24:20] Found existing image ID: 16697
+[2025-04-02 05:24:21] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:24:21] Updating product 16696 with WooCommerce API
+[2025-04-02 05:24:24] ✅ Updated product 16696 successfully
+[2025-04-02 05:24:24]   - Updated with 6 tags
+[2025-04-02 05:24:24]   - Updated with 19 meta fields
+[2025-04-02 05:24:24]   - Updated with 1 images
+[2025-04-02 05:24:24] Generated permalink slug from primary keyword: the-one-mysterious-night
+[2025-04-02 05:24:27] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:24:27]   - Saved API response to seo_outputs\success_16696.json
+[2025-04-02 05:24:29] 🔄 [125/149] Processing: King Eau De Parfum - 100ml (ID: 16700) - 83.9% complete
+[2025-04-02 05:24:29] 📤 Sending request to Claude for King Eau De Parfum - 100ml
+[2025-04-02 05:24:53] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:24:53] 📥 Received response from Claude (4676 chars)
+[2025-04-02 05:24:53] 📄 Saved raw Claude response to seo_outputs\response_16700.txt
+[2025-04-02 05:24:53] Extracted 10 non-empty fields
+[2025-04-02 05:24:53] 📁 Saved content to seo_outputs\product_16700_King_Eau_De_Parfum_-_100ml.json
+[2025-04-02 05:24:54] Found existing image ID: 16701
+[2025-04-02 05:24:54] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:24:54] Updating product 16700 with WooCommerce API
+[2025-04-02 05:24:58] ✅ Updated product 16700 successfully
+[2025-04-02 05:24:58]   - Updated with 6 tags
+[2025-04-02 05:24:58]   - Updated with 19 meta fields
+[2025-04-02 05:24:58]   - Updated with 1 images
+[2025-04-02 05:24:58] Generated permalink slug from primary keyword: king-eau-de-parfum
+[2025-04-02 05:25:01] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:25:01]   - Saved API response to seo_outputs\success_16700.json
+[2025-04-02 05:25:03] 🔄 [126/149] Processing: The Only One Eau De Parfum - 100ml (ID: 16703) - 84.6% complete
+[2025-04-02 05:25:03] 📤 Sending request to Claude for The Only One Eau De Parfum - 100ml
+[2025-04-02 05:25:25] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:25:25] 📥 Received response from Claude (4686 chars)
+[2025-04-02 05:25:25] 📄 Saved raw Claude response to seo_outputs\response_16703.txt
+[2025-04-02 05:25:25] Extracted 10 non-empty fields
+[2025-04-02 05:25:25] 📁 Saved content to seo_outputs\product_16703_The_Only_One_Eau_De_Parfum_-_100ml.json
+[2025-04-02 05:25:26] Found existing image ID: 16704
+[2025-04-02 05:25:27] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:25:27] Updating product 16703 with WooCommerce API
+[2025-04-02 05:25:30] ✅ Updated product 16703 successfully
+[2025-04-02 05:25:30]   - Updated with 6 tags
+[2025-04-02 05:25:30]   - Updated with 19 meta fields
+[2025-04-02 05:25:30]   - Updated with 1 images
+[2025-04-02 05:25:30] Generated permalink slug from primary keyword: the-only-one-eau-de-parfum
+[2025-04-02 05:25:34] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:25:34]   - Saved API response to seo_outputs\success_16703.json
+[2025-04-02 05:25:36] 🔄 [127/149] Processing: The One Eau De Parfum - 75ml (ID: 16707) - 85.2% complete
+[2025-04-02 05:25:36] 📤 Sending request to Claude for The One Eau De Parfum - 75ml
+[2025-04-02 05:26:01] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:26:01] 📥 Received response from Claude (5173 chars)
+[2025-04-02 05:26:01] 📄 Saved raw Claude response to seo_outputs\response_16707.txt
+[2025-04-02 05:26:01] Extracted 10 non-empty fields
+[2025-04-02 05:26:01] 📁 Saved content to seo_outputs\product_16707_The_One_Eau_De_Parfum_-_75ml.json
+[2025-04-02 05:26:02] Found existing image ID: 16708
+[2025-04-02 05:26:03] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:26:03] Updating product 16707 with WooCommerce API
+[2025-04-02 05:26:07] ✅ Updated product 16707 successfully
+[2025-04-02 05:26:07]   - Updated with 6 tags
+[2025-04-02 05:26:07]   - Updated with 19 meta fields
+[2025-04-02 05:26:07]   - Updated with 1 images
+[2025-04-02 05:26:07] Generated permalink slug from primary keyword: the-one-eau-de-parfum
+[2025-04-02 05:26:10] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:26:10]   - Saved API response to seo_outputs\success_16707.json
+[2025-04-02 05:26:12] 🔄 [128/149] Processing: Light Blue Eau Intense Eau De Parfum - 100ml (ID: 16711) - 85.9% complete
+[2025-04-02 05:26:12] 📤 Sending request to Claude for Light Blue Eau Intense Eau De Parfum - 100ml
+[2025-04-02 05:26:37] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:26:37] 📥 Received response from Claude (5302 chars)
+[2025-04-02 05:26:37] 📄 Saved raw Claude response to seo_outputs\response_16711.txt
+[2025-04-02 05:26:37] Extracted 10 non-empty fields
+[2025-04-02 05:26:37] 📁 Saved content to seo_outputs\product_16711_Light_Blue_Eau_Intense_Eau_De_Parfum_-_100ml.json
+[2025-04-02 05:26:37] Found existing image ID: 16712
+[2025-04-02 05:26:38] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:26:38] Updating product 16711 with WooCommerce API
+[2025-04-02 05:26:41] ✅ Updated product 16711 successfully
+[2025-04-02 05:26:41]   - Updated with 6 tags
+[2025-04-02 05:26:41]   - Updated with 19 meta fields
+[2025-04-02 05:26:41]   - Updated with 1 images
+[2025-04-02 05:26:41] Generated permalink slug from primary keyword: light-blue-eau-intense
+[2025-04-02 05:26:44] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:26:44]   - Saved API response to seo_outputs\success_16711.json
+[2025-04-02 05:26:46] 🔄 [129/149] Processing: Light Blue Eau De Toilette - 100ml (ID: 16715) - 86.6% complete
+[2025-04-02 05:26:46] 📤 Sending request to Claude for Light Blue Eau De Toilette - 100ml
+[2025-04-02 05:27:12] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:27:12] 📥 Received response from Claude (5229 chars)
+[2025-04-02 05:27:12] 📄 Saved raw Claude response to seo_outputs\response_16715.txt
+[2025-04-02 05:27:12] Extracted 10 non-empty fields
+[2025-04-02 05:27:12] 📁 Saved content to seo_outputs\product_16715_Light_Blue_Eau_De_Toilette_-_100ml.json
+[2025-04-02 05:27:12] Found existing image ID: 16716
+[2025-04-02 05:27:13] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:27:13] Updating product 16715 with WooCommerce API
+[2025-04-02 05:27:17] ✅ Updated product 16715 successfully
+[2025-04-02 05:27:17]   - Updated with 6 tags
+[2025-04-02 05:27:17]   - Updated with 19 meta fields
+[2025-04-02 05:27:17]   - Updated with 1 images
+[2025-04-02 05:27:17] Generated permalink slug from primary keyword: light-blue-eau-de-toilette
+[2025-04-02 05:27:19] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:27:19]   - Saved API response to seo_outputs\success_16715.json
+[2025-04-02 05:27:21] 🔄 [130/149] Processing: Dolce EDP - 75ml (ID: 16719) - 87.2% complete
+[2025-04-02 05:27:21] 📤 Sending request to Claude for Dolce EDP - 75ml
+[2025-04-02 05:27:49] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:27:49] 📥 Received response from Claude (5357 chars)
+[2025-04-02 05:27:49] 📄 Saved raw Claude response to seo_outputs\response_16719.txt
+[2025-04-02 05:27:49] Extracted 10 non-empty fields
+[2025-04-02 05:27:49] 📁 Saved content to seo_outputs\product_16719_Dolce_EDP_-_75ml.json
+[2025-04-02 05:27:49] Found existing image ID: 16720
+[2025-04-02 05:27:50] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:27:50] Updating product 16719 with WooCommerce API
+[2025-04-02 05:27:54] ✅ Updated product 16719 successfully
+[2025-04-02 05:27:54]   - Updated with 6 tags
+[2025-04-02 05:27:54]   - Updated with 19 meta fields
+[2025-04-02 05:27:54]   - Updated with 1 images
+[2025-04-02 05:27:54] Generated permalink slug from primary keyword: dolce-eau-de-parfum
+[2025-04-02 05:27:56] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:27:56]   - Saved API response to seo_outputs\success_16719.json
+[2025-04-02 05:27:58] 🔄 [131/149] Processing: The Only One Intense Eau De Parfum - 100ml (ID: 16730) - 87.9% complete
+[2025-04-02 05:27:58] 📤 Sending request to Claude for The Only One Intense Eau De Parfum - 100ml
+[2025-04-02 05:28:22] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:28:22] 📥 Received response from Claude (5140 chars)
+[2025-04-02 05:28:22] 📄 Saved raw Claude response to seo_outputs\response_16730.txt
+[2025-04-02 05:28:22] Extracted 10 non-empty fields
+[2025-04-02 05:28:22] 📁 Saved content to seo_outputs\product_16730_The_Only_One_Intense_Eau_De_Parfum_-_100ml.json
+[2025-04-02 05:28:23] Found existing image ID: 16731
+[2025-04-02 05:28:24] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:28:24] Updating product 16730 with WooCommerce API
+[2025-04-02 05:28:27] ✅ Updated product 16730 successfully
+[2025-04-02 05:28:27]   - Updated with 6 tags
+[2025-04-02 05:28:27]   - Updated with 19 meta fields
+[2025-04-02 05:28:27]   - Updated with 1 images
+[2025-04-02 05:28:27] Generated permalink slug from primary keyword: the-only-one-intense
+[2025-04-02 05:28:30] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:28:30]   - Saved API response to seo_outputs\success_16730.json
+[2025-04-02 05:28:32] 🔄 [132/149] Processing: The One Gold Eau de Parfum Intense - 75ml (ID: 16734) - 88.6% complete
+[2025-04-02 05:28:32] 📤 Sending request to Claude for The One Gold Eau de Parfum Intense - 75ml
+[2025-04-02 05:28:56] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:28:56] 📥 Received response from Claude (4970 chars)
+[2025-04-02 05:28:56] 📄 Saved raw Claude response to seo_outputs\response_16734.txt
+[2025-04-02 05:28:56] Extracted 10 non-empty fields
+[2025-04-02 05:28:56] 📁 Saved content to seo_outputs\product_16734_The_One_Gold_Eau_de_Parfum_Intense_-_75ml.json
+[2025-04-02 05:28:57] Found existing image ID: 16735
+[2025-04-02 05:28:58] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:28:58] Updating product 16734 with WooCommerce API
+[2025-04-02 05:29:01] ✅ Updated product 16734 successfully
+[2025-04-02 05:29:01]   - Updated with 6 tags
+[2025-04-02 05:29:01]   - Updated with 19 meta fields
+[2025-04-02 05:29:01]   - Updated with 1 images
+[2025-04-02 05:29:01] Generated permalink slug from primary keyword: the-one-gold-eau-de-parfum-intense
+[2025-04-02 05:29:05] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:29:05]   - Saved API response to seo_outputs\success_16734.json
+[2025-04-02 05:29:07] 🔄 [133/149] Processing: Light Blue Eau Intense Eau De Parfum - 50ml (ID: 16738) - 89.3% complete
+[2025-04-02 05:29:07] 📤 Sending request to Claude for Light Blue Eau Intense Eau De Parfum - 50ml
+[2025-04-02 05:29:33] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:29:33] 📥 Received response from Claude (5321 chars)
+[2025-04-02 05:29:33] 📄 Saved raw Claude response to seo_outputs\response_16738.txt
+[2025-04-02 05:29:33] Extracted 10 non-empty fields
+[2025-04-02 05:29:33] 📁 Saved content to seo_outputs\product_16738_Light_Blue_Eau_Intense_Eau_De_Parfum_-_50ml.json
+[2025-04-02 05:29:34] Found existing image ID: 16739
+[2025-04-02 05:29:35] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:29:35] Updating product 16738 with WooCommerce API
+[2025-04-02 05:29:39] ✅ Updated product 16738 successfully
+[2025-04-02 05:29:39]   - Updated with 6 tags
+[2025-04-02 05:29:39]   - Updated with 19 meta fields
+[2025-04-02 05:29:39]   - Updated with 1 images
+[2025-04-02 05:29:39] Generated permalink slug from primary keyword: light-blue-eau-intense
+[2025-04-02 05:29:42] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:29:42]   - Saved API response to seo_outputs\success_16738.json
+[2025-04-02 05:29:44] 🔄 [134/149] Processing: Dolce Rose EDT - 75ml (ID: 16746) - 89.9% complete
+[2025-04-02 05:29:44] 📤 Sending request to Claude for Dolce Rose EDT - 75ml
+[2025-04-02 05:30:08] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:30:08] 📥 Received response from Claude (4977 chars)
+[2025-04-02 05:30:08] 📄 Saved raw Claude response to seo_outputs\response_16746.txt
+[2025-04-02 05:30:08] Extracted 10 non-empty fields
+[2025-04-02 05:30:08] 📁 Saved content to seo_outputs\product_16746_Dolce_Rose_EDT_-_75ml.json
+[2025-04-02 05:30:09] Found existing image ID: 16747
+[2025-04-02 05:30:10] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:30:10] Updating product 16746 with WooCommerce API
+[2025-04-02 05:30:13] ✅ Updated product 16746 successfully
+[2025-04-02 05:30:13]   - Updated with 6 tags
+[2025-04-02 05:30:13]   - Updated with 19 meta fields
+[2025-04-02 05:30:13]   - Updated with 1 images
+[2025-04-02 05:30:13] Generated permalink slug from primary keyword: dolce-rose-eau-de-toilette
+[2025-04-02 05:30:16] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:30:16]   - Saved API response to seo_outputs\success_16746.json
+[2025-04-02 05:30:18] 🔄 [135/149] Processing: Dolce Garden EDP - 75ml (ID: 16753) - 90.6% complete
+[2025-04-02 05:30:18] 📤 Sending request to Claude for Dolce Garden EDP - 75ml
+[2025-04-02 05:30:47] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:30:47] 📥 Received response from Claude (5846 chars)
+[2025-04-02 05:30:47] 📄 Saved raw Claude response to seo_outputs\response_16753.txt
+[2025-04-02 05:30:47] Extracted 10 non-empty fields
+[2025-04-02 05:30:47] 📁 Saved content to seo_outputs\product_16753_Dolce_Garden_EDP_-_75ml.json
+[2025-04-02 05:30:48] Found existing image ID: 16756
+[2025-04-02 05:30:49] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:30:49] Updating product 16753 with WooCommerce API
+[2025-04-02 05:30:52] ✅ Updated product 16753 successfully
+[2025-04-02 05:30:52]   - Updated with 6 tags
+[2025-04-02 05:30:52]   - Updated with 19 meta fields
+[2025-04-02 05:30:52]   - Updated with 1 images
+[2025-04-02 05:30:52] Generated permalink slug from primary keyword: dolce-garden-eau-de-parfum
+[2025-04-02 05:30:55] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:30:55]   - Saved API response to seo_outputs\success_16753.json
+[2025-04-02 05:30:57] 🔄 [136/149] Processing: The One Essence Eau De Parfum - 65ml (ID: 16762) - 91.3% complete
+[2025-04-02 05:30:57] 📤 Sending request to Claude for The One Essence Eau De Parfum - 65ml
+[2025-04-02 05:31:23] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:31:23] 📥 Received response from Claude (5226 chars)
+[2025-04-02 05:31:23] 📄 Saved raw Claude response to seo_outputs\response_16762.txt
+[2025-04-02 05:31:23] Extracted 10 non-empty fields
+[2025-04-02 05:31:23] 📁 Saved content to seo_outputs\product_16762_The_One_Essence_Eau_De_Parfum_-_65ml.json
+[2025-04-02 05:31:24] Found existing image ID: 16764
+[2025-04-02 05:31:25] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:31:25] Updating product 16762 with WooCommerce API
+[2025-04-02 05:31:28] ✅ Updated product 16762 successfully
+[2025-04-02 05:31:28]   - Updated with 6 tags
+[2025-04-02 05:31:28]   - Updated with 19 meta fields
+[2025-04-02 05:31:28]   - Updated with 1 images
+[2025-04-02 05:31:28] Generated permalink slug from primary keyword: the-one-essence-eau-de-parfum
+[2025-04-02 05:31:31] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:31:31]   - Saved API response to seo_outputs\success_16762.json
+[2025-04-02 05:31:33] 🔄 [137/149] Processing: Velvet Love Eau De Parfum - 150ml (ID: 16777) - 91.9% complete
+[2025-04-02 05:31:33] 📤 Sending request to Claude for Velvet Love Eau De Parfum - 150ml
+[2025-04-02 05:31:58] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:31:58] 📥 Received response from Claude (5182 chars)
+[2025-04-02 05:31:58] 📄 Saved raw Claude response to seo_outputs\response_16777.txt
+[2025-04-02 05:31:58] Extracted 10 non-empty fields
+[2025-04-02 05:31:58] 📁 Saved content to seo_outputs\product_16777_Velvet_Love_Eau_De_Parfum_-_150ml.json
+[2025-04-02 05:31:59] Found existing image ID: 16782
+[2025-04-02 05:32:00] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:32:00] Updating product 16777 with WooCommerce API
+[2025-04-02 05:32:03] ✅ Updated product 16777 successfully
+[2025-04-02 05:32:03]   - Updated with 6 tags
+[2025-04-02 05:32:03]   - Updated with 19 meta fields
+[2025-04-02 05:32:03]   - Updated with 1 images
+[2025-04-02 05:32:03] Generated permalink slug from primary keyword: oriental-fragrance
+[2025-04-02 05:32:06] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:32:06]   - Saved API response to seo_outputs\success_16777.json
+[2025-04-02 05:32:08] 🔄 [138/149] Processing: Intense EDP - 100ml (ID: 16796) - 92.6% complete
+[2025-04-02 05:32:08] 📤 Sending request to Claude for Intense EDP - 100ml
+[2025-04-02 05:32:33] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:32:34] 📥 Received response from Claude (5193 chars)
+[2025-04-02 05:32:34] 📄 Saved raw Claude response to seo_outputs\response_16796.txt
+[2025-04-02 05:32:34] Extracted 10 non-empty fields
+[2025-04-02 05:32:34] 📁 Saved content to seo_outputs\product_16796_Intense_EDP_-_100ml.json
+[2025-04-02 05:32:34] Found existing image ID: 16797
+[2025-04-02 05:32:35] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:32:35] Updating product 16796 with WooCommerce API
+[2025-04-02 05:32:38] ✅ Updated product 16796 successfully
+[2025-04-02 05:32:38]   - Updated with 6 tags
+[2025-04-02 05:32:38]   - Updated with 19 meta fields
+[2025-04-02 05:32:38]   - Updated with 1 images
+[2025-04-02 05:32:38] Generated permalink slug from primary keyword: intense-eau-de-parfum
+[2025-04-02 05:32:42] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:32:42]   - Saved API response to seo_outputs\success_16796.json
+[2025-04-02 05:32:44] 🔄 [139/149] Processing: Dolce Shine EDP - 75ml (ID: 16802) - 93.3% complete
+[2025-04-02 05:32:44] 📤 Sending request to Claude for Dolce Shine EDP - 75ml
+[2025-04-02 05:33:10] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:33:10] 📥 Received response from Claude (5331 chars)
+[2025-04-02 05:33:10] 📄 Saved raw Claude response to seo_outputs\response_16802.txt
+[2025-04-02 05:33:10] Extracted 10 non-empty fields
+[2025-04-02 05:33:10] 📁 Saved content to seo_outputs\product_16802_Dolce_Shine_EDP_-_75ml.json
+[2025-04-02 05:33:11] Found existing image ID: 16804
+[2025-04-02 05:33:12] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:33:12] Updating product 16802 with WooCommerce API
+[2025-04-02 05:33:15] ✅ Updated product 16802 successfully
+[2025-04-02 05:33:15]   - Updated with 6 tags
+[2025-04-02 05:33:15]   - Updated with 19 meta fields
+[2025-04-02 05:33:15]   - Updated with 1 images
+[2025-04-02 05:33:15] Generated permalink slug from primary keyword: dolce-shine-edp
+[2025-04-02 05:33:18] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:33:18]   - Saved API response to seo_outputs\success_16802.json
+[2025-04-02 05:33:20] 🔄 [140/149] Processing: Devotion EDP for women - 100ml (ID: 16809) - 94.0% complete
+[2025-04-02 05:33:20] 📤 Sending request to Claude for Devotion EDP for women - 100ml
+[2025-04-02 05:33:46] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:33:46] 📥 Received response from Claude (5262 chars)
+[2025-04-02 05:33:46] 📄 Saved raw Claude response to seo_outputs\response_16809.txt
+[2025-04-02 05:33:46] Extracted 10 non-empty fields
+[2025-04-02 05:33:46] 📁 Saved content to seo_outputs\product_16809_Devotion_EDP_for_women_-_100ml.json
+[2025-04-02 05:33:46] Found existing image ID: 16811
+[2025-04-02 05:33:47] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:33:47] Updating product 16809 with WooCommerce API
+[2025-04-02 05:33:50] ✅ Updated product 16809 successfully
+[2025-04-02 05:33:50]   - Updated with 6 tags
+[2025-04-02 05:33:50]   - Updated with 19 meta fields
+[2025-04-02 05:33:50]   - Updated with 1 images
+[2025-04-02 05:33:50] Generated permalink slug from primary keyword: devotion-eau-de-parfum
+[2025-04-02 05:33:54] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:33:54]   - Saved API response to seo_outputs\success_16809.json
+[2025-04-02 05:33:56] 🔄 [141/149] Processing: Amber Kiso EDP - 100ml (ID: 17144) - 94.6% complete
+[2025-04-02 05:33:56] 📤 Sending request to Claude for Amber Kiso EDP - 100ml
+[2025-04-02 05:34:22] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:34:22] 📥 Received response from Claude (5934 chars)
+[2025-04-02 05:34:22] 📄 Saved raw Claude response to seo_outputs\response_17144.txt
+[2025-04-02 05:34:22] Extracted 10 non-empty fields
+[2025-04-02 05:34:22] 📁 Saved content to seo_outputs\product_17144_Amber_Kiso_EDP_-_100ml.json
+[2025-04-02 05:34:23] Found existing image ID: 17146
+[2025-04-02 05:34:24] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:34:24] Updating product 17144 with WooCommerce API
+[2025-04-02 05:34:27] ✅ Updated product 17144 successfully
+[2025-04-02 05:34:27]   - Updated with 6 tags
+[2025-04-02 05:34:27]   - Updated with 19 meta fields
+[2025-04-02 05:34:27]   - Updated with 1 images
+[2025-04-02 05:34:27] Generated permalink slug from primary keyword: amber-kiso-eau-de-parfum
+[2025-04-02 05:34:30] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:34:30]   - Saved API response to seo_outputs\success_17144.json
+[2025-04-02 05:34:32] 🔄 [142/149] Processing: Le Parfum Intense Eau De Parfum - 90ml (ID: 17171) - 95.3% complete
+[2025-04-02 05:34:32] 📤 Sending request to Claude for Le Parfum Intense Eau De Parfum - 90ml
+[2025-04-02 05:34:55] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:34:55] 📥 Received response from Claude (4593 chars)
+[2025-04-02 05:34:55] 📄 Saved raw Claude response to seo_outputs\response_17171.txt
+[2025-04-02 05:34:55] Extracted 10 non-empty fields
+[2025-04-02 05:34:55] 📁 Saved content to seo_outputs\product_17171_Le_Parfum_Intense_Eau_De_Parfum_-_90ml.json
+[2025-04-02 05:34:56] Found existing image ID: 17173
+[2025-04-02 05:34:57] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:34:57] Updating product 17171 with WooCommerce API
+[2025-04-02 05:35:00] ✅ Updated product 17171 successfully
+[2025-04-02 05:35:00]   - Updated with 6 tags
+[2025-04-02 05:35:00]   - Updated with 19 meta fields
+[2025-04-02 05:35:00]   - Updated with 1 images
+[2025-04-02 05:35:00] Generated permalink slug from primary keyword: elie-saab-le-parfum-intense
+[2025-04-02 05:35:03] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:35:03]   - Saved API response to seo_outputs\success_17171.json
+[2025-04-02 05:35:05] 🔄 [143/149] Processing: Girl Of Now EDP - 90ml (ID: 17175) - 96.0% complete
+[2025-04-02 05:35:05] 📤 Sending request to Claude for Girl Of Now EDP - 90ml
+[2025-04-02 05:35:31] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:35:31] 📥 Received response from Claude (4958 chars)
+[2025-04-02 05:35:31] 📄 Saved raw Claude response to seo_outputs\response_17175.txt
+[2025-04-02 05:35:31] Extracted 10 non-empty fields
+[2025-04-02 05:35:31] 📁 Saved content to seo_outputs\product_17175_Girl_Of_Now_EDP_-_90ml.json
+[2025-04-02 05:35:32] Found existing image ID: 17177
+[2025-04-02 05:35:32] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:35:32] Updating product 17175 with WooCommerce API
+[2025-04-02 05:35:36] ✅ Updated product 17175 successfully
+[2025-04-02 05:35:36]   - Updated with 6 tags
+[2025-04-02 05:35:36]   - Updated with 19 meta fields
+[2025-04-02 05:35:36]   - Updated with 1 images
+[2025-04-02 05:35:36] Generated permalink slug from primary keyword: girl-of-now-edp
+[2025-04-02 05:35:39] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:35:39]   - Saved API response to seo_outputs\success_17175.json
+[2025-04-02 05:35:41] 🔄 [144/149] Processing: Le Parfum Royal Eau De Parfum - 90ml (ID: 17179) - 96.6% complete
+[2025-04-02 05:35:41] 📤 Sending request to Claude for Le Parfum Royal Eau De Parfum - 90ml
+[2025-04-02 05:36:07] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:36:07] 📥 Received response from Claude (5091 chars)
+[2025-04-02 05:36:07] 📄 Saved raw Claude response to seo_outputs\response_17179.txt
+[2025-04-02 05:36:07] Extracted 10 non-empty fields
+[2025-04-02 05:36:07] 📁 Saved content to seo_outputs\product_17179_Le_Parfum_Royal_Eau_De_Parfum_-_90ml.json
+[2025-04-02 05:36:08] Found existing image ID: 17180
+[2025-04-02 05:36:09] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:36:09] Updating product 17179 with WooCommerce API
+[2025-04-02 05:36:12] ✅ Updated product 17179 successfully
+[2025-04-02 05:36:12]   - Updated with 6 tags
+[2025-04-02 05:36:12]   - Updated with 19 meta fields
+[2025-04-02 05:36:12]   - Updated with 1 images
+[2025-04-02 05:36:12] Generated permalink slug from primary keyword: elie-saab-le-parfum-royal
+[2025-04-02 05:36:15] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:36:15]   - Saved API response to seo_outputs\success_17179.json
+[2025-04-02 05:36:17] 🔄 [145/149] Processing: Le Parfum In White Eau De Parfum - 90ml (ID: 17182) - 97.3% complete
+[2025-04-02 05:36:17] 📤 Sending request to Claude for Le Parfum In White Eau De Parfum - 90ml
+[2025-04-02 05:36:45] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:36:45] 📥 Received response from Claude (5438 chars)
+[2025-04-02 05:36:45] 📄 Saved raw Claude response to seo_outputs\response_17182.txt
+[2025-04-02 05:36:45] Extracted 10 non-empty fields
+[2025-04-02 05:36:45] 📁 Saved content to seo_outputs\product_17182_Le_Parfum_In_White_Eau_De_Parfum_-_90ml.json
+[2025-04-02 05:36:45] Found existing image ID: 17183
+[2025-04-02 05:36:47] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:36:47] Updating product 17182 with WooCommerce API
+[2025-04-02 05:36:50] ✅ Updated product 17182 successfully
+[2025-04-02 05:36:50]   - Updated with 6 tags
+[2025-04-02 05:36:50]   - Updated with 19 meta fields
+[2025-04-02 05:36:50]   - Updated with 1 images
+[2025-04-02 05:36:50] Generated permalink slug from primary keyword: elie-saab-le-parfum-in-white
+[2025-04-02 05:36:53] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:36:53]   - Saved API response to seo_outputs\success_17182.json
+[2025-04-02 05:36:55] 🔄 [146/149] Processing: Girl Of Now Shine EDP - 90ml (ID: 17198) - 98.0% complete
+[2025-04-02 05:36:55] 📤 Sending request to Claude for Girl Of Now Shine EDP - 90ml
+[2025-04-02 05:37:20] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:37:20] 📥 Received response from Claude (5169 chars)
+[2025-04-02 05:37:20] 📄 Saved raw Claude response to seo_outputs\response_17198.txt
+[2025-04-02 05:37:20] Extracted 10 non-empty fields
+[2025-04-02 05:37:20] 📁 Saved content to seo_outputs\product_17198_Girl_Of_Now_Shine_EDP_-_90ml.json
+[2025-04-02 05:37:21] Found existing image ID: 17199
+[2025-04-02 05:37:21] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:37:21] Updating product 17198 with WooCommerce API
+[2025-04-02 05:37:25] ✅ Updated product 17198 successfully
+[2025-04-02 05:37:25]   - Updated with 6 tags
+[2025-04-02 05:37:25]   - Updated with 19 meta fields
+[2025-04-02 05:37:25]   - Updated with 1 images
+[2025-04-02 05:37:25] Generated permalink slug from primary keyword: girl-of-now-shine-edp
+[2025-04-02 05:37:28] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:37:28]   - Saved API response to seo_outputs\success_17198.json
+[2025-04-02 05:37:30] 🔄 [147/149] Processing: Girl Of Now Lovely EDP - 90ml (ID: 17202) - 98.7% complete
+[2025-04-02 05:37:30] 📤 Sending request to Claude for Girl Of Now Lovely EDP - 90ml
+[2025-04-02 05:37:55] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:37:55] 📥 Received response from Claude (5010 chars)
+[2025-04-02 05:37:55] 📄 Saved raw Claude response to seo_outputs\response_17202.txt
+[2025-04-02 05:37:55] Extracted 10 non-empty fields
+[2025-04-02 05:37:55] 📁 Saved content to seo_outputs\product_17202_Girl_Of_Now_Lovely_EDP_-_90ml.json
+[2025-04-02 05:37:55] Found existing image ID: 17203
+[2025-04-02 05:37:56] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:37:56] Updating product 17202 with WooCommerce API
+[2025-04-02 05:38:00] ✅ Updated product 17202 successfully
+[2025-04-02 05:38:00]   - Updated with 6 tags
+[2025-04-02 05:38:00]   - Updated with 19 meta fields
+[2025-04-02 05:38:00]   - Updated with 1 images
+[2025-04-02 05:38:00] Generated permalink slug from primary keyword: girl-of-now-lovely-edp
+[2025-04-02 05:38:03] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:38:03]   - Saved API response to seo_outputs\success_17202.json
+[2025-04-02 05:38:05] 🔄 [148/149] Processing: Girl Of Now Forever EDP - 90ml (ID: 17210) - 99.3% complete
+[2025-04-02 05:38:05] 📤 Sending request to Claude for Girl Of Now Forever EDP - 90ml
+[2025-04-02 05:38:29] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:38:29] 📥 Received response from Claude (4910 chars)
+[2025-04-02 05:38:29] 📄 Saved raw Claude response to seo_outputs\response_17210.txt
+[2025-04-02 05:38:29] Extracted 10 non-empty fields
+[2025-04-02 05:38:29] 📁 Saved content to seo_outputs\product_17210_Girl_Of_Now_Forever_EDP_-_90ml.json
+[2025-04-02 05:38:30] Found existing image ID: 17211
+[2025-04-02 05:38:31] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:38:31] Updating product 17210 with WooCommerce API
+[2025-04-02 05:38:34] ✅ Updated product 17210 successfully
+[2025-04-02 05:38:34]   - Updated with 6 tags
+[2025-04-02 05:38:34]   - Updated with 19 meta fields
+[2025-04-02 05:38:34]   - Updated with 1 images
+[2025-04-02 05:38:34] Generated permalink slug from primary keyword: girl-of-now-forever-edp
+[2025-04-02 05:38:37] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:38:37]   - Saved API response to seo_outputs\success_17210.json
+[2025-04-02 05:38:39] 🔄 [149/149] Processing: Le Perfume Rose Couture Eau De Toilette - 100ml (ID: 17219) - 100.0% complete
+[2025-04-02 05:38:39] 📤 Sending request to Claude for Le Perfume Rose Couture Eau De Toilette - 100ml
+[2025-04-02 05:39:01] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2025-04-02 05:39:01] 📥 Received response from Claude (4783 chars)
+[2025-04-02 05:39:01] 📄 Saved raw Claude response to seo_outputs\response_17219.txt
+[2025-04-02 05:39:01] Extracted 10 non-empty fields
+[2025-04-02 05:39:01] 📁 Saved content to seo_outputs\product_17219_Le_Perfume_Rose_Couture_Eau_De_Toilette_-_100ml.json
+[2025-04-02 05:39:04] Found existing image ID: 17220
+[2025-04-02 05:39:05] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-04-02 05:39:05] Updating product 17219 with WooCommerce API
+[2025-04-02 05:39:09] ✅ Updated product 17219 successfully
+[2025-04-02 05:39:09]   - Updated with 6 tags
+[2025-04-02 05:39:09]   - Updated with 19 meta fields
+[2025-04-02 05:39:09]   - Updated with 1 images
+[2025-04-02 05:39:09] Generated permalink slug from primary keyword: rose-couture-eau-de-toilette
+[2025-04-02 05:39:12] ✅ Successfully updated product permalink to include focus keyword
+[2025-04-02 05:39:12]   - Saved API response to seo_outputs\success_17219.json
+[2025-04-02 05:39:14] ✅ Completed batch processing: 144 successful, 5 failed
+[2025-04-02 05:39:14] 
+==================================================
+[2025-04-02 05:39:14] 📊 SEO GENERATION SUMMARY
+[2025-04-02 05:39:14] ==================================================
+[2025-04-02 05:39:14] Start Time: 2025-04-02 04:09:21
+[2025-04-02 05:39:14] End Time:   2025-04-02 05:39:14
+[2025-04-02 05:39:14] Duration:   1:29:52.346706
+[2025-04-02 05:39:14] Products:   149 total, 144 successful, 5 failed
+[2025-04-02 05:39:14] Success Rate: 96.64%
+[2025-04-02 05:39:14] ==================================================
+[2025-04-02 05:39:14] Full report saved to: seo_outputs\summary_report_20250402_040921.json

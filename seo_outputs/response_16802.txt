@@ -1,0 +1,108 @@
+# 🔹 Product Description (HTML Format):
+
+```html
+<h2><strong>Dolce Shine EDP - 75ml</strong> - A Radiant Burst of Mediterranean Sunshine</h2>
+
+<p>Experience the captivating essence of <strong>Dolce & Gabbana Dolce Shine</strong>, a luminous floral fragrance that embodies Mediterranean beauty and joy. This <strong>75ml Eau de Parfum</strong> bottle captures the essence of a sun-drenched Italian summer, bringing warmth and brightness to your fragrance collection. ✨</p>
+
+<h3>The Essence of <strong>Dolce Shine</strong></h3>
+
+<p><strong>Dolce Shine</strong> is a vibrant and fruity-floral fragrance that radiates positivity and energy. Created as part of the beloved <a href="https://www.wikiparfum.com/dolce-gabbana">Dolce & Gabbana</a> collection, this <strong>women's fragrance</strong> offers a modern interpretation of femininity with its bright, optimistic character. Each spritz unveils a sensorial journey through sun-ripened fruits and delicate blossoms. 🌸</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="2">Product Information</th>
+  </tr>
+  <tr>
+    <td>Size</td>
+    <td>75ml</td>
+  </tr>
+  <tr>
+    <td>Gender</td>
+    <td>Women</td>
+  </tr>
+  <tr>
+    <td>Product Type</td>
+    <td>Eau de Parfum</td>
+  </tr>
+  <tr>
+    <td>Concentration</td>
+    <td>EDP</td>
+  </tr>
+  <tr>
+    <td>Brand</td>
+    <td>Dolce & Gabbana</td>
+  </tr>
+</table>
+
+<h4>A Symphony of <strong>Fruity Floral Notes</strong></h4>
+
+<p>This <a href="https://xsellpoint.com/product-category/best-sellers/">bestselling fragrance</a> unfolds in a harmonious blend of notes that capture the essence of Mediterranean sunshine:</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="2">Fragrance Notes</th>
+  </tr>
+  <tr>
+    <td>Top Notes</td>
+    <td>Juicy Mango, Bright Quince, Grapefruit</td>
+  </tr>
+  <tr>
+    <td>Heart Notes</td>
+    <td>Jasmine, Transparent Flowers</td>
+  </tr>
+  <tr>
+    <td>Base Notes</td>
+    <td>Blonde Woods, Australian Sandalwood, White Musk</td>
+  </tr>
+</table>
+
+<h3>Key Features of <strong>Dolce Shine EDP</strong></h3>
+<ul>
+  <li>🔥 Vibrant and juicy mango opening that instantly captivates</li>
+  <li>💫 Moderate longevity perfect for daytime wear</li>
+  <li>🌿 Refreshing fruity-floral character ideal for spring and summer</li>
+  <li>💎 Signature elegant bottle with golden cap representing sunshine</li>
+  <li>✨ Part of the prestigious <strong>Dolce & Gabbana</strong> fragrance collection</li>
+</ul>
+
+<h4>The Story Behind <strong>Dolce Shine</strong></h4>
+
+<p>Launched in 2020, <strong>Dolce Shine</strong> represents the joyful spirit of Italian summers. It continues the legacy of the original <a href="https://www.wikiparfum.com/dolce-gabbana-dolce">Dolce fragrance</a>, but with a brighter, more luminous character. The iconic bottle is adorned with a golden cap, symbolizing the Mediterranean sun that inspired this creation. As part of Dolce & Gabbana's celebrated fragrance line, <strong>Dolce Shine</strong> embodies the brand's commitment to capturing the essence of Italian beauty and joy.</p>
+
+<h3>Perfect For Every Occasion</h3>
+
+<p>Whether you're heading to the office, enjoying a casual weekend, or planning a <a href="https://xsellpoint.com/product-category/new-arrival/">new arrival</a> in your collection, <strong>Dolce Shine EDP</strong> adapts beautifully to any setting. Its versatile character makes it an essential addition to your fragrance wardrobe.</p>
+
+<h4>Frequently Asked Question</h4>
+
+<p><strong>How long does Dolce Shine EDP last on skin?</strong><br>
+<strong>Dolce Shine EDP</strong> offers moderate longevity of 4-6 hours on most skin types. For extended wear, apply to pulse points and layer with complementary body products from the <a href="https://xsellpoint.com/product-category/shop-by-brand/brand-international/narciso-rodriguez/">Dolce & Gabbana collection</a>. The fruity top notes will fade first, revealing a beautiful heart of jasmine and transparent flowers before settling into the warm base of blonde woods and musk.</p>
+```
+
+# 🔹 Short Description (Max 50 words):
+Experience the Mediterranean sunshine in a bottle with Dolce Shine EDP. This vibrant 75ml women's fragrance bursts with juicy mango, jasmine, and warm woods, creating a radiant, joyful scent perfect for bright spirits and sunny days.
+
+# 🔹 SEO Title (Max 60 characters):
+Dolce Shine EDP 75ml | Radiant Fruity Floral Fragrance | D&G
+
+# 🔹 Meta Description (Max 155 characters):
+Discover Dolce Shine EDP 75ml, a vibrant fruity-floral fragrance with juicy mango, jasmine, and warm woods. Experience Mediterranean sunshine in every spray. Shop now!
+
+# 🔹 Alt Text for Product Images:
+Dolce & Gabbana Dolce Shine Eau de Parfum 75ml bottle with golden cap and floral design
+
+# 🔹 Image Title:
+Dolce Shine Eau de Parfum by Dolce & Gabbana 75ml
+
+# 🔹 Image Caption:
+Capture the essence of Mediterranean sunshine with Dolce Shine EDP ✨
+
+# 🔹 Image Description:
+Elegant 75ml bottle of Dolce Shine Eau de Parfum by Dolce & Gabbana, featuring the signature floral design and radiant golden cap.
+
+# 🔹 SEO Tags (6 High-Search Keywords):
+Dolce Shine EDP, Dolce & Gabbana perfume, fruity floral fragrance, mango perfume, women's eau de parfum, summer fragrance
+
+# 🔹 Focus Keywords:
+Dolce Shine EDP, fruity floral fragrance, women's eau de parfum, Dolce & Gabbana perfume

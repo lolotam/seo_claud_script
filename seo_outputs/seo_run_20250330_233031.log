@@ -1,0 +1,18 @@
+[2025-03-30 23:30:31] Loaded 1 products from fragrance_products.xlsx
+[2025-03-30 23:30:31] 🚀 Starting Fragrance SEO Content Generator
+[2025-03-30 23:30:31] 📊 Found 1 products in Excel file
+[2025-03-30 23:30:31] 🚀 Starting SEO content generation for products 1-1 of 1
+[2025-03-30 23:30:31] 🔄 [1/1] Processing: Lalique Le Parfum Eau De Parfum - 100ml (ID: 33109)
+[2025-03-30 23:30:31] 📤 Sending request to Claude for Lalique Le Parfum Eau De Parfum - 100ml
+[2025-03-30 23:30:55] 📥 Received response from Claude (4710 chars)
+[2025-03-30 23:30:55] Warning: Could not find section '🔹 Product Description (HTML Format):' in response
+[2025-03-30 23:30:55] Warning: Could not find section '🔹 Short Description (Max 50 words):' in response
+[2025-03-30 23:30:55] Warning: Could not find section '🔹 SEO Title (Max 60 characters):' in response
+[2025-03-30 23:30:55] Warning: Could not find section '🔹 Meta Description (Max 155 characters):' in response
+[2025-03-30 23:30:55] Warning: Could not find section '🔹 Alt Text for Product Images:' in response
+[2025-03-30 23:30:55] Warning: Could not find section '🔹 SEO Tags (3 High-Search Keywords):' in response
+[2025-03-30 23:30:55] Warning: Could not find section '🔹 Focus Keywords:' in response
+[2025-03-30 23:30:55] ⚠️ Missing required fields for Lalique Le Parfum Eau De Parfum - 100ml: description, short_description, seo_title, meta_description
+[2025-03-30 23:30:55] 📄 Saved full response to seo_outputs\error_33109_Lalique_Le_Parfum_Eau_De_Parfum_-_100ml.txt
+[2025-03-30 23:30:55] ✅ Completed batch processing: 0 successful, 1 failed
+[2025-03-30 23:30:55] 🏁 Process completed: 0 products updated successfully, 1 failed
